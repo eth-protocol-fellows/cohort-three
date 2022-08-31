@@ -92,4 +92,4 @@ The program is funded by the Ethereum Foundation and run by the Protocol Support
 
 [Apply for the third cohort of the Ethereum Protocol Fellowship.](https://forms.gle/8FfKPz7UB8u1rafu8)
 
-![Fellowship of the Protocol](/epf-hero.jpg)
+![Fellowship of the Protocol](/images/epf-hero.jpg)
