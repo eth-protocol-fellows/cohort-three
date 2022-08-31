@@ -10,7 +10,7 @@ The *Ethereum Protocol Fellowship (formerly Core Developer Apprentice Program)* 
 
 *This program will not teach or focus in any way on smart contract development or creating blockchain applications.*
 
-Over the course of the 5 month program, EPF participants will receive project support and mentorship as well as a monthly stipend while working on a project of their choosing. Participants can expect
+Over the course of the 4 month program, EPF participants will receive project support and mentorship as well as a monthly stipend while working on a project of their choosing. Participants can expect
 - a weekly call with participants
 - selected mentorship with applicable devs
 - monthly demo days
@@ -54,9 +54,9 @@ We will be prioritizing candidates which have something that we consider a stron
 
 Applications will open at the beginning of September and remain open for two weeks, closing on September 15th.
 
-The program will formally run for 5 months, from October to February. This gives us the opportunity to organize physical meetups at Ethereum conferences like [Devcon](https://devcon.org) and [EthDenver](https://www.ethdenver.com).
+The program will formally run for 4 months, from October through January. This gives us the opportunity to organize physical meetups at Ethereum conferences like [Devcon](https://devcon.org) and [EthDenver](https://www.ethdenver.com).
 
-Timeline of the 5 month program will follow these stages:
+Timeline of the 4 month program will follow these stages:
 
 ### Phase One
 - Initial meeting with individual participants, interviewing and providing program orientation.
