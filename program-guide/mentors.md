@@ -24,7 +24,7 @@ In this EPF cohort, participants have an opportunity to be mentored by core deve
 
 ## How to get mentorship
 
-Mentors from above list are open to help you during the program. They can propose project ideas, answer your questions and guide you if you get stuck at some issue. Keep in mind that each mentor has different capacaity since they work on the protocol full time. 
+Mentors from above list are open to help you during the program. They can propose project ideas, answer your questions, and guide you if you get stuck. Keep in mind that each mentor has different capacity since they work on the protocol full time. 
 
 Mentors are primarily available in R&D Discord channel and some will occasionally attend EPF standup calls. If you didn't get your invite to the server or cannot reach a mentor, reach out to cohort organizers. 
 
