@@ -52,7 +52,7 @@ We will be prioritizing candidates which have something that we consider a stron
 
 ## How it will work
 
-Applications will open at the beginning of September and remain open for two weeks, closing on September 15th.
+Applications will open at the beginning of September and remain open for two weeks, closing on September 16th.
 
 The program will formally run for 4 months, from October through January. This gives us the opportunity to organize physical meetups at Ethereum conferences like [Devcon](https://devcon.org) and [EthDenver](https://www.ethdenver.com).
 
@@ -75,7 +75,7 @@ Timeline of the 4 month program will follow these stages:
 - Project wrap up and looking forward to further contributing to the Ethereum ecosystem
 - Project showcase to group and mentors
 
-During this entire process, participants will have access to mentors and the core developer community for things like answering questions and getting feedback on ideas. Participants should not expect the core developers to actively guide them.
+During the entire process, participants will have access to [mentors](/program-guide/mentors.md) and the core developer community for things like answering questions and getting feedback on ideas. Participants should not expect the core developers to actively guide them.
 
 A common weekly "stand up" meeting will be held for all teams during which they will go over 
 1. What they've been working on
@@ -88,7 +88,7 @@ Our goal is to provide an opportunity for you to get paid to learn. We will work
 
 ## Who is running the program?
 
-The program is funded by the Ethereum Foundation and run by the Protocol Support Team at the Ethereum Foundation. It is important to note that the [Ethereum Foundation](https://ethereum.foundation/philosophy/) does not own, operate, or manage Ethereum but exists to support the protocol and the Ethereum community through funding and research.
+The program is funded by the Ethereum Foundation and run by the Protocol Support Team. It is important to note that the [Ethereum Foundation](https://ethereum.foundation/philosophy/) does not own, operate, or manage Ethereum but exists to support the protocol and the Ethereum community through funding and research.
 
 [Apply for the third cohort of the Ethereum Protocol Fellowship.](https://forms.gle/8FfKPz7UB8u1rafu8)
 
