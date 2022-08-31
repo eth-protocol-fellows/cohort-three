@@ -1,0 +1,16 @@
+# Program guide
+
+In this folder, you can find organizational and other useful materials to get you started in EPF. 
+
+- [Program details](/program-guide/program-structure.md).
+- [FAQ](/program-guide/faq.md)
+- [Guide for contributing](/program-guide/contributing.md)
+
+## Technical resources
+
+Research and development around core Ethereum protocol is very rich. Many topics you can deep dive to, study and build for months or years. Here are some useful overviews with sources to learn more about various Ethereum areas: 
+
+- [Suggested reading](./reading.md) list with high level overview of areas in Ethereum protocol
+- [EthR&D Discord Guidebook](https://github.com/tvanepps/EthereumDiscordGuidebook) 
+   - Guide helpful with many sources for orientation not just in R&D Discord but whole Ethereum R&D
+   - If you find anything useful which would fit in there, feel free to contribute by expanding it
