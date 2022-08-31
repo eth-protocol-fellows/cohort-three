@@ -2,7 +2,7 @@
 
 Here are some starting points for learning about the Ethereum protocol.
 
-> Please feel free to open a pull request expanding this list.
+> Please feel free to open a pull request to expand this list.
 
 ### Ethereum Basics 
 - Conceptual Overview: https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture

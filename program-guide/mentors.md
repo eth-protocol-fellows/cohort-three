@@ -24,11 +24,11 @@ In this EPF cohort, participants have an opportunity to be mentored by core deve
 
 ## How to get mentorship
 
-Mentors from above list are open to help you during the program. They can propose project ideas, answer your questions and guide you if you get stuck at some issue. Keep in mind that each mentor has different capacaity since all of them are working on full time on the protocol. 
+Mentors from above list are open to help you during the program. They can propose project ideas, answer your questions and guide you if you get stuck at some issue. Keep in mind that each mentor has different capacaity since they work on the protocol full time. 
 
-Mentors are mainly available in R&D Discord channel and some will attend EPF standup calls. If you didn't get your invite to the server or cannot reach some mentor, reach out to cohort organizers. 
+Mentors are primarily available in R&D Discord channel and some will occasionally attend EPF standup calls. If you didn't get your invite to the server or cannot reach a mentor, reach out to cohort organizers. 
 
-Each mentor is covering certain area of the protocol and representing his development team. If you choose a project they proposed or your project is within their area, ask them if you can set up a project group for easiest communication. Otherwise just ask for the advice in Discord channel. 
+Each mentor is covering a certain area of the protocol and representing thier development team. If you choose a project they proposed or your project is within their area, suggest setting up a project group for easier communication. Otherwise, ask for the advice in Discord channel. 
 
-Make sure to do your research before you ask a question, e.g. making sure something like this haven't been discussed before in the channel or answered at stackexchange. If the questions targets a specific mentor, feel free to tag him. Your question should be technical and topical, avoid general and unnecceray messages. 
+Make sure to do your own research before you ask a question, e.g. making sure something like this hasn't been discussed previously in the channel or answered at stackexchange. If the questions targets a specific mentor, feel free to tag them. Your question should be technical and topical. Avoid general and unnecceray messages. 
 

@@ -75,7 +75,7 @@ Timeline of the 4 month program will follow these stages:
 - Project wrap up and looking forward to further contributing to the Ethereum ecosystem
 - Project showcase to group and mentors
 
-During the entire process, participants will have access to [mentors](/program-guide/mentors.md) and the core developer community for things like answering questions and getting feedback on ideas. Participants should not expect the core developers to actively guide them.
+During the entire process, participants will have access to [mentors](./mentors.md) and the core developer community for things like answering questions and getting feedback on ideas. Participants should not expect the core developers to actively guide them.
 
 A common weekly "stand up" meeting will be held for all teams during which they will go over 
 1. What they've been working on

@@ -12,5 +12,5 @@ Research and development around core Ethereum protocol is very rich. Many topics
 
 - [Suggested reading](./reading.md) list with high level overview of areas in Ethereum protocol
 - [EthR&D Discord Guidebook](https://github.com/tvanepps/EthereumDiscordGuidebook) 
-   - Guide helpful with many sources for orientation not just in R&D Discord but whole Ethereum R&D
-   - If you find anything useful which would fit in there, feel free to contribute by expanding it
+   - This guide contains many sources for orientation, not only for the R&D Discord but all of Ethereum R&D.
+   - If you find anything useful which would fit in there, feel free to contribute by expanding it.
