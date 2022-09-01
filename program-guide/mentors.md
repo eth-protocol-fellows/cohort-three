@@ -12,9 +12,9 @@ In this EPF cohort, participants have an opportunity to be mentored by core deve
 | Fredrik               | EF Security Research       | General Security                                                     |
 | Matt                  | Geth                       | EVM, DAS, RPC, PBS                                                   |
 | Marius van der Wijden | Geth                       | Execution Layer, EVM, Crypto, Merge                                  |
-| Hsiao-Wei Wang        | Consensus R&D              | Consensus layer                                                      |
+| Hsiao-Wei Wang        | EF Consensus Research      | Consensus Layer                                                      |
 | Piper Merriam         | Portal Network             | Execution Layer, EVM, Networking, Client Design                      |
-| Alex Stokes           | EF Consensus research      | consensus layer, MEV, (consensus layer) light clients                |
+| Alex Stokes           | EF Consensus Research      | Consensus layer, MEV, (consensus layer) light clients                |
 | Barnabé Monnot        | EF Robust Incentives Group | Cryptoeconomics, economic modelling, data science                    |
 | Felix (fjl)           | Geth                       | Execution layer, p2p networking, client testing                      |
 | Kev                   | Independent                | Cryptography, Verkle Trees, Statless                                 |
