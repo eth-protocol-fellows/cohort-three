@@ -2,7 +2,7 @@
 
 This repository serves for organizing the third cohort of Ethereum Fellowship Program (EPF). 
 
-Learn more about EPF and this cohort in the announcement blog post and [Program details](./program-guide/program-structure.md).
+Learn more about EPF and this cohort in the announcement blog post and [Program details](./program-guide/program-details.md).
 
 ## Getting started
 
