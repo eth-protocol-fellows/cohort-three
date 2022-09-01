@@ -19,10 +19,12 @@ In this EPF cohort, participants have an opportunity to be mentored by core deve
 | Felix (fjl)           | Geth                       | Execution layer, p2p networking, client testing                      |
 | Kev                   | Independent                | Cryptography, Verkle Trees, Statless                                 |
 | Łukasz Rozmej         | Nethermind                 | Execution layer, P2P, EVM, JSON RPC                                  |
-
+| Cayman Nava           | ChainSafe Lodestar         | Consensus layer, browser compatability                               |
 
 
 ## How to get mentorship
+
+In general, program participants are expected to take personal responsibility for their work. Working as a core developer requires you to be able to do self-directed work, and this program is no different. You should speak up and ask when you have questions, but you should also take responsibility for asking well informed questions.
 
 Mentors from above list are open to help you during the program. They can propose project ideas, answer your questions, and guide you if you get stuck. Keep in mind that each mentor has different capacity since they work on the protocol full time. 
 

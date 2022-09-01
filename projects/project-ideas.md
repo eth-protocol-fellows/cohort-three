@@ -1,6 +1,13 @@
 # Poposed projects
 
-Here is a list of projects proposed by mentors. If you would like to know more about specific project or choose to work on it, contact corresponding mentor. 
+Here is a list of projects proposed by mentors or . If you would like to know more about specific project or choose to work on it, contact corresponding mentor. 
+
+### Previous cohorts
+
+In previous cohorts, you can find many up to date ideas which haven't been solved yet. 
+
+- [Project ideas in the first cohort](https://github.com/ethereum-cdap/cohort-one/issues?q=is%3Aissue+Project+idea)
+- [Project ideas in the second cohort](https://github.com/ethereum-cdap/cohort-zero/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 
 ### prysmctl
 
@@ -47,3 +54,17 @@ Work on p2p protocol tests for [hive](https://github.com/ethereum/hive).
 - Verkle Tries prototyping
 - Experimental EIP's prototyping
 - Protocol to synchronize traces to replace WarpSync in OE
+
+### Browser tooling
+
+By Cayman Nava
+
+Simple webapps that may become useful, eg: https://enr-viewer.com/
+
+### Debug tools
+
+Tooling useful for debugging CL and EL. 
+
+- [Compiled list by Paritosh](https://notes.ethereum.org/@parithosh/HJQDsoRr5)
+- Progress tracking, discussion in the [issue](https://github.com/ethereum/pm/issues/520)
+
