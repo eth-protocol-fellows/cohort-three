@@ -9,7 +9,7 @@ Here are some frequently asked questions about EPF program.
 - **What projects can I work on?**
     - Participants have full freedom in deciding what they want to work on. You are free to propose a project but you can also get inspiration from mentors' project ideas. The project you choose has to be related to the core protocol and touch some area of current Ethereum roadmap. 
 - **I don't know much about ______________.  Can I still apply?**
-    - Yes. Applicants are expected to have gaps in their knowledge.  You should still read through the [program details](/program-structure.md) to get a sense for what type of prior knowledge you should be working towards to be successful in the program.
+    - Yes. Applicants are expected to have gaps in their knowledge.  You should still read through the [program details](./program-details.md) to get a sense for what type of prior knowledge you should be working towards to be successful in the program.
 - **When does it start and is the duration?**
     - Program will start in beginning of October and continue for 4 months. 
 - **What happens after the 4 months is complete?**
