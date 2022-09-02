@@ -20,6 +20,7 @@ In this EPF cohort, participants have an opportunity to be mentored by core deve
 | Kev                   | Independent                | Cryptography, Verkle Trees, Statless                                 |
 | Łukasz Rozmej         | Nethermind                 | Execution layer, P2P, EVM, JSON RPC                                  |
 | Cayman Nava           | ChainSafe Lodestar         | Consensus layer, browser compatability                               |
+| Paul Harris           | Teku                       | Consensus layer                                                      |
 
 
 ## How to get mentorship
