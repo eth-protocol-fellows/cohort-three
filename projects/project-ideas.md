@@ -2,6 +2,18 @@
 
 Here is a list of projects proposed by mentors or . If you would like to know more about specific project or choose to work on it, contact corresponding mentor. 
 
+- [Previous cohorts](#previous-cohorts)
+- [prysmctl](#prysmctl)
+- [Security system based on machine learning](#security-system-based-on-machine-learning)
+- [CL light client](#cl-light-client)
+- [CL + MEV software](#cl--mev-software)
+- [Cryptoeconomic models](#cryptoeconomic-models)
+- [P2P protocol tests](#p2p-protocol-tests)
+- [By Łukasz Rozmej](#by-lukasz-rozmej)
+- [Browser tooling](#browser-tooling)
+- [Debug tools](#debug-tools)
+- [Improving hive for End-to-End Testing](#improving-hive-for-end-to-end-testing)
+
 ### Previous cohorts
 
 In previous cohorts, you can find many up to date ideas which haven't been solved yet. 
