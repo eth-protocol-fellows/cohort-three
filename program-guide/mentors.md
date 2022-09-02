@@ -21,6 +21,7 @@ In this EPF cohort, participants have an opportunity to be mentored by core deve
 | Łukasz Rozmej         | Nethermind                 | Execution layer, P2P, EVM, JSON RPC                                  |
 | Cayman Nava           | ChainSafe Lodestar         | Consensus layer, browser compatability                               |
 | Paul Harris           | Teku                       | Consensus layer                                                      |
+| Mario Vega            | EF Testing team            | Execution Clients Testing, End-to-end tests, State Tests             |
 
 
 ## How to get mentorship

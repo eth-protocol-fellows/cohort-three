@@ -68,3 +68,8 @@ Tooling useful for debugging CL and EL.
 - [Compiled list by Paritosh](https://notes.ethereum.org/@parithosh/HJQDsoRr5)
 - Progress tracking, discussion in the [issue](https://github.com/ethereum/pm/issues/520)
 
+### Improving hive for End-to-End Testing
+
+Proposed by Mario Vega
+
+[Hive](https://github.com/ethereum/hive) can evolve into more sophisticated tool for e2e testing which allows to run the Consensus and Execution clients as they would be run by the end users. 
