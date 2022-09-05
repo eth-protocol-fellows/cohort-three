@@ -8,7 +8,7 @@ In this EPF cohort, participants have an opportunity to be mentored by core deve
 | --------------------- | -------------------------- | -------------------------------------------------------------------- |
 | Paweł Bylica          | Ipsilon                    | EVM                                                                  |
 | Dankrad Feist         | EF Consensus Research      | Cryptography, Data Availability Sampling, Proof of Custody, Sharding |
-| Kasey                 | Prysm                      | Consensus Layer implementation, database and optimization            |
+| Kasey                 | Prysmatic labs             | Consensus Layer implementation, database and optimization            |
 | Fredrik               | EF Security Research       | General Security                                                     |
 | Matt                  | Geth                       | EVM, DAS, RPC, PBS                                                   |
 | Marius van der Wijden | Geth                       | Execution Layer, EVM, Crypto, Merge                                  |
@@ -22,6 +22,8 @@ In this EPF cohort, participants have an opportunity to be mentored by core deve
 | Cayman Nava           | ChainSafe Lodestar         | Consensus layer, browser compatability                               |
 | Paul Harris           | Teku                       | Consensus layer                                                      |
 | Mario Vega            | EF Testing team            | Execution Clients Testing, End-to-end tests, State Tests             |
+| Potuz                 | Prysmatic labs             | Consensus Layer, Forkchoice, Cryptography (hashing)                  |
+
 
 
 ## How to get mentorship
