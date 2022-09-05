@@ -13,6 +13,7 @@ Here is a list of projects proposed by mentors or . If you would like to know mo
 - [Browser tooling](#browser-tooling)
 - [Debug tools](#debug-tools)
 - [Improving hive for End-to-End Testing](#improving-hive-for-end-to-end-testing)
+- [By Potuz](#by-potuz)
 
 ### Previous cohorts
 
@@ -85,3 +86,12 @@ Tooling useful for debugging CL and EL.
 Proposed by Mario Vega
 
 [Hive](https://github.com/ethereum/hive) can evolve into more sophisticated tool for e2e testing which allows to run the Consensus and Execution clients as they would be run by the end users. 
+
+### By Potuz
+Projects may require different protocol knowledge entry level and may end up
+working with different members of the prysmaticlabs team. 
+- Forkchoice fuzzer: Test different attack scenarios for our consensus algorithm. 
+- Continuous benchmarking: Set meaningful realistic benchmarks and integrate them in CI
+- Beacon API compliant validator client: Long term project of rewriting the validator client code to be compatible with the Beacon API instead of prysmaticlabs' internal API. 
+- Type consistency between forkchoice and the beacon-chain package. 
+
