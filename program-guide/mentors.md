@@ -23,6 +23,8 @@ In this EPF cohort, participants have an opportunity to be mentored by core deve
 | Paul Harris           | Teku                       | Consensus layer                                                      |
 | Mario Vega            | EF Testing team            | Execution Clients Testing, End-to-end tests, State Tests             |
 | Potuz                 | Prysmatic labs             | Consensus Layer, Forkchoice, Cryptography (hashing)                  |
+| Tomasz K. Stanczak    | Nethermind                 | Protocol Engineering, MEV, EVM                                       |
+
 
 
 
