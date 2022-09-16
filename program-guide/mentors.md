@@ -25,6 +25,8 @@ In this EPF cohort, participants have an opportunity to be mentored by core deve
 | Potuz                 | Prysmatic labs             | Consensus Layer, Forkchoice, Cryptography (hashing)                  |
 | Tomasz K. Stanczak    | Nethermind                 | Protocol Engineering, MEV, EVM                                       |
 | Mikhail Kalinin       | TXRX                       | Merge, Engine API, Consensus Layer, Optimistic Sync, In-protocol PBS |
+| Guillaume Ballet      | Geth                       | Verkle Trees                                                         |
+
 
 ## How to get mentorship
 
