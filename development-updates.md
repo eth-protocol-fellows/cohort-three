@@ -8,7 +8,8 @@
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
   - [kevinbogner](#kevinbogner)
-   - [Update #1](#kevinbogner-update-1)
+    - [Update #1](#kevinbogner-update-1)
+    
   - [Mario](#mario)
     - [Mario: Update 1](#mario-update-1)
 
