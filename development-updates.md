@@ -7,6 +7,9 @@
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
+  - [kevinbogner](#kevinbogner)
+    - [Update #1](#kevinbogner-update-1)
+    
   - [Mario](#mario)
     - [Mario: Update 1](#mario-update-1)
 
@@ -19,6 +22,14 @@ your development updates in this document.
 - Create a new H2 heading section with your name.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
+
+## kevinbogner
+
+Development updates from [`kevinbogner`](https://github.com/kevinbogner)
+
+### kevinbogner: Update 1
+
+[Update #1](./notes/kevinbogner/update-1.md)
 
 ## Mario
 
