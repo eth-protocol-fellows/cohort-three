@@ -29,7 +29,7 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 
 ### kevinbogner: Update 1
 
-[Update #1](./notes/kevinbogner/update-1.md)
+[Update #1](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/HkeQ_Qnfi)
 
 ## Mario
 
