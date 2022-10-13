@@ -22,6 +22,10 @@ This is Somesh. Seasoned backend and Solidity developer. Researching cryptograph
 
 
 ### Rough plan as of 13/10/2022
-- Understand the eip
+- Understand the eip and get a good grasp of mathematics by 16/10/22
+    - Polynomial commitments
+    - KZG Commitments
+    - BLS standard
+    - KZG proofs
 - Connect with By Łukasz Rozmej regarding DankSharding prototyping
 - Minimal prototype of dank-sharding
