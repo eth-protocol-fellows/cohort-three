@@ -7,9 +7,10 @@
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
+  - [ignacio](#ignacio)
+    - [Update #1](#ignacio-update-1)
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
-    
   - [Mario](#mario)
     - [Mario: Update 1](#mario-update-1)
 
@@ -24,6 +25,12 @@ your development updates in this document.
 - Create a new H2 heading section with your name.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
+
+## ignacio
+Development updates from [`jsign`](https://github.com/jsign)
+
+### Update #1
+[Link to Update #1](https://hackmd.io/@jsign/cohort-tree-update-1)
 
 ## kevinbogner
 
