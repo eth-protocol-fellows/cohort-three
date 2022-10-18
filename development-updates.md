@@ -13,6 +13,8 @@
   - [Mario](#mario)
     - [Mario: Update 1](#mario-update-1)
 
+  - [Vid Kersic](#vid-kersic)
+    - [Vid Kersic: Update 1](#vid-kersic-update-1) 
 
 ## Contributing
 
@@ -40,3 +42,11 @@ Development updates from [`Mario Havel`](https://github.com/taxmeifyoucan/)
 > Research for estimating 
 
 [Week 1](https://notes.ethereum.org/@MarioHavel/merge-ttd)
+
+## Vid Kersic
+
+Development updates from [`Vid Kersic`](https://github.com/vid201/)
+
+### Vid Kersic: Update 1
+
+[Update 1](https://hackmd.io/@Vid201/epf-the-third-cohort-update-1) - **[17/10/2022]**
