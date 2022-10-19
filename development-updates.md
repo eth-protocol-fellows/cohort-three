@@ -11,6 +11,7 @@
     - [Update #1](#ignacio-update-1)
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
+    - [Update #2](#kevinbogner-update-2)
   - [Mario](#mario)
     - [Mario: Update 1](#mario-update-1)
 
@@ -39,6 +40,10 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 ### kevinbogner: Update 1
 
 [Update #1](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/HkeQ_Qnfi)
+
+### kevinbogner: Update 2
+
+[Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
 
 ## Mario
 
