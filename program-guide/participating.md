@@ -27,6 +27,7 @@ You should:
 - Post your first update within the first week of starting into the program, write about your initial research. 
 - Post your update somewhere public. Using the main [`development-updates.md` document](/development-updates.md) is fine. An external blog, hackmd or forum post are also great.
 - *if* you post your update somewhere external, you should provide a URL referencing your development update in the [`development-updates.md` document](/development-updates.md).
+- Share your development update to current thread in R&D Discord #protocol-fellowship channel 
 
 
 ### Using `/projects/<project-name>.md`
