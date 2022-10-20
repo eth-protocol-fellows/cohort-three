@@ -7,6 +7,8 @@
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
+  - [edgee](#edgee)
+    - [Update #1](edgee-update-1)
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
   - [kevinbogner](#kevinbogner)
@@ -27,11 +29,18 @@ your development updates in this document.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
 
+## edgee
+Development updates from [`edgee`](https://github.com/EagleEdge)
+
+### edgee: Update 1
+
+[Update #1](https://hackmd.io/@EagleEdge/BJ-CVQJ4j)
+
 ## ignacio
 Development updates from [`jsign`](https://github.com/jsign)
 
 ### Update #1
-[Link to Update #1](https://hackmd.io/@jsign/cohort-tree-update-1)
+[Link to Update #1](https://hackmd.io/@jsign/cohort-tree-update-1) -- **18/10/2022**
 
 ## kevinbogner
 
