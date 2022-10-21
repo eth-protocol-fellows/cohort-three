@@ -7,6 +7,8 @@
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
+  - [Anthony Madia](#anthony-madia)
+    - [Update #1](#anthony-madia-update)
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
   - [kevinbogner](#kevinbogner)
@@ -26,6 +28,12 @@ your development updates in this document.
 - Create a new H2 heading section with your name.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
+
+## Anthony Madia
+Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
+
+### Update 1
+[Link to Update 1](https://hackmd.io/nYbSykDpQy20n1JGo30X3Q?view)
 
 ## ignacio
 Development updates from [`jsign`](https://github.com/jsign)
