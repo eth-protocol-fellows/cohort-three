@@ -1,4 +1,4 @@
-# Poposed projects
+# Proposed projects
 
 Here is a list of projects proposed by mentors or . If you would like to know more about specific project or choose to work on it, contact corresponding mentor. 
 
