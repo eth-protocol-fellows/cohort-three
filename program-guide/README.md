@@ -5,6 +5,7 @@ In this folder, you can find organizational and other useful materials to get yo
 - [Program details](/program-guide/program-details.md).
 - [FAQ](/program-guide/faq.md)
 - [Guide for participation](/program-guide/participation-guide.md)
+- [Guide for using this repository](/program-guide/repo-guide.md)
 
 ## Technical resources
 
