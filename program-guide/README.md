@@ -4,7 +4,7 @@ In this folder, you can find organizational and other useful materials to get yo
 
 - [Program details](/program-guide/program-details.md).
 - [FAQ](/program-guide/faq.md)
-- [Guide for participation](/program-guide/participating.md)
+- [Guide for participation](/program-guide/participation-guide.md)
 
 ## Technical resources
 
