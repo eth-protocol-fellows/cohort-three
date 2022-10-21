@@ -8,7 +8,8 @@
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
   - [edgee](#edgee)
-    - [Update #1](edgee-update-1)
+    - [Update #1](#edgee-update-1)
+    - [Update #2](#edgee-update-2)
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update)
   - [ignacio](#ignacio)
@@ -35,6 +36,10 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 ### edgee: Update 1
 
 [Update #1](https://hackmd.io/@EagleEdge/BJ-CVQJ4j)
+
+### edgee: Update 2
+
+[Update #2](https://hackmd.io/@EagleEdge/ryMs_ul4s)
 
 ## Anthony Madia
 Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
