@@ -8,7 +8,7 @@ Learn more about EPF and this cohort in the announcement blog post and [Program 
 
 The program is permissionless and happening out in the open, anybody can participate. [Applications](https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third) for stipend in this cohort are closed but you can still be awarded if you are active and meaningfully contributing. 
 
-To get started, check the resources in the [program guide](/program-guide/README.md) and [FAQ](/program-guide/faq.md). This repository is the main coordination tool for participants. To start using it, check the [guide for participating](/program-guide/participating.md) and open PR to add your development updates. 
+To get started, check the resources in the [program guide](/program-guide/README.md) and [FAQ](/program-guide/faq.md). This repository is the main coordination tool for participants. To start using it, check the [guide for participating](/program-guide/participation-guide.md) and open PR to add your development updates. 
 
 Find ideas for projects and get inspiration in [proposed project ideas](/projects/project-ideas.md). 
 
