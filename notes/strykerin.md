@@ -1,4 +1,4 @@
-# Strykerin notes
+# strykerin notes
 
 Doc for notes and resources collected on projects I am researching
 
