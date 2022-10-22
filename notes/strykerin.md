@@ -20,7 +20,7 @@ Doc for notes and resources collected on projects I am researching
 
 > Here are my notes from the research on the articles below:
 >
-> <https://github.com/strykerin/Ethereum-Research-Notes/blob/main/Networking-Layer.md>
+> <https://hackmd.io/@jjeynlY4TTyXAPDIkvF7Rg/BJ5MhDWNs>
 
 - [Read about the overview of the Ethereum Networking Layer](https://ethereum.org/en/developers/docs/networking-layer/)
 - [Read about Kademlia](https://medium.com/coinmonks/a-brief-overview-of-kademlia-and-its-use-in-various-decentralized-platforms-da08a7f72b8f)
