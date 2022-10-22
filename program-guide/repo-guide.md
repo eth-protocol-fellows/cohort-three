@@ -32,7 +32,7 @@ You should:
 
 ### Using `/projects/<project-name>.md`
 
-Project deliverables should be be posted in various open places such as the Research forum, the Ethereum Magicians forums, github gists, hackmd documents and this repository. 
+Project deliverables should be posted in various open places such as the Research forum, the Ethereum Magicians forums, github gists, hackmd documents and this repository. 
 
 Create a document under the path `/notes/<project-name>.md`. This document should include: 
 
