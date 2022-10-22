@@ -17,6 +17,9 @@
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
     - [Update #2](#kevinbogner-update-2)
+  - [strykerin](#strykerin)
+    - [strykerin: Update 1](#strykerin-update-1) 
+    - [strykerin: Update 2](#strykerin-update-2) 
   - [Vid Kersic](#vid-kersic)
     - [Vid Kersic: Update 1](#vid-kersic-update-1) 
 
@@ -63,6 +66,18 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 ### kevinbogner: Update 2
 
 [Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
+
+## strykerin
+
+Development updates from [`strykerin`](https://github.com/strykerin)
+
+### strykerin: Update 1
+
+[Update #1](https://github.com/eth-protocol-fellows/cohort-three/blob/master/notes/strykerin.md#18102022--19102022)
+
+### strykerin: Update 2
+
+[Update #2](https://hackmd.io/@jjeynlY4TTyXAPDIkvF7Rg/BJ5MhDWNs)
 
 ## Vid Kersic
 
