@@ -14,6 +14,7 @@
     - [Update #1](#anthony-madia-update)
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
+    - [Update #2](#ignacio-update-2)
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
     - [Update #2](#kevinbogner-update-2)
@@ -53,7 +54,10 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 Development updates from [`jsign`](https://github.com/jsign)
 
 ### Update #1
-[Link to Update #1](https://hackmd.io/@jsign/cohort-tree-update-1) -- **18/10/2022**
+[Link to Update #1](https://hackmd.io/@jsign/cohort-three-update-1) 
+### Update #2
+[Link to Update #2](https://hackmd.io/@jsign/cohort-three-update-2) 
+
 
 ## kevinbogner
 
