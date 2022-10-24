@@ -31,6 +31,7 @@ Here are some starting points for learning about the Ethereum protocol.
    - Why Proof of Stake? (Vitalik Buterin): https://vitalik.ca/general/2020/11/06/pos2020.html
    - The Merge: https://ethereum.org/en/eth2/merge/
    - Clients (Coding Languages of Ethereum 2): https://ethereum.org/en/eth2/get-involved/#clients
+   - Ben Edgington ETH2 book: https://eth2book.info/
 
 ### Current Research and EIPS
 - Research Forums: https://ethresear.ch/

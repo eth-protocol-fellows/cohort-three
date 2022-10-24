@@ -7,14 +7,20 @@
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
+  - [Anthony Madia](#anthony-madia)
+    - [Update #1](#anthony-madia-update)
+  - [edgee](#edgee)
+    - [Update #1](#edgee-update-1)
+    - [Update #2](#edgee-update-2)
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
+    - [Update #2](#ignacio-update-2)
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
     - [Update #2](#kevinbogner-update-2)
-  - [Mario](#mario)
-    - [Mario: Update 1](#mario-update-1)
-
+  - [strykerin](#strykerin)
+    - [strykerin: Update 1](#strykerin-update-1) 
+    - [strykerin: Update 2](#strykerin-update-2) 
   - [Vid Kersic](#vid-kersic)
     - [Vid Kersic: Update 1](#vid-kersic-update-1) 
 
@@ -27,11 +33,32 @@ your development updates in this document.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
 
+## Anthony Madia
+Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
+
+### Update 1
+[Link to Update 1](https://hackmd.io/nYbSykDpQy20n1JGo30X3Q?view)
+
+## edgee
+Development updates from [`edgee`](https://github.com/EagleEdge)
+
+### edgee: Update 1
+
+[Update #1](https://hackmd.io/@EagleEdge/BJ-CVQJ4j)
+
+### edgee: Update 2
+
+[Update #2](https://hackmd.io/@EagleEdge/ryMs_ul4s)
+
+
 ## ignacio
 Development updates from [`jsign`](https://github.com/jsign)
 
 ### Update #1
-[Link to Update #1](https://hackmd.io/@jsign/cohort-tree-update-1)
+[Link to Update #1](https://hackmd.io/@jsign/cohort-three-update-1) 
+### Update #2
+[Link to Update #2](https://hackmd.io/@jsign/cohort-three-update-2) 
+
 
 ## kevinbogner
 
@@ -45,15 +72,17 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 
 [Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
 
-## Mario
+## strykerin
 
-Development updates from [`Mario Havel`](https://github.com/taxmeifyoucan/)
+Development updates from [`strykerin`](https://github.com/strykerin)
 
-### Mario: Update 1
+### strykerin: Update 1
 
-> Research for estimating 
+[Update #1](https://github.com/eth-protocol-fellows/cohort-three/blob/master/notes/strykerin.md#18102022--19102022)
 
-[Week 1](https://notes.ethereum.org/@MarioHavel/merge-ttd)
+### strykerin: Update 2
+
+[Update #2](https://hackmd.io/@jjeynlY4TTyXAPDIkvF7Rg/BJ5MhDWNs)
 
 ## Vid Kersic
 
