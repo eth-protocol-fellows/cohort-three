@@ -7,7 +7,7 @@ Here are some frequently asked questions about EPF program.
 - **I'm not able to commit to "full time" (aka 40 hours a week).  Can I still participate?**
     - Yes. There are no hard restrictions on how many hours you must put towards the program. The amount of time you will need to invest is going to depend on your current level of knowledge and what project you choose to pursue.  It will likely be difficult to be successful in the program if you are unable to commit at least 20 hours per week.
 - **What projects can I work on?**
-    - Participants have full freedom in deciding what they want to work on. You are free to propose a project but you can also get inspiration from [mentors' project ideas](/projects/project-ideas). The project you choose has to be related to the core protocol and touch some area of current Ethereum roadmap. 
+    - Participants have full freedom in deciding what they want to work on. You are free to propose a project but you can also get inspiration from [mentors' project ideas](/projects/project-ideas.md). The project you choose has to be related to the core protocol and touch some area of current Ethereum roadmap. 
 - **I don't know much about ______________.  Can I still apply?**
     - Yes. Applicants are expected to have gaps in their knowledge.  You should still read through the [program details](./program-details.md) to get a sense for what type of prior knowledge you should be working towards to be successful in the program.
 - **When does it start and is the duration?**
