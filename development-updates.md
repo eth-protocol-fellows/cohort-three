@@ -7,11 +7,11 @@
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
+  - [Anthony Madia](#anthony-madia)
+    - [Update #1](#anthony-madia-update)
   - [edgee](#edgee)
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
-  - [Anthony Madia](#anthony-madia)
-    - [Update #1](#anthony-madia-update)
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
     - [Update #2](#ignacio-update-2)
@@ -33,6 +33,11 @@ your development updates in this document.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
 
+## Anthony Madia
+Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
+
+### Update 1
+[Link to Update 1](https://hackmd.io/nYbSykDpQy20n1JGo30X3Q?view)
 
 ## edgee
 Development updates from [`edgee`](https://github.com/EagleEdge)
@@ -45,11 +50,7 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 
 [Update #2](https://hackmd.io/@EagleEdge/ryMs_ul4s)
 
-## Anthony Madia
-Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 
-### Update 1
-[Link to Update 1](https://hackmd.io/nYbSykDpQy20n1JGo30X3Q?view)
 ## ignacio
 Development updates from [`jsign`](https://github.com/jsign)
 
