@@ -18,6 +18,8 @@
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
     - [Update #2](#kevinbogner-update-2)
+  - [robzajac](#robzajac)
+    - [Update #1](#robzajac-update-1)
   - [strykerin](#strykerin)
     - [strykerin: Update 1](#strykerin-update-1) 
     - [strykerin: Update 2](#strykerin-update-2) 
@@ -72,6 +74,7 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 
 [Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
 
+
 ## Mustapha Saeed
 
 Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
@@ -79,6 +82,16 @@ Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 ### Mustapha Saeed: Update 1
 
 [Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
+
+
+## robzajac
+
+Development updates from [`robzajac`](https://github.com/robzajac)
+
+### robzajac: Update 1
+
+[Update #1](https://hackmd.io/@robzajac/Hyj2DkV4j)
+
 
 ## strykerin
 
