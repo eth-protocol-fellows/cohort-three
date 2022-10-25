@@ -11,6 +11,8 @@
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update)
     - [Update #2](#anthony-madia-update-1)
+  - [Chloe](#chloe)
+    - [Update #1](#update-1)
   - [edgee](#edgee)
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
@@ -58,6 +60,12 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 2
 
 [Link to Update 2](https://www.notion.so/Update-2-c2115df00c8e4428a81921f5fd557a46)
+
+## Chloe
+Development updates from [`doulos819`](https://github.com/doulos819)
+
+### Update 1
+[Link to Update #1](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%200.md)
 
 ## edgee
 
