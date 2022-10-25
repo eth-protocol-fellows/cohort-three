@@ -22,6 +22,8 @@
     - [Update #2](#kevinbogner-update-2)
   - [markodayan](#markodayan)
     - [Update #1](#markodayan-update-1)
+  - [pavignol](#pavignol)
+    - [Update #1](#pavignol-update-1)
   - [robzajac](#robzajac)
     - [Update #1](#robzajac-update-1)
   - [strykerin](#strykerin)
@@ -108,6 +110,11 @@ Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 ### Mustapha Saeed: Update 1
 
 [Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
+
+## pavignol
+
+### pavignol: Update 1
+[Update #1](notes/pavignol.md#Update-1-(2022/24/10))
 
 ## robzajac
 
