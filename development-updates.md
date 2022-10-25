@@ -74,6 +74,16 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 
 [Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
 
+
+## Mustapha Saeed
+
+Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
+
+### Mustapha Saeed: Update 1
+
+[Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
+
+
 ## robzajac
 
 Development updates from [`robzajac`](https://github.com/robzajac)
@@ -81,6 +91,7 @@ Development updates from [`robzajac`](https://github.com/robzajac)
 ### robzajac: Update 1
 
 [Update #1](https://hackmd.io/@robzajac/Hyj2DkV4j)
+
 
 ## strykerin
 
