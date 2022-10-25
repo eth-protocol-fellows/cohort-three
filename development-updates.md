@@ -10,6 +10,7 @@
   - [Abel Jansma](#abel-Jansma)
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update)
+    - [Update #2](#anthony-madia-update-1)
   - [edgee](#edgee)
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
@@ -46,6 +47,9 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 
 ### Update 1
 [Link to Update 1](https://hackmd.io/nYbSykDpQy20n1JGo30X3Q?view)
+
+### Update 2
+[Link to Update 2](https://www.notion.so/Update-2-c2115df00c8e4428a81921f5fd557a46)
 
 ## edgee
 Development updates from [`edgee`](https://github.com/EagleEdge)
