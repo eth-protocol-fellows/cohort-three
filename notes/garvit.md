@@ -25,7 +25,13 @@ Feedback recieved from [Dror](https://github.com/drortirosh) & [Yoav](https://gi
 -  with AA, we use the term "owner" or "signer", and never EOA, since we don't consider private key as an "account" in any way.
 - The extension could come with a default SampleWallet authenticator, and over time you can add more builtin authenticators to support more wallets.
 
+### [11.10.22] Create cusotm SCW
 
+I wanted to create a repo that will demonstrate how can we create a custom SCW which will be compatible with 4337 & will be using the `@account-abstraction/sdk`. Find the demo repo below
+
+Repo: https://github.com/plusminushalf/demo-aa
+
+In case you want to use a test bundler, you can use the bundler hosted by me at `https://eip4337-bundler-goerli.protonapp.io/rpc`. NOTE: this only works for goerli network & entrypoint `0x2167fA17BA3c80Adee05D98F0B55b666Be6829d6`. This bundler is a basic bundler that can be found at [https://github.com/eth-infinitism/bundler/tree/main/packages/bundler](https://github.com/eth-infinitism/bundler/tree/main/packages/bundler)
 
 ### [03.10.22] Role of stake in paymasters
 
