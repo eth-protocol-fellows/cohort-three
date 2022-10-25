@@ -11,6 +11,8 @@
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update)
     - [Update #2](#anthony-madia-update-1)
+  - [Chloe](#chloe)
+    - [Update #1](#update-1)
   - [edgee](#edgee)
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
@@ -20,10 +22,14 @@
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
     - [Update #2](#kevinbogner-update-2)
+  - [manu] (#manu)
+    - [Update #1](#manu-update-1)
   - [markodayan](#markodayan)
     - [Update #1](#markodayan-update-1)
   - [Pat Stiles](#pat-stiles)
     - [Pat Stiles: Update 1](#patstiles-update-1)
+  - [pavignol](#pavignol)
+    - [Update #1](#pavignol-update-1)
   - [robzajac](#robzajac)
     - [Update #1](#robzajac-update-1)
   - [strykerin](#strykerin)
@@ -31,7 +37,8 @@
     - [strykerin: Update 2](#strykerin-update-2)
   - [Vid Kersic](#vid-kersic)
     - [Vid Kersic: Update 1](#vid-kersic-update-1)
-
+  - [Wanning Ding](#Wanning-Ding)
+    - [Wanning Ding: Update 1](#wanning-ding-update-1)
 ## Contributing
 
 If you are participating in the program, you should be posting or aggregating
@@ -58,6 +65,12 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 2
 
 [Link to Update 2](https://www.notion.so/Update-2-c2115df00c8e4428a81921f5fd557a46)
+
+## Chloe
+Development updates from [`doulos819`](https://github.com/doulos819)
+
+### Update 1
+[Link to Update #1](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%200.md)
 
 ## edgee
 
@@ -95,6 +108,14 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 
 [Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
 
+## manu:
+
+Development updates from [`manu`](https://github.com/nalepa)
+
+### manu: Update 1
+
+[Update #1](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/S1IMnYBNo)
+
 ## markodayan
 
 Development updates from [markodayan](https://github.com/markodayan)
@@ -102,6 +123,14 @@ Development updates from [markodayan](https://github.com/markodayan)
 ### markodayan: Update 1
 
 [Update #1](https://www.notion.so/mkoz/Updates-Mark-Odayan-53f4141f0ab24d55ab6fe8d3d263dd97#417daeaa9d8745bbaa9901f35d7175e7)
+
+## Mustapha Saeed
+
+Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
+
+### Mustapha Saeed: Update 1
+
+[Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
 
 ## Pat Stiles
 
@@ -111,13 +140,10 @@ Development updates from ['Pat Stiles'](https://github.com/PatStiles)
 
 [Update 1](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/HkNpraVNi)
 
-## Mustapha Saeed
+## pavignol
 
-Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
-
-### Mustapha Saeed: Update 1
-
-[Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
+### pavignol: Update 1
+[Update #1](notes/pavignol.md#Update-1-(2022/24/10))
 
 ## robzajac
 
@@ -146,3 +172,12 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 ### Vid Kersic: Update 1
 
 [Update 1](https://hackmd.io/@Vid201/epf-the-third-cohort-update-1) - **[17/10/2022]**
+
+## Wanning Ding
+
+Development updates from [`Wanning Ding`](https://github.com/dwn1998)
+
+### Wanning Ding: Update 1
+
+[Update 1](https://hackmd.io/@wanningD/HkFpdKBEo)
+
