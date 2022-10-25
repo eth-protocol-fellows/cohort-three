@@ -20,6 +20,8 @@
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
     - [Update #2](#kevinbogner-update-2)
+  - [manu] (#manu)
+    - [Update #1](#manu-update-1)
   - [markodayan](#markodayan)
     - [Update #1](#markodayan-update-1)
   - [robzajac](#robzajac)
@@ -92,6 +94,14 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 ### kevinbogner: Update 2
 
 [Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
+
+## manu:
+
+Development updates from [`manu`](https://github.com/nalepa)
+
+### manu: Update 1
+
+[Update #1](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/S1IMnYBNo)
 
 ## markodayan
 
