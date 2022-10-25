@@ -7,6 +7,7 @@
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
+  - [Abel Jansma](#abel-Jansma)
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update)
   - [edgee](#edgee)
@@ -32,6 +33,11 @@ your development updates in this document.
 - Create a new H2 heading section with your name.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
+
+
+## Abel Jansma
+Development updates from [Abel Jansma](https://github.com/AJnsm)
+### [Update 2022.10.25](https://abeljansma.nl/2022/10/25/EPF1.html)
 
 ## Anthony Madia
 Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
