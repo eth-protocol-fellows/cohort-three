@@ -5,7 +5,7 @@ More info is available at abeljansma.nl
 
 
 ## Updates
-
+NOTE: These and future updates will be posted to the [development updates](https://github.com/eth-protocol-fellows/cohort-three/blob/master/development-updates.md) and [here](https://abeljansma.nl/2022/10/25/EPF1.html)
 ### [2022.10.24] First test with the `open-games-hs` engine
 - Installed Haskell Tool Stack
 - Forked the open game engine from [https://github.com/philipp-zahn/open-games-hs](https://github.com/philipp-zahn/open-games-hs)
