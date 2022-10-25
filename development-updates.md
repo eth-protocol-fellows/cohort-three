@@ -78,6 +78,14 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 
 [Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
 
+## Mustapha Saeed
+
+Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
+
+### Mustapha Saeed: Update 1
+
+[Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
+
 ## strykerin
 
 Development updates from [`strykerin`](https://github.com/strykerin)
