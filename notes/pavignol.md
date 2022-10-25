@@ -3,7 +3,7 @@
 Hi, I'm Pat! I haven't decided on a project yet, but so far I've been leaning towards the Prysm Beacon API compatibility.
 
 ## Updates
-### 2022/24/10
+### Update 1 (2022/24/10)
 - I cloned the Prysm repo and started looking through the codebase for references to the Beacon API.
 - I found [this PR](https://github.com/ethereum/beacon-APIs/pull/242) that was merged recently, which led me to the [API specification for the beacon node](https://github.com/michaelsproul/beacon-APIs/blob/master/beacon-node-oapi.yaml)
 - The API specification yaml file lists a bunch of endpoints, which all reside in their own yaml file.
