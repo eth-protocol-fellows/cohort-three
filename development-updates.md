@@ -20,6 +20,8 @@
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
     - [Update #2](#kevinbogner-update-2)
+  - [pavignol](#pavignol)
+    - [Update #1](#pavignol-update-1)
   - [robzajac](#robzajac)
     - [Update #1](#robzajac-update-1)
   - [strykerin](#strykerin)
@@ -91,8 +93,13 @@ Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
 ### Mustapha Saeed: Update 1
 
+
 [Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
 
+## pavignol
+
+### pavignol: Update 1
+[Update #1](notes/pavignol.md#Update-1-(2022/24/10))
 
 ## robzajac
 
@@ -122,8 +129,3 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 ### Vid Kersic: Update 1
 
 [Update 1](https://hackmd.io/@Vid201/epf-the-third-cohort-update-1) - **[17/10/2022]**
-
-## pavignol
-
-### pavignol: Update 1
-[Update #1](notes/pavignol.md#Update-1-(2022/24/10))
