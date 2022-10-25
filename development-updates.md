@@ -22,7 +22,7 @@
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
     - [Update #2](#kevinbogner-update-2)
-  - [manu] (#manu)
+  - [manu](#manu)
     - [Update #1](#manu-update-1)
   - [markodayan](#markodayan)
     - [Update #1](#markodayan-update-1)
