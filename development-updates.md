@@ -29,7 +29,8 @@
     - [strykerin: Update 2](#strykerin-update-2)
   - [Vid Kersic](#vid-kersic)
     - [Vid Kersic: Update 1](#vid-kersic-update-1)
-
+  - [Wanning Ding](#Wanning-Ding)
+    - [Wanning Ding: Update 1](#wanning-ding-update-1)
 ## Contributing
 
 If you are participating in the program, you should be posting or aggregating
@@ -136,3 +137,12 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 ### Vid Kersic: Update 1
 
 [Update 1](https://hackmd.io/@Vid201/epf-the-third-cohort-update-1) - **[17/10/2022]**
+
+## Wanning Ding
+
+Development updates from [`Wanning Ding`](https://github.com/dwn1998)
+
+### Wanning Ding: Update 1
+
+[Update 1](https://hackmd.io/@wanningD/HkFpdKBEo)
+
