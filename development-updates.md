@@ -20,6 +20,8 @@
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
     - [Update #2](#kevinbogner-update-2)
+  - [Pat Stiles](#pat-stiles)
+    - [Pat Stiles: Update 1](#patstiles-update-1)
   - [robzajac](#robzajac)
     - [Update #1](#robzajac-update-1)
   - [strykerin](#strykerin)
@@ -27,8 +29,6 @@
     - [strykerin: Update 2](#strykerin-update-2) 
   - [Vid Kersic](#vid-kersic)
     - [Vid Kersic: Update 1](#vid-kersic-update-1) 
-  - [Pat Stiles](#pat-stiles)
-    - [Pat Stiles: Update 1](#patstiles-update-1)
 
 ## Contributing
 
@@ -86,6 +86,13 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 
 [Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
 
+## Pat Stiles
+
+Development updates from ['Pat Stiles'](https://github.com/PatStiles)
+
+### Pat Stiles: Update 1
+
+[Update 1](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/HkNpraVNi)
 
 ## Mustapha Saeed
 
@@ -124,11 +131,3 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 ### Vid Kersic: Update 1
 
 [Update 1](https://hackmd.io/@Vid201/epf-the-third-cohort-update-1) - **[17/10/2022]**
-
-## Pat Stiles
-
-Development updates from ['Pat Stiles'](https://github.com/PatStiles)
-
-### Pat Stiles: Update 1
-
-[Update 1](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/HkNpraVNi)
