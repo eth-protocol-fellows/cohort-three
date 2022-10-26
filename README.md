@@ -22,7 +22,7 @@ There will be two regular weekly calls throughout the program.
 
 #### Standup calls 
 
-These calls serve to discuss progress of projects, current issues participants are facing, their open questions and comments raised in development updates. Standup calls are dedicated to participants and their discussion, some mentors might show up occasionally. 
+These calls serve to discuss progress of projects, current issues participants are facing, their open questions and comments raised in development updates. Standup calls are dedicated to participants and their discussion, some mentors might show up occasionally. These calls are happening weekly, every Monday, 15:00 UTC at [this link](https://meet.ethereum.org/epf-standup).
 
 #### Office hours
 
