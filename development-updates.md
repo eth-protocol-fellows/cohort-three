@@ -11,6 +11,8 @@
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update)
     - [Update #2](#anthony-madia-update-1)
+  - [brechy](#brechy)
+    - [Update #1](#brechy-update-1)
   - [Chloe](#chloe)
     - [Update #1](#update-1)
   - [Echo](#echo)
@@ -67,6 +69,14 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 2
 
 [Link to Update 2](https://www.notion.so/Update-2-c2115df00c8e4428a81921f5fd557a46)
+
+## brechy
+
+Development updates from [`brechy`](https://github.com/brech1)
+
+### brechy: Update 1
+
+[Update #1](https://hackmd.io/@brech1/epf-update-1)
 
 ## Chloe
 Development updates from [`doulos819`](https://github.com/doulos819)
