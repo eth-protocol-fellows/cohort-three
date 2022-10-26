@@ -13,6 +13,8 @@
     - [Update #2](#anthony-madia-update-1)
   - [Chloe](#chloe)
     - [Update #1](#update-1)
+  - [Echo](#echo)
+    - [Update 1](#update-1)
   - [edgee](#edgee)
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
@@ -69,6 +71,14 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 
 ### Update 1
 [Link to Update #1](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%200.md)
+
+## Echo
+
+Development updates from [`Echo`](https://github.com/EchoAlice)
+
+### Update 1
+
+[A Fork in the Road](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/SJmozL1Ej)
 
 ## edgee
 
