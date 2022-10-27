@@ -112,7 +112,7 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 Development updates from [`jimmygchen`](https://github.com/jimmygchen)
 
-### Update #1
+### Update 1
 
 [Update #1](https://hackmd.io/@jimmygchen/rJt2PbEVj)
 
