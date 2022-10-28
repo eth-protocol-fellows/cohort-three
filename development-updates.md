@@ -8,6 +8,8 @@
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
   - [Abel Jansma](#abel-Jansma)
+  - [Abdul Sami J.](#abdul-sami-j)
+    - [Update #1](#asj-update-1)
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update)
     - [Update #2](#anthony-madia-update-1)
@@ -60,6 +62,11 @@ your development updates in this document.
 Development updates from [Abel Jansma](https://github.com/AJnsm)
 
 ### [Update 2022.10.25](https://abeljansma.nl/2022/10/25/EPF1.html)
+
+## Abdul Sami J.
+Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
+### ASJ: Update 1
+[Update #1](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-1)
 
 ## Anthony Madia
 
