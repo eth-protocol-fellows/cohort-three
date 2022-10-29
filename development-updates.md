@@ -23,6 +23,8 @@
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
     - [Update #3](#edgee-update-3)
+  - [Geemo](#geemo)
+    - [Update #1](#geemo-update-1)
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
     - [Update #2](#ignacio-update-2)
@@ -117,6 +119,14 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 ### edgee: Update 3
 
 [Update #3](https://hackmd.io/@EagleEdge/H1_THfwNi)
+
+## Geemo
+
+Development updates from [`geemo`](https://github.com/GeemoCandama)
+
+### Geemo: Update 1
+
+[Update #1](https://hackmd.io/@geemo/Bkx7ev5Vs)
 
 ## ignacio
 
