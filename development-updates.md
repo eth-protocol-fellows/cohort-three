@@ -91,9 +91,9 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 
 Development updates from [`Bem Baraki`](https://github.com/bemTG)
 
-### Update 1
+### Bem Baraki: Update 1
 
-[Link to Update 1](https://hackmd.io/@BemBaraki/rkR2gsSVi)
+[Update #1](https://hackmd.io/@BemBaraki/rkR2gsSVi)
 
 ## brechy
 
