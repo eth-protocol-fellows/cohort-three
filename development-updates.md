@@ -101,7 +101,7 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
 
 ### Update 1
-[Update #1](https://hackmd.io/eFND-6qnTn6fhZKTlBMr4g?view)
+[Update #1](https://hackmd.io/@crypdoughdoteth/ryhxMp9Vo)
 
 ## Echo
 
