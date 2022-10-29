@@ -14,7 +14,6 @@
     - [Update #1](#anthony-madia-update)
     - [Update #2](#anthony-madia-update-1)
   - [Bem Baraki](#bem-baraki)
-    - [Update #1](#bem-baraki-update)
   - [brechy](#brechy)
     - [Update #1](#brechy-update-1)
   - [Chloe](#chloe)
