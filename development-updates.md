@@ -26,6 +26,7 @@
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
     - [Update #2](#ignacio-update-2)
+    - [Update #3](#ignacio-update-3)
   - [jimmy](#jimmy)
     - [Update #1](#jimmy-update-1)
   - [kevinbogner](#kevinbogner)
@@ -130,6 +131,11 @@ Development updates from [`jsign`](https://github.com/jsign)
 ### Update #2
 
 [Link to Update #2](https://hackmd.io/@jsign/cohort-three-update-2)
+
+### Update #3
+
+[Link to Update #3](https://hackmd.io/@jsign/cohort-three-update-3)
+
 
 ## Jimmy
 
