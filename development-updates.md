@@ -18,7 +18,7 @@
   - [Chloe](#chloe)
     - [Update #1](#update-1)
   - [Dhruv](#dhruv)
-    - [Update 1](#update-1)
+    - [Update 1](#dhruv-update-1)
   - [Echo](#echo)
     - [Update 1](#update-1)
   - [edgee](#edgee)
