@@ -17,6 +17,8 @@
     - [Update #1](#brechy-update-1)
   - [Chloe](#chloe)
     - [Update #1](#update-1)
+  - [Dhruv](#dhruv)
+    - [Update 1](#update-1)
   - [Echo](#echo)
     - [Update 1](#update-1)
   - [edgee](#edgee)
@@ -93,6 +95,11 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 
 ### Update 1
 [Link to Update #1](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%200.md)
+
+## Dhruv
+
+### Update 1
+[Link to Update 1](https://hackmd.io/@0xdhruv/SkKf1V9No)
 
 ## Echo
 
