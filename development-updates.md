@@ -62,7 +62,7 @@ your development updates in this document.
 
 Development updates from [Abdel Haifouli](https://github.com/Ahaif)
 
-### [Update #1 - 2022.10.29](https://www.notion.so/EFP-update-1-7b6ddf0523964f94ba32a0311bf2cb24)
+### [Update #1 - 2022.10.29](https://tough-lantana-354.notion.site/EFP-update-1-7b6ddf0523964f94ba32a0311bf2cb24)
 
 ## Abel Jansma
 
