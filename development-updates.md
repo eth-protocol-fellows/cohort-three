@@ -7,6 +7,7 @@
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
+  - [Abdel Haifouli](#abdel-haifouli)
   - [Abel Jansma](#abel-Jansma)
   - [Abdul Sami J.](#abdul-sami-j)
     - [Update #1](#asj-update-1)
@@ -60,6 +61,12 @@ your development updates in this document.
 - Create a new H2 heading section with your name.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
+
+## Abdel Haifouli
+
+Development updates from [Abdel Haifouli](https://github.com/Ahaif)
+
+### [Update #1 - 2022.10.29](https://tough-lantana-354.notion.site/EFP-update-1-7b6ddf0523964f94ba32a0311bf2cb24)
 
 ## Abel Jansma
 
