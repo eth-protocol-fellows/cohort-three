@@ -19,6 +19,8 @@
     - [Update #1](#update-1)
   - [Crypdough.eth]
     - [Update #1](#update-1)
+  - [Echno](#echno)
+    - [Update 1](#update-1)
   - [Echo](#echo)
     - [Update 1](#update-1)
   - [edgee](#edgee)
@@ -104,6 +106,14 @@ Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
 
 ### Update 1
 [Update #1](https://hackmd.io/@crypdoughdoteth/ryhxMp9Vo)
+
+## Echno
+
+Development updates from [`Echno`](https://github.com/ogechno)
+
+### Update #1
+
+[Update #1](https://hackmd.io/@echno/SJJKeGjVj)
 
 ## Echo
 
