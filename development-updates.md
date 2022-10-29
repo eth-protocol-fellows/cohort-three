@@ -98,7 +98,7 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 
 ## Dhruv
 
-### Update 1
+### dhruv: Update 1
 [Link to Update 1](https://hackmd.io/@0xdhruv/SkKf1V9No)
 
 ## Echo
