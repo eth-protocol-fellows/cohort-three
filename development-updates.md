@@ -89,7 +89,7 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 
 ## Bem Baraki
 
-Development updates from [`BemBaraki`](https://github.com/bemTG)
+Development updates from [`Bem Baraki`](https://github.com/bemTG)
 
 ### Update 1
 
