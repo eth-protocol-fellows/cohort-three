@@ -7,6 +7,7 @@
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
+  - [Abdel Haifouli](#abdel-haifouli)
   - [Abel Jansma](#abel-Jansma)
   - [Abdul Sami J.](#abdul-sami-j)
     - [Update #1](#asj-update-1)
@@ -17,6 +18,8 @@
     - [Update #1](#brechy-update-1)
   - [Chloe](#chloe)
     - [Update #1](#update-1)
+  - [Crypdough.eth]
+    - [Update #1](#update-1)
   - [Dhruv](#dhruv)
     - [Update 1](#dhruv-update-1)
   - [Echo](#echo)
@@ -25,6 +28,8 @@
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
     - [Update #3](#edgee-update-3)
+  - [Geemo](#geemo)
+    - [Update #1](#geemo-update-1)
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
     - [Update #2](#ignacio-update-2)
@@ -59,11 +64,18 @@ your development updates in this document.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
 
+## Abdel Haifouli
+
+Development updates from [Abdel Haifouli](https://github.com/Ahaif)
+
+### [Update #1 - 2022.10.29](https://tough-lantana-354.notion.site/EFP-update-1-7b6ddf0523964f94ba32a0311bf2cb24)
+
 ## Abel Jansma
 
 Development updates from [Abel Jansma](https://github.com/AJnsm)
 
 ### [Update 2022.10.25](https://abeljansma.nl/2022/10/25/EPF1.html)
+### [Update 2022.10.29](https://abeljansma.nl/2022/10/29/EPF2.html)
 
 ## Abdul Sami J.
 Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
@@ -96,6 +108,12 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 ### Update 1
 [Link to Update #1](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%200.md)
 
+#Crypdough.eth
+Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
+
+### Update 1
+[Update #1](https://hackmd.io/@crypdoughdoteth/ryhxMp9Vo)
+
 ## Dhruv
 
 ### dhruv: Update 1
@@ -124,6 +142,14 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 ### edgee: Update 3
 
 [Update #3](https://hackmd.io/@EagleEdge/H1_THfwNi)
+
+## Geemo
+
+Development updates from [`geemo`](https://github.com/GeemoCandama)
+
+### Geemo: Update 1
+
+[Update #1](https://hackmd.io/@geemo/Bkx7ev5Vs)
 
 ## ignacio
 
