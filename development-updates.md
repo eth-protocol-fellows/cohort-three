@@ -23,6 +23,8 @@
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
     - [Update #3](#edgee-update-3)
+  - [eserilev](#eserilev)
+    - [Update #1](#eserilev-update-1)
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
     - [Update #2](#ignacio-update-2)
@@ -118,6 +120,12 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 ### edgee: Update 3
 
 [Update #3](https://hackmd.io/@EagleEdge/H1_THfwNi)
+
+## eserilev
+
+### eserilev update #1
+
+[update #1](https://hackmd.io/@B8vIxNUfSeC2Mhu5CBwSNw/Bk9b6xsNj)
 
 ## ignacio
 
