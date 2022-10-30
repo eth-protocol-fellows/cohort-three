@@ -20,6 +20,8 @@
     - [Update #1](#update-1)
   - [Crypdough.eth]
     - [Update #1](#update-1)
+  - [Dhruv](#dhruv)
+    - [Update 1](#dhruv-update-1)
   - [Echo](#echo)
     - [Update 1](#update-1)
   - [edgee](#edgee)
@@ -111,6 +113,11 @@ Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
 
 ### Update 1
 [Update #1](https://hackmd.io/@crypdoughdoteth/ryhxMp9Vo)
+
+## Dhruv
+
+### dhruv: Update 1
+[Link to Update 1](https://hackmd.io/@0xdhruv/SkKf1V9No)
 
 ## Echo
 
