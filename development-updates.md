@@ -14,6 +14,7 @@
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update)
     - [Update #2](#anthony-madia-update-1)
+  - [Bem Baraki](#bem-baraki)
   - [brechy](#brechy)
     - [Update #1](#brechy-update-1)
   - [Chloe](#chloe)
@@ -93,6 +94,14 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 2
 
 [Link to Update 2](https://www.notion.so/Update-2-c2115df00c8e4428a81921f5fd557a46)
+
+## Bem Baraki
+
+Development updates from [`Bem Baraki`](https://github.com/bemTG)
+
+### Bem Baraki: Update 1
+
+[Update #1](https://hackmd.io/@BemBaraki/rkR2gsSVi)
 
 ## brechy
 
