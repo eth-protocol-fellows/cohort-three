@@ -7,18 +7,22 @@
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
+  - [Abdel Haifouli](#abdel-haifouli)
   - [Abel Jansma](#abel-Jansma)
   - [Abdul Sami J.](#abdul-sami-j)
     - [Update #1](#asj-update-1)
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update)
     - [Update #2](#anthony-madia-update-1)
+  - [Bem Baraki](#bem-baraki)
   - [brechy](#brechy)
     - [Update #1](#brechy-update-1)
   - [Chloe](#chloe)
     - [Update #1](#update-1)
   - [Crypdough.eth]
     - [Update #1](#update-1)
+  - [Dhruv](#dhruv)
+    - [Update 1](#dhruv-update-1)
   - [Echno](#echno)
     - [Update 1](#update-1)
   - [Echo](#echo)
@@ -37,6 +41,7 @@
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
     - [Update #2](#kevinbogner-update-2)
+    - [Update #3](#kevinbogner-update-3)
   - [manu](#manu)
     - [Update #1](#manu-update-1)
   - [markodayan](#markodayan)
@@ -63,6 +68,12 @@ your development updates in this document.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
 
+## Abdel Haifouli
+
+Development updates from [Abdel Haifouli](https://github.com/Ahaif)
+
+### [Update #1 - 2022.10.29](https://tough-lantana-354.notion.site/EFP-update-1-7b6ddf0523964f94ba32a0311bf2cb24)
+
 ## Abel Jansma
 
 Development updates from [Abel Jansma](https://github.com/AJnsm)
@@ -87,6 +98,14 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 
 [Link to Update 2](https://www.notion.so/Update-2-c2115df00c8e4428a81921f5fd557a46)
 
+## Bem Baraki
+
+Development updates from [`Bem Baraki`](https://github.com/bemTG)
+
+### Bem Baraki: Update 1
+
+[Update #1](https://hackmd.io/@BemBaraki/rkR2gsSVi)
+
 ## brechy
 
 Development updates from [`brechy`](https://github.com/brech1)
@@ -106,6 +125,11 @@ Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
 
 ### Update 1
 [Update #1](https://hackmd.io/@crypdoughdoteth/ryhxMp9Vo)
+
+## Dhruv
+
+### dhruv: Update 1
+[Link to Update 1](https://hackmd.io/@0xdhruv/SkKf1V9No)
 
 ## Echno
 
@@ -178,6 +202,10 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 ### kevinbogner: Update 2
 
 [Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
+
+### kevinbogner: Update 3
+
+[Update #3](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/HJhEF6wVj)
 
 ## manu:
 
