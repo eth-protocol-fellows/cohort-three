@@ -31,6 +31,8 @@
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
     - [Update #3](#edgee-update-3)
+  - [Faheel](#faheel)
+    - [Update 1](#faheel-update-1)
   - [Geemo](#geemo)
     - [Update #1](#geemo-update-1)
   - [ignacio](#ignacio)
@@ -164,6 +166,14 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 ### edgee: Update 3
 
 [Update #3](https://hackmd.io/@EagleEdge/H1_THfwNi)
+
+## Faheel
+
+Development updates from [`Faheel`](https://github.com/faheelsattar)
+
+### Update 1
+
+[Update #1](https://hackmd.io/@faheelsattar/rk07Iu6No)
 
 ## Geemo
 
