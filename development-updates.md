@@ -50,6 +50,7 @@
     - [Update #1](#pavignol-update-1)
   - [robzajac](#robzajac)
     - [Update #1](#robzajac-update-1)
+    - [Update #2](#robzajac-update-2)
   - [strykerin](#strykerin)
     - [strykerin: Update 1](#strykerin-update-1)
     - [strykerin: Update 2](#strykerin-update-2)
@@ -241,6 +242,10 @@ Development updates from [`robzajac`](https://github.com/robzajac)
 ### robzajac: Update 1
 
 [Update #1](https://hackmd.io/@robzajac/Hyj2DkV4j)
+
+### robzajac: Update 2
+
+[Update #2](https://hackmd.io/@robzajac/ByP9pGpEi)
 
 ## strykerin
 
