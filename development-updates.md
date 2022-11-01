@@ -18,7 +18,7 @@
     - [Update #1](#brechy-update-1)
   - [Chloe](#chloe)
     - [Update #1](#update-1)
-  - [Crypdough.eth]
+  - [Crypdough.eth](#Crypdough.eth)
     - [Update #1](#update-1)
   - [Dhruv](#dhruv)
     - [Update 1](#dhruv-update-1)
@@ -125,7 +125,7 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 ### Update 1
 [Link to Update #1](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%200.md)
 
-#Crypdough.eth
+## Crypdough.eth
 Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
 
 ### Update 1
