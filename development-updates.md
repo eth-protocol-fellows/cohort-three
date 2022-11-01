@@ -12,8 +12,7 @@
   - [Abdul Sami J.](#abdul-sami-j)
     - [Update #1](#asj-update-1)
   - [Anthony Madia](#anthony-madia)
-    - [Update #1](#anthony-madia-update)
-    - [Update #2](#anthony-madia-update-1)
+    - [Update #1](#anthony-madia-update) - [Update #2](#anthony-madia-update-1)
   - [Bem Baraki](#bem-baraki)
   - [brechy](#brechy)
     - [Update #1](#brechy-update-1)
@@ -63,6 +62,8 @@
     - [Vid Kersic: Update 1](#vid-kersic-update-1)
   - [Wanning Ding](#Wanning-Ding)
     - [Wanning Ding: Update 1](#wanning-ding-update-1)
+  - [NC](#NC)
+    - [Update #1](#nc-update-1)
 ## Contributing
 
 If you are participating in the program, you should be posting or aggregating
@@ -305,3 +306,10 @@ Development updates from [`Wanning Ding`](https://github.com/dwn1998)
 
 [Update 1](https://hackmd.io/@wanningD/HkFpdKBEo)
 
+## NC
+
+Development update from [`NC`](https://github.com/naviechan)
+
+### NC: Update 1
+
+[Update #1](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/rJHgu1sVo)
