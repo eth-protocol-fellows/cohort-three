@@ -7,28 +7,43 @@
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
+  - [Abdel Haifouli](#abdel-haifouli)
   - [Abel Jansma](#abel-Jansma)
+  - [Abdul Sami J.](#abdul-sami-j)
+    - [Update #1](#asj-update-1)
   - [Anthony Madia](#anthony-madia)
-    - [Update #1](#anthony-madia-update)
-    - [Update #2](#anthony-madia-update-1)
+    - [Update #1](#anthony-madia-update) - [Update #2](#anthony-madia-update-1)
+  - [Bem Baraki](#bem-baraki)
   - [brechy](#brechy)
     - [Update #1](#brechy-update-1)
   - [Chloe](#chloe)
     - [Update #1](#update-1)
+  - [Crypdough.eth](#Crypdough.eth)
+    - [Update #1](#update-1)
+  - [Dhruv](#dhruv)
+    - [Update 1](#dhruv-update-1)
+  - [Echno](#echno)
+    - [Update 1](#update-1)
   - [Echo](#echo)
     - [Update 1](#update-1)
   - [edgee](#edgee)
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
     - [Update #3](#edgee-update-3)
+  - [Faheel](#faheel)
+    - [Update 1](#faheel-update-1)
+  - [Geemo](#geemo)
+    - [Update #1](#geemo-update-1)
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
     - [Update #2](#ignacio-update-2)
+    - [Update #3](#ignacio-update-3)
   - [jimmy](#jimmy)
     - [Update #1](#jimmy-update-1)
   - [kevinbogner](#kevinbogner)
     - [Update #1](#kevinbogner-update-1)
     - [Update #2](#kevinbogner-update-2)
+    - [Update #3](#kevinbogner-update-3)
   - [manu](#manu)
     - [Update #1](#manu-update-1)
   - [markodayan](#markodayan)
@@ -39,6 +54,7 @@
     - [Update #1](#pavignol-update-1)
   - [robzajac](#robzajac)
     - [Update #1](#robzajac-update-1)
+    - [Update #2](#robzajac-update-2)
   - [strykerin](#strykerin)
     - [strykerin: Update 1](#strykerin-update-1)
     - [strykerin: Update 2](#strykerin-update-2)
@@ -46,6 +62,8 @@
     - [Vid Kersic: Update 1](#vid-kersic-update-1)
   - [Wanning Ding](#Wanning-Ding)
     - [Wanning Ding: Update 1](#wanning-ding-update-1)
+  - [NC](#NC)
+    - [Update #1](#nc-update-1)
 ## Contributing
 
 If you are participating in the program, you should be posting or aggregating
@@ -55,11 +73,23 @@ your development updates in this document.
 - Add it to the [Table of Contents](#table-of-contents)
 - Keep the overall list of people sorted alphabetically.
 
+## Abdel Haifouli
+
+Development updates from [Abdel Haifouli](https://github.com/Ahaif)
+
+### [Update #1 - 2022.10.29](https://tough-lantana-354.notion.site/EFP-update-1-7b6ddf0523964f94ba32a0311bf2cb24)
+
 ## Abel Jansma
 
 Development updates from [Abel Jansma](https://github.com/AJnsm)
 
 ### [Update 2022.10.25](https://abeljansma.nl/2022/10/25/EPF1.html)
+### [Update 2022.10.29](https://abeljansma.nl/2022/10/29/EPF2.html)
+
+## Abdul Sami J.
+Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
+### ASJ: Update 1
+[Update #1](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-1)
 
 ## Anthony Madia
 
@@ -72,6 +102,14 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 2
 
 [Link to Update 2](https://www.notion.so/Update-2-c2115df00c8e4428a81921f5fd557a46)
+
+## Bem Baraki
+
+Development updates from [`Bem Baraki`](https://github.com/bemTG)
+
+### Bem Baraki: Update 1
+
+[Update #1](https://hackmd.io/@BemBaraki/rkR2gsSVi)
 
 ## brechy
 
@@ -86,6 +124,25 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 
 ### Update 1
 [Link to Update #1](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%200.md)
+
+## Crypdough.eth
+Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
+
+### Update 1
+[Update #1](https://hackmd.io/@crypdoughdoteth/ryhxMp9Vo)
+
+## Dhruv
+
+### dhruv: Update 1
+[Link to Update 1](https://hackmd.io/@0xdhruv/SkKf1V9No)
+
+## Echno
+
+Development updates from [`Echno`](https://github.com/ogechno)
+
+### Update #1
+
+[Update #1](https://hackmd.io/@echno/SJJKeGjVj)
 
 ## Echo
 
@@ -111,6 +168,22 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 
 [Update #3](https://hackmd.io/@EagleEdge/H1_THfwNi)
 
+## Faheel
+
+Development updates from [`Faheel`](https://github.com/faheelsattar)
+
+### Update 1
+
+[Update #1](https://hackmd.io/@faheelsattar/rk07Iu6No)
+
+## Geemo
+
+Development updates from [`geemo`](https://github.com/GeemoCandama)
+
+### Geemo: Update 1
+
+[Update #1](https://hackmd.io/@geemo/Bkx7ev5Vs)
+
 ## ignacio
 
 Development updates from [`jsign`](https://github.com/jsign)
@@ -122,6 +195,11 @@ Development updates from [`jsign`](https://github.com/jsign)
 ### Update #2
 
 [Link to Update #2](https://hackmd.io/@jsign/cohort-three-update-2)
+
+### Update #3
+
+[Link to Update #3](https://hackmd.io/@jsign/cohort-three-update-3)
+
 
 ## Jimmy
 
@@ -142,6 +220,10 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 ### kevinbogner: Update 2
 
 [Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
+
+### kevinbogner: Update 3
+
+[Update #3](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/HJhEF6wVj)
 
 ## manu:
 
@@ -188,6 +270,10 @@ Development updates from [`robzajac`](https://github.com/robzajac)
 
 [Update #1](https://hackmd.io/@robzajac/Hyj2DkV4j)
 
+### robzajac: Update 2
+
+[Update #2](https://hackmd.io/@robzajac/ByP9pGpEi)
+
 ## strykerin
 
 Development updates from [`strykerin`](https://github.com/strykerin)
@@ -220,3 +306,10 @@ Development updates from [`Wanning Ding`](https://github.com/dwn1998)
 
 [Update 1](https://hackmd.io/@wanningD/HkFpdKBEo)
 
+## NC
+
+Development update from [`NC`](https://github.com/naviechan)
+
+### NC: Update 1
+
+[Update #1](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/rJHgu1sVo)
