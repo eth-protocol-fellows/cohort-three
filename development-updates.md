@@ -63,6 +63,7 @@
     - [Vid Kersic: Update 1](#vid-kersic-update-1)
   - [Wanning Ding](#Wanning-Ding)
     - [Wanning Ding: Update 1](#wanning-ding-update-1)
+    - [Wanning Ding: Update 2](#wanning-ding-update-2)
   - [NC](#NC)
     - [Update #1](#nc-update-1)
 ## Contributing
@@ -310,6 +311,10 @@ Development updates from [`Wanning Ding`](https://github.com/dwn1998)
 ### Wanning Ding: Update 1
 
 [Update 1](https://hackmd.io/@wanningD/HkFpdKBEo)
+
+### Wanning Ding: Update 2
+
+[Update 2](https://hackmd.io/@wanningD/Sk153TCNo)
 
 ## NC
 
