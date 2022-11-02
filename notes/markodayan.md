@@ -12,7 +12,17 @@ I come from a mechatronics engineering background and have worked professionally
 
 ## Updates
 
+Guiding information for project:
+
+- [Understanding rollup economics from first principles (Substack article by Barnabé Monnot)](https://barnabe.substack.com/p/understanding-rollup-economics-from)
+- [Talk by Barnabé Monnot at EthCC 2022](https://youtu.be/BmQnb7TN3Ho)
+
 ### 24/10/2022
 
 - Introductory cohort meeting
 - Contact Barnabé regarding "Rollup economics framework" project (modelling rollup economics)
+
+### 26/10/2022
+
+- Meeting around rollup economics project work
+- Going through Optimism docs

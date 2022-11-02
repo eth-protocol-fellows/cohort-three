@@ -49,6 +49,8 @@
     - [Update #1](#manu-update-1)
   - [markodayan](#markodayan)
     - [Update #1](#markodayan-update-1)
+    - [Update #2](#markodayan-update-2)
+    - [Update #3](#markodayan-update-3)
   - [Pat Stiles](#pat-stiles)
     - [Pat Stiles: Update 1](#patstiles-update-1)
   - [pavignol](#pavignol)
@@ -66,6 +68,7 @@
     - [Wanning Ding: Update 2](#wanning-ding-update-2)
   - [NC](#NC)
     - [Update #1](#nc-update-1)
+
 ## Contributing
 
 If you are participating in the program, you should be posting or aggregating
@@ -86,11 +89,15 @@ Development updates from [Abdel Haifouli](https://github.com/Ahaif)
 Development updates from [Abel Jansma](https://github.com/AJnsm)
 
 ### [Update 2022.10.25](https://abeljansma.nl/2022/10/25/EPF1.html)
+
 ### [Update 2022.10.29](https://abeljansma.nl/2022/10/29/EPF2.html)
 
 ## Abdul Sami J.
+
 Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
+
 ### ASJ: Update 1
+
 [Update #1](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-1)
 
 ## Anthony Madia
@@ -122,20 +129,25 @@ Development updates from [`brechy`](https://github.com/brech1)
 [Update #1](https://hackmd.io/@brech1/epf-update-1)
 
 ## Chloe
+
 Development updates from [`doulos819`](https://github.com/doulos819)
 
 ### Update 1
+
 [Link to Update #1](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%200.md)
 
 ## Crypdough.eth
+
 Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
 
 ### Update 1
+
 [Update #1](https://hackmd.io/@crypdoughdoteth/ryhxMp9Vo)
 
 ## Dhruv
 
 ### dhruv: Update 1
+
 [Link to Update 1](https://hackmd.io/@0xdhruv/SkKf1V9No)
 
 ## Echno
@@ -202,7 +214,6 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #3](https://hackmd.io/@jsign/cohort-three-update-3)
 
-
 ## Jimmy
 
 Development updates from [`jimmygchen`](https://github.com/jimmygchen)
@@ -245,7 +256,15 @@ Development updates from [markodayan](https://github.com/markodayan)
 
 ### markodayan: Update 1
 
-[Update #1](https://www.notion.so/mkoz/Updates-Mark-Odayan-53f4141f0ab24d55ab6fe8d3d263dd97#417daeaa9d8745bbaa9901f35d7175e7)
+[Update #1 (24/10/22)](https://www.notion.so/mkoz/Updates-Mark-Odayan-53f4141f0ab24d55ab6fe8d3d263dd97#417daeaa9d8745bbaa9901f35d7175e7)
+
+### markodayan: Update 2
+
+[Update #2 (26/10/22)](https://www.notion.so/mkoz/Update-2-26-10-2022-32be4c4c55fb44b2b75ff2c5b6f1dc72)
+
+### markodayan: Update 3
+
+[Update #3 (31/10/22) ](https://www.notion.so/mkoz/Update-3-31-10-2022-597714afab704021862003d474f4f504)
 
 ## Mustapha Saeed
 
@@ -266,7 +285,8 @@ Development updates from ['Pat Stiles'](https://github.com/PatStiles)
 ## pavignol
 
 ### pavignol: Update 1
-[Update #1](notes/pavignol.md#Update-1-(2022/24/10))
+
+[Update #1](<notes/pavignol.md#Update-1-(2022/24/10)>)
 
 ## robzajac
 
