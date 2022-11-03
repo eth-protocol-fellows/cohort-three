@@ -14,6 +14,10 @@
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update) - [Update #2](#anthony-madia-update-1)
   - [Bem Baraki](#bem-baraki)
+    - [Update #1](#anthony-madia-update)
+    - [Update #2](#anthony-madia-update-1)
+  - [ballestar](#ballestar)
+    - [Update #1](#ballestar-update-1)
   - [brechy](#brechy)
     - [Update #1](#brechy-update-1)
   - [Chloe](#chloe)
@@ -121,6 +125,14 @@ Development updates from [`Bem Baraki`](https://github.com/bemTG)
 ### Bem Baraki: Update 1
 
 [Update #1](https://hackmd.io/@BemBaraki/rkR2gsSVi)
+
+## ballestar
+
+Development updates from [`ballestar`](https://github.com/ballestar)
+
+### ballestar: Update 1
+
+[Update #1](https://hackmd.io/@9kyXMpSSRXaEpmnTWoK0aw/rkM-4524s)
 
 ## brechy
 
