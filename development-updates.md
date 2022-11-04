@@ -19,6 +19,7 @@
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
     - [Update #3](#edgee-update-3)
+    - [Update #4](#edgee-update-4)
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
     - [Update #2](#ignacio-update-2)
@@ -98,6 +99,10 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 ### edgee: Update 3
 
 [Update #3](https://hackmd.io/@EagleEdge/H1_THfwNi)
+
+### edgee: Update 4
+
+[Update #4](https://hackmd.io/@EagleEdge/rysYgCMrj)
 
 ## ignacio
 
