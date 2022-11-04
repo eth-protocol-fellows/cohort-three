@@ -13,6 +13,9 @@
     - [Update #1](#asj-update-1)
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update) - [Update #2](#anthony-madia-update-1)
+  - [Alpesh](#abhudia04)
+    - [Update #1](#alpesh-update-1)
+    - [Update #2](#alpesh-update-2)
   - [Bem Baraki](#bem-baraki)
     - [Update #1](#anthony-madia-update)
     - [Update #2](#anthony-madia-update-1)
@@ -120,6 +123,16 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 2
 
 [Link to Update 2](https://www.notion.so/Update-2-c2115df00c8e4428a81921f5fd557a46)
+
+## Alpesh
+
+Development updates from ['Alpesh'](https://github.com/abhudia04)
+
+### Update 1
+[Link to Update 1](https://hackmd.io/@alpesh/SyTasizro)
+
+### Update 2
+[Link to Update 2](https://hackmd.io/@alpesh/SyTasizro)
 
 ## Bem Baraki
 
