@@ -12,8 +12,13 @@ My primary interest in joining the program is to investigate how the current pro
 
 ### Updates
 I'll aim to update my progress on a fortnightly basis. A high-level summary is below while more detailed updates can be found at [here](https://hackmd.io/@alpesh/SyTasizro)
+
 Week[1]: Review the recommended reading list
+
 Week[2-3]: Contact mentors and finalise the project
+
 Week[4-5]:
+
 Week[6-7]:
+
 Week[7-8]:
