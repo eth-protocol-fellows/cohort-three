@@ -38,6 +38,7 @@
     - [Update 1](#faheel-update-1)
   - [Geemo](#geemo)
     - [Update #1](#geemo-update-1)
+    - [Update #4](#edgee-update-4)
   - [ignacio](#ignacio)
     - [Update #1](#ignacio-update-1)
     - [Update #2](#ignacio-update-2)
@@ -211,6 +212,10 @@ Development updates from [`geemo`](https://github.com/GeemoCandama)
 ### Geemo: Update 1
 
 [Update #1](https://hackmd.io/@geemo/Bkx7ev5Vs)
+
+### edgee: Update 4
+
+[Update #4](https://hackmd.io/@EagleEdge/rysYgCMrj)
 
 ## ignacio
 
