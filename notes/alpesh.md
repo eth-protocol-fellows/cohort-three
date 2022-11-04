@@ -11,7 +11,7 @@ I am Alpesh, a final-year PhD Student at Royal Holloway, University of London. M
 My primary interest in joining the program is to investigate how the current protocol could be improved such that it allows validators whose keys have been compromised to perform a key update (before withdrawal functionality is enabled as part of the Shanghai upgrade) without having to exit.
 
 ### Updates
-I'll aim to update my progress on a fortnightly basis:
+I'll aim to update my progress on a fortnightly basis. High level summary below and detailed update can be found [https://hackmd.io/@alpesh/SyTasizro]
 Week[1]:
 Week[2-3]:
 Week[4-5]:
