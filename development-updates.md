@@ -293,6 +293,9 @@ Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
 [Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
 
+### Mustapha Saeed: Update 2
+[Update 2](https://hackmd.io/@msaeed/BkZfZSi4o/)
+
 ## Pat Stiles
 
 Development updates from ['Pat Stiles'](https://github.com/PatStiles)
