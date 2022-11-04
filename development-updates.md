@@ -26,6 +26,7 @@
     - [Update 1](#update-1)
   - [Echo](#echo)
     - [Update 1](#update-1)
+    - [Update 2](#update-2)
   - [edgee](#edgee)
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
@@ -169,6 +170,10 @@ Development updates from [`Echo`](https://github.com/EchoAlice)
 ### Update 1
 
 [A Fork in the Road](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/SJmozL1Ej)
+
+### Update 2
+
+[The Road Not Taken](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/SkgCEzwEj)
 
 ## edgee
 
