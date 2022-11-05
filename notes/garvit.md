@@ -14,6 +14,11 @@ Account Abstraction - I intend to work on creating a wallet application for user
 
 Below are the notes & links that I will be collecting during my research, the date format is [dd.mm.yy]
 
+### [5.11.22] Feature list for the wallet
+
+I have compiled objectives that this wallet must complete & also documented the finalised flow for onboarding at https://hackmd.io/t34kODtfRw2ITA8hR8eV1g.
+Next I have to make the front-end architecture for the modules that will be needed.
+
 ### [17.10.22] Onboarding to AA Wallet
 
 Research about challanges - https://hackmd.io/@plusminushalf/onboarding-aa-challenges
