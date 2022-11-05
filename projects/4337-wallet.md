@@ -18,7 +18,7 @@ https://github.com/eth-infinitism/bundler
 
 ## My notes
 
-[[5.11.22] Feature list for the wallet](https://github.com/eth-protocol-fellows/cohort-three/blob/master/notes/garvit.md#feature-list-for-the-wallet)
+[[5.11.22] Feature list for the wallet](https://github.com/eth-protocol-fellows/cohort-three/blob/master/notes/garvit.md#51122-feature-list-for-the-wallet)
 
 [[17.10.22] Onboarding to AA Wallet](https://github.com/eth-protocol-fellows/cohort-three/blob/master/notes/garvit.md#171022-onboarding-to-aa-wallet)
 
