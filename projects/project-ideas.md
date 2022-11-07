@@ -15,6 +15,7 @@ Here is a list of projects proposed by mentors. If you would like to know more a
 - [Improving hive for End-to-End Testing](#improving-hive-for-end-to-end-testing)
 - [By Potuz](#by-potuz)
 - [Consensus client reward APIs](#consensus-client-reward-apis)
+- [Stakers' testnet](#stakers-testnet)
 
 ### Previous cohorts
 
@@ -110,3 +111,11 @@ To improve the situation it would be great to have a simple HTTP API available i
   on the APIs, or integrated into a consensus client. For prior work along these lines see Nimbus' [attestation performance tracking](https://nimbus.guide/attestation-performance.html).
 
 Mentor: @michaelsproul (SigP/Lighthouse)
+
+### Stakers' testnet 
+
+By Mario Havel
+
+New testnet which is emphemeral and dedicated to stakers. Feasability of this solutions should be demonstrated by implementation in a client pair. The testnet is emphemeral so instead of just trivial network addition, you need to figure out the mechanism for rollbacks and devops setup. 
+
+Details in this proposal: https://notes.ethereum.org/@mario-havel/stakers-testnet
