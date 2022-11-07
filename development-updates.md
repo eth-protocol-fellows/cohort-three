@@ -64,6 +64,7 @@
     - [Pat Stiles: Update 1](#patstiles-update-1)
   - [pavignol](#pavignol)
     - [Update #1](#pavignol-update-1)
+    - [Update #2](#pavignol-update-2)
   - [robzajac](#robzajac)
     - [Update #1](#robzajac-update-1)
     - [Update #2](#robzajac-update-2)
@@ -330,7 +331,13 @@ Development updates from ['Pat Stiles'](https://github.com/PatStiles)
 
 ### pavignol: Update 1
 
+Development updates from [`pavignol`](https://github.com/PatriceVignola)
+
 [Update #1](<notes/pavignol.md#Update-1-(2022/24/10)>)
+
+### pavignol: Update 2
+
+[Update #2](https://hackmd.io/@pavignol/r1p6D4UBs)
 
 ## robzajac
 
