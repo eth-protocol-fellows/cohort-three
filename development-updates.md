@@ -80,6 +80,7 @@
     - [Wanning Ding: Update 2](#wanning-ding-update-2)
   - [NC](#NC)
     - [Update #1](#nc-update-1)
+    - [Update #2](#nc-update-2)
   - [WillQ](#WillQ)
     - [WillQ: Update 1](#WillQ-update-1)
     - [WillQ: Update 2](#WillQ-update-2)
@@ -413,6 +414,10 @@ Development update from [`NC`](https://github.com/naviechan)
 ### NC: Update 1
 
 [Update #1](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/rJHgu1sVo)
+
+### NC: Update 2
+
+[Update #2](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/HkaTvyiEo)
 
 ## WillQ
 
