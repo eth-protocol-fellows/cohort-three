@@ -36,7 +36,7 @@
     - [Update #2](#edgee-update-2)
     - [Update #3](#edgee-update-3)
     - [Update #4](#edgee-update-4)
-- [Faheel](#faheel)
+  - [Faheel](#faheel)
     - [Update 1](#faheel-update-1)
   - [Garvit](#garvit)
     - [Update #1](#update-1---the-beginning)
