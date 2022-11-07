@@ -77,7 +77,9 @@
     - [Wanning Ding: Update 2](#wanning-ding-update-2)
   - [NC](#NC)
     - [Update #1](#nc-update-1)
-
+  - [WillQ](#WillQ)
+    - [WillQ: Update 1](#WillQ-update-1)
+    - [WillQ: Update 2](#WillQ-update-2)
 ## Contributing
 
 If you are participating in the program, you should be posting or aggregating
@@ -385,3 +387,15 @@ Development update from [`NC`](https://github.com/naviechan)
 ### NC: Update 1
 
 [Update #1](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/rJHgu1sVo)
+
+## WillQ
+
+Development updates from [`WillQ`](https://github.com/zsluedem/)
+
+### WillQ: Update 1
+
+[Update #1](https://hackmd.io/@WillQ/B1ecgHC4i)
+
+### WillQ: Update 2
+
+[Update #2](https://hackmd.io/@WillQ/H19FwIyHj)
