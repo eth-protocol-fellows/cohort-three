@@ -39,6 +39,7 @@
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
     - [Update #3](#edgee-update-3)
+    - [Update #4](#edgee-update-4)
   - [Faheel](#faheel)
     - [Update 1](#faheel-update-1)
   - [Garvit](#garvit)
@@ -86,6 +87,7 @@
   - [WillQ](#WillQ)
     - [WillQ: Update 1](#WillQ-update-1)
     - [WillQ: Update 2](#WillQ-update-2)
+
 ## Contributing
 
 If you are participating in the program, you should be posting or aggregating
@@ -138,9 +140,11 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 Development updates from ['Alpesh'](https://github.com/abhudia04)
 
 ### Update 1
+
 [Link to Update 1](https://hackmd.io/@alpesh/SyTasizro)
 
 ### Update 2
+
 [Link to Update 2](https://hackmd.io/@alpesh/SyTasizro)
 
 ## Bem Baraki
@@ -174,7 +178,6 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 ### Update 1
 
 [Link to Update #1](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%200%20-%20Intro.md)
-
 
 ### Update 2
 
@@ -278,7 +281,6 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #4](https://hackmd.io/@jsign/cohort-three-update-4)
 
-
 ## Jimmy
 
 Development updates from [`jimmygchen`](https://github.com/jimmygchen)
@@ -316,6 +318,7 @@ Development updates from [`manu`](https://github.com/nalepa)
 [Update #1](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/S1IMnYBNo)
 
 ### manu: Update 2
+
 [Update #2](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/SkYhoVUSj)
 
 ## markodayan
@@ -343,6 +346,7 @@ Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 [Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
 
 ### Mustapha Saeed: Update 2
+
 [Update 2](https://hackmd.io/@msaeed/BkZfZSi4o/)
 
 ## Pat Stiles
