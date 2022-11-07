@@ -36,6 +36,8 @@
     - [Update #3](#edgee-update-3)
   - [Faheel](#faheel)
     - [Update 1](#faheel-update-1)
+  - [Garvit](#garvit)
+    - [Update #1](#update-1---the-beginning)
   - [Geemo](#geemo)
     - [Update #1](#geemo-update-1)
   - [ignacio](#ignacio)
@@ -211,6 +213,14 @@ Development updates from [`Faheel`](https://github.com/faheelsattar)
 ### Update 1
 
 [Update #1](https://hackmd.io/@faheelsattar/rk07Iu6No)
+
+## Garvit
+
+Development updates from [`Garvit`](https://mirror.xyz/plusminushalf.eth)
+
+### Update 1 - The beginning
+
+[link](https://mirror.xyz/plusminushalf.eth/btUxNscEudcQGBWM11M9Cg4M9D7d5ce90_h0uOvsZOs)
 
 ## Geemo
 
