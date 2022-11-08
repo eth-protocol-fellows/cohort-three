@@ -395,6 +395,10 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 
 [Update 2](https://hackmd.io/@Vid201/epf-the-third-cohort-update-2) - **[26/10/2022]**
 
+### Vid Kersic: Update 3
+
+[Update 3](https://hackmd.io/@Vid201/epf-the-third-cohort-update-3) - **[08/11/2022]**
+
 ## Wanning Ding
 
 Development updates from [`Wanning Ding`](https://github.com/dwn1998)
