@@ -20,6 +20,7 @@
   - [Bem Baraki](#bem-baraki)
   - [brechy](#brechy)
     - [Update #1](#brechy-update-1)
+    - [Update #2](#brechy-update-2)
   - [Chloe](#chloe)
     - [Update #1](#update-1)
     - [Update #2](#update-1)
@@ -163,6 +164,10 @@ Development updates from [`brechy`](https://github.com/brech1)
 ### brechy: Update 1
 
 [Update #1](https://hackmd.io/@brech1/epf-update-1)
+
+### brechy: Update 2
+
+[Update #2](https://hackmd.io/@brech1/epf-update-2)
 
 ## Chloe
 
