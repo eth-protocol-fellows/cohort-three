@@ -5,6 +5,48 @@
 :computer: **Code: https://github.com/kevinbogner/data-analysis-consensus-clients**.
 
 ## Journal
+**[11/08/2022]**
+- More discussion on the [draft PR](https://github.com/ethereum/beacon-APIs/pull/260) for the beacon API endpoints.
+- Published [Dev Update #4](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/B1UFETvro).
+
+**[11/07/2022]**
+- Created a [draft PR](https://github.com/ethereum/beacon-APIs/pull/260) to work with [NC](https://github.com/naviechan) on beacon API endpoints.
+- Attended weekly standup call.
+
+**[11/04/2022]**
+- Discussing with [NC](https://github.com/naviechan) the [design questions](https://github.com/sigp/lighthouse/issues/3661#issuecomment-1304482857).
+
+**[11/03/2022]**
+- Created a [PR](https://github.com/sigp/lighthouse/pull/3681) for [Issue #3672](https://github.com/sigp/lighthouse/issues/3672).
+
+**[11/02/2022]**
+- Continue working on a [Lighthouse Issue](https://github.com/sigp/lighthouse/issues/3672).
+
+**[11/01/2022]**
+- Attended [Office Hours Call #1](https://github.com/eth-protocol-fellows/cohort-three/issues/41).
+- Started working on a [Lighthouse Issue](https://github.com/sigp/lighthouse/issues/3672) to add a guide for running a full node to the doc.
+
+**[10/31/2022]**
+- Attended EPF standup call and got some advice on handling big codebases in open-source projects. Focus on small areas; don't try to understand everything and familiarize yourself with testing.
+- Installed and set up Linux for [Lighthouses' development environment](https://lighthouse-book.sigmaprime.io/setup.html).
+
+**[10/30/2022]**
+- Published [Dev Update #3](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/HJhEF6wVj).
+
+**[10/28/2022]**
+- Continue working on Dev Update #3, which I will finish this week.
+- Researching validator rewards because that's the next thing I will be working on: [Ben Edginton's book](https://eth2book.info/bellatrix/part2/incentives/rewards) and [Pintail's guide](https://pintail.xyz/posts/modelling-the-impact-of-altair/).
+- Meanwhile, I continue setting up my [Lighthouse node](https://github.com/sigp/lighthouse), so I can start experimenting with APIs once my Dev Update is published. [Checkpoint sync](https://lighthouse-book.sigmaprime.io/checkpoint-sync.html?highlight=purge#automatic-checkpoint-sync) is done, and now the node is [reconstructing states](https://lighthouse-book.sigmaprime.io/checkpoint-sync.html#reconstructing-states).
+
+**[10/27/2022]**
+- Started working on Dev Update #3.
+- Listened to [Ethereum Core Devs Meeting #148](https://www.youtube.com/watch?v=oQfEW8LdE88).
+
+**[10/26/2022]**
+
+- Setting up [Lighthouse](https://github.com/sigp/lighthouse).
+- Experimenting with [Lighthouse API](https://lighthouse-book.sigmaprime.io/api.html).
+
 **[10/25/2022]**
 - Code Cleanup.
 - Realized that Consensus Client Block Rewards are different depending on the source used, e.g. [Etherscan API](https://etherscan.io/apis) or https://beaconcha.in/. Therefore I might tackle the issue by proposing a new endpoint for the [Beacon-API](https://ethereum.github.io/beacon-APIs/#/Beacon) with the help of [sproul](https://github.com/michaelsproul), who not only pointed the issue out but also has been working on an API for Consensus Client Block Rewards already.
