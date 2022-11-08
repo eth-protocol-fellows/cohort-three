@@ -11,6 +11,7 @@
   - [Abel Jansma](#abel-Jansma)
   - [Abdul Sami J.](#abdul-sami-j)
     - [Update #1](#asj-update-1)
+  - [andriidski](#andriidski)
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update) - [Update #2](#anthony-madia-update-1)
   - [Alpesh](#abhudia04)
@@ -118,6 +119,12 @@ Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
 ### ASJ: Update 1
 
 [Update #1](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-1)
+
+## andriidski
+
+Development updates from [`andriidski`](https://github.com/andriidski)
+
+[Update #1](https://hackmd.io/@andriidski/rJ5ZM8ZBs)
 
 ## Anthony Madia
 
