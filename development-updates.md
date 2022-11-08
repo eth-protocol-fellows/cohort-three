@@ -173,6 +173,10 @@ Development updates from [`ballestar`](https://github.com/ballestar)
 
 [Update #1](https://hackmd.io/@9kyXMpSSRXaEpmnTWoK0aw/rkM-4524s)
 
+### Bem Baraki: Update 2
+
+[Update #2](https://hackmd.io/TQXH48gFTfqCA0t_Sb53CQ?view)
+
 ## brechy
 
 Development updates from [`brechy`](https://github.com/brech1)
