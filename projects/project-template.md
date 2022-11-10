@@ -4,28 +4,27 @@ Tagline
 
 ## Motivation
 
-Intro to problematic, area of protocol your project is solving
+What problem is your project is solving? Why is it important and what area of the protocol will be affected?
 
 ## Project description
 
-Proposed solution, details on your project 
+What is your proposed solution? 
 
 ## Specification
 
-Implementation details and more technical information on the project
-
+How will you implement your solutions? Give details and more technical information on the project.
 
 ## Roadmap
 
-Estimated timeline, parts of the project and insight on how much time it will take to execute them
+What is your proposed timeline? Outline parts of the project and insight on how much time it will take to execute them.
 
 ## Possible challenges
 
-Limitations and issues to overcome
+What are the limitations and issues you may need to overcome?
 
 ## Goal of the project
 
-What does success look like? End goal of the project, scope, state and impact you would consider finished and successfull 
+What does success look like? Describe the end goal of the project, scope, state and impact for the project to be considered finished and successful.
 
 ## Collaborators
 
@@ -39,4 +38,4 @@ Which mentors are helping you with the project?
 
 ## Resources
 
-Links to repositories, PRs and other resources which constitute the project
+Provide links to repositories, PRs and other resources which constitute the project.
