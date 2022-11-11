@@ -363,12 +363,11 @@ Development updates from [markodayan](https://github.com/markodayan)
 
 Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
-### Mustapha Saeed: Update 1
+### [Week 1 Update](https://hackmd.io/@msaeed/BJYooQEEj/)
 
-[Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
+### [Week 2 Update](https://hackmd.io/@msaeed/BkZfZSi4o/)
 
-### Mustapha Saeed: Update 2
-[Update 2](https://hackmd.io/@msaeed/BkZfZSi4o/)
+### [Week 3 Update](https://hackmd.io/@msaeed/SkjoTgnHi)
 
 ## Pat Stiles
 
