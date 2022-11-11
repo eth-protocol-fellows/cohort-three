@@ -28,6 +28,7 @@
     - [Update #3](#edgee-update-3)
   - [eserilev](#eserilev)
     - [Update #1](#eserilev-update-1)
+    - [Update #2](#eserilev-update-2)
   - [Geemo](#geemo)
     - [Update #1](#geemo-update-1)
   - [ignacio](#ignacio)
@@ -143,6 +144,13 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 ### eserilev update #1
 
 [update #1](https://hackmd.io/@B8vIxNUfSeC2Mhu5CBwSNw/Bk9b6xsNj)
+
+
+### eserilev update #2
+
+[update #2](https://hackmd.io/Z9ZE2XIsQVaCTN5A358M8w)
+[update #2.5](https://hackmd.io/18Jaw8dgSUOk6uAoekvUpw)
+
 ## Geemo
 
 Development updates from [`geemo`](https://github.com/GeemoCandama)
