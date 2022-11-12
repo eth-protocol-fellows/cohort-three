@@ -95,7 +95,21 @@ How will you implement your solutions? Give details and more technical informati
 
 ## Roadmap
 
-i am thinking preliminarily speaking, 2 weeks to be familiarize with the codebase, 3 weeks on block rewards, 4 weeks on attestation rewards, 4 weeks on sync committee?
+```mermaid
+gantt
+    title Consensus client reward APIs - Timeline
+    dateFormat  YYYY-MM-DD
+    section Beacon-APIs
+        codebase:2022-11-05, 3d
+        attestation:2022-11-07, 10d
+        block:2022-11-07, 10d
+        sync committee:2022-11-09, 8d
+    section Consensus clients
+        codebase:2022-11-14, 14d
+        block:2022-11-28, 21d
+        attestation:2022-12-19, 21d
+        sync committee:2023-01-09, 21d
+```
 
 What is your proposed timeline? Outline parts of the project and insight on how much time it will take to execute them.
 
