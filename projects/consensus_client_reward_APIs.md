@@ -2,7 +2,7 @@
 
 **Implement APIs to fetch `per-validator rewards`**
 
-Collaboration between [`naviechan`](https://github.com/naviechan) and [`kevinbogner`](https://github.com/kevinbogner) under the mentorship of [`sproul`](https://github.com/michaelsproul).
+Collaboration between [`NC`](https://github.com/naviechan) and [`kevinbogner`](https://github.com/kevinbogner) under the mentorship of [`sproul`](https://github.com/michaelsproul).
 
 ## Motivation
 
@@ -10,8 +10,6 @@ The Ethereum Merge joined the original execution layer with its new proof-of-sta
 
 Currently, there are *no* APIs to calculate the rewards paid to validators for fulfilling their duties.
 This hinders the development of tools like block explorer and GUIs, requiring the devs to reverse engineer to get some data on rewards paid to validators.
-
-What problem is your project is solving? Why is it important and what area of the protocol will be affected?
 
 ## Project description
 
@@ -21,12 +19,10 @@ The [Ethereum beacon-APIs](https://github.com/ethereum/beacon-APIs) is a collect
 
 Once the API endpoints are merged, we implement those APIs in one or more consensus clients.
 
-What is your proposed solution? 
-
 ## Specification
 
 There are *three* main activities validators are getting paid for:
-1. Making *attestations*, which consist of three votes, each vote can be rewarded if they are subject to the conditions:
+1. Making *attestations*, which consist of three votes, each vote can be rewarded if they are subject to certain conditions:
     - voting for a *source* checkpoint,
     - voting for a *target* checkpoint,
     - voting for a chain *head* block.
@@ -91,8 +87,6 @@ These three reward types must be separately designed and implemented in both the
 }
 ```
 
-How will you implement your solutions? Give details and more technical information on the project.
-
 ## Roadmap
 
 ```mermaid
@@ -111,19 +105,38 @@ gantt
         sync committee:2023-01-09, 21d
 ```
 
-What is your proposed timeline? Outline parts of the project and insight on how much time it will take to execute them.
-
 ## Possible challenges
 
-Timeline is hard to predict
+There are mainly *two* significant challenges that we identified:
+- navigating and understanding the vast codebase of consensus clients; and
+- predicting how long a particular milestone takes. 
 
-What are the limitations and issues you may need to overcome?
+Understanding the terminologies of Ethereum was another issue at the start of the project; however, we both improved in this area.
 
 ## Goal of the project
 
-What does success look like? Describe the end goal of the project, scope, state and impact for the project to be considered finished and successful.
+The project is *finished* when our APIs are successfully implemented in *one* consensus client.
+
+Our project was *successful* as soon as *more than one* consensus customer implemented our APIs, either through their teams or through us.
+
+Our *expectations are exceeded* when several applications like block explorer or GUIs use our endpoints to gather data.
 
 ## Resources
 
-Provide links to repositories, PRs and other resources which constitute the project.
+[`Beacon-APIs`](https://github.com/ethereum/beacon-APIs):
+- [PR: Add reward-endpoints for `attestations` and `blocks`](https://github.com/ethereum/beacon-APIs/pull/260)
+- [PR: Add reward-endpoint for `sync_committee`](https://github.com/ethereum/beacon-APIs/pull/262)
 
+`Consensus clients`:
+- [Issue - Lighthouse](https://github.com/sigp/lighthouse/issues/3661)
+
+---
+
+[`NC`](https://github.com/naviechan):
+- [Dev Updates](https://github.com/eth-protocol-fellows/cohort-three/blob/master/development-updates.md#nc)
+
+[`kevinbogner`](https://github.com/kevinbogner):
+- [Dev Updates](https://github.com/eth-protocol-fellows/cohort-three/blob/master/development-updates.md#kevinbogner)
+- [Notes](https://github.com/eth-protocol-fellows/cohort-three/blob/master/notes/kevinbogner.md)
+- [Repo of a dashboard that later uses the APIs](https://github.com/kevinbogner/data-analysis-consensus-clients)
+- [Dashboard](https://kevinbogner-data-analysis-consensus-clients-app-lz484x.streamlit.app/)
