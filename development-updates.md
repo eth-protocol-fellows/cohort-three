@@ -37,6 +37,9 @@
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
     - [Update #3](#edgee-update-3)
+  - [eserilev](#eserilev)
+    - [Update #1](#eserilev-update-1)
+    - [Update #2](#eserilev-update-2)
     - [Update #4](#edgee-update-4)
   - [Faheel](#faheel)
     - [Update 1](#faheel-update-1)
@@ -237,6 +240,17 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 
 [Update #3](https://hackmd.io/@EagleEdge/H1_THfwNi)
 
+## eserilev
+
+### eserilev update #1
+
+[update #1](https://hackmd.io/@B8vIxNUfSeC2Mhu5CBwSNw/Bk9b6xsNj)
+
+
+### eserilev update #2
+
+[update #2](https://hackmd.io/Z9ZE2XIsQVaCTN5A358M8w)
+[update #2.5](https://hackmd.io/18Jaw8dgSUOk6uAoekvUpw)
 ### edgee: Update 4
 
 [Update #4](https://hackmd.io/@EagleEdge/rysYgCMrj)
@@ -349,12 +363,11 @@ Development updates from [markodayan](https://github.com/markodayan)
 
 Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
-### Mustapha Saeed: Update 1
+### [Week 1 Update](https://hackmd.io/@msaeed/BJYooQEEj/)
 
-[Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
+### [Week 2 Update](https://hackmd.io/@msaeed/BkZfZSi4o/)
 
-### Mustapha Saeed: Update 2
-[Update 2](https://hackmd.io/@msaeed/BkZfZSi4o/)
+### [Week 3 Update](https://hackmd.io/@msaeed/SkjoTgnHi)
 
 ## Pat Stiles
 
