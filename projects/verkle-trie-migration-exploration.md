@@ -44,11 +44,11 @@ My solution will consist of the following:
 
 Since there’s a lot of work happening quite fast in this area, it’s a bit hard to have a meaningful and stable roadmap; but I’d imagine the following steps:
 
-- Gain an understanding of Verkle Tries specification and new cryptographic primitives.
-- Gain an understanding of the impact of this switch coming from MPTs. Build some reference benchmarks and structure analysis to gain more knowledge of the overhead we’re buying with the switch.
-- Explore potential solutions and performance improvements in all the found bottlenecks and hotspots. If possible, implement them and improve the current implementations.
-- After being deeper into the VKT work track, take a step back and think about how we can help new people be onboarded to this topic. Can we (if worth it) craft a single document that can be the best place anyone can land to understand how VKT works and what is happening today?
-- Consider taking a similar approach as with *The Merge*, and think of agnostic test vectors that can be helpful for other clients when they start working on Verkle Tries. Knowing that everyone has a green check on core tests to validate would be not only useful for core developers but catch bugs before more clients are onboarded to VKT testnets.
+- [ ] Gain an understanding of Verkle Tries specification and new cryptographic primitives.
+- [ ] Gain an understanding of the impact of this switch coming from MPTs. Build some reference benchmarks and structure analysis to gain more knowledge of the overhead we’re buying with the switch.
+- [ ] Explore potential solutions and performance improvements in all the found bottlenecks and hotspots. If possible, implement them and improve the current implementations.
+- [ ] After being deeper into the VKT work track, take a step back and think about how we can help new people be onboarded to this topic. Can we (if worth it) craft a single document that can be the best place anyone can land to understand how VKT works and what is happening today?
+- [ ] Consider taking a similar approach as with *The Merge*, and think of agnostic test vectors that can be helpful for other clients when they start working on Verkle Tries. Knowing that everyone has a green check on core tests to validate would be not only useful for core developers but catch bugs before more clients are onboarded to VKT testnets.
 
 The above is a general strategy for multiple tracks of work happening simultaneously. There’re many layers involved in Verkle Tries, and probably all of them can benefit from this approach in parallel.
 
