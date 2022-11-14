@@ -90,7 +90,7 @@ This section contains relevant work links of this project:
     - https://github.com/jsign/verkle-vs-patricia (own repository for MPT vs VKT benches and explorations)
 - [go-verkle](https://github.com/gballet/go-verkle) (Geth implementation of Verkle Tries):
     - https://github.com/gballet/go-verkle/pull/290
-    - [https://github.com/gballet/go-verkle/pull/291](https://github.com/gballet/go-verkle/pull/291)
+    - https://github.com/gballet/go-verkle/pull/291
 - [go-ipa](https://github.com/crate-crypto/go-ipa) (Go cryptographic primitives for `go-verkle`):
     - https://github.com/crate-crypto/go-ipa/pull/26
     - https://github.com/crate-crypto/go-ipa/pull/30
