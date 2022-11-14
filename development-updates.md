@@ -78,7 +78,7 @@
   - [pavignol](#pavignol)
     - [Update #1](#pavignol-update-1)
     - [Update #2](#pavignol-update-2)
-  -[Reza](#reza)
+  - [Reza](#reza)
     - [Update #1](#reza-update-1)
   - [robzajac](#robzajac)
     - [Update #1](#robzajac-update-1)
