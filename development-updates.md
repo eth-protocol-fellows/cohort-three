@@ -49,6 +49,10 @@
     - [Update #4](#edgee-update-4)
   - [Faheel](#faheel)
     - [Update 1](#faheel-update-1)
+  - [Gabriel](#gabriel)
+    - [Update #1](#gabriel-update-1)
+    - [Update #2](#gabriel-update-2)
+    - [Update #3](#gabriel-update-3)
   - [Garvit](#garvit)
     - [Update #1](#update-1---the-beginning)
   - [Geemo](#geemo)
@@ -294,6 +298,22 @@ Development updates from [`Faheel`](https://github.com/faheelsattar)
 ### Update 1
 
 [Update #1](https://hackmd.io/@faheelsattar/rk07Iu6No)
+
+## Gabriel
+
+Development updates from [`0xGabi`](https://github.com/0xGabi)
+
+### Gabriel: Update 1
+
+[Update #1](notes/0xgabi.md#10/25/2022)
+
+### Gabriel: Update 2
+
+[Update #2](notes/0xgabi.md#10/31/2022)
+
+### Gabriel: Update 3
+
+[Update #3](notes/0xgabi.md#11/07/2022)
 
 ## Garvit
 
