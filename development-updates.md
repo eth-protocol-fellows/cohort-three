@@ -52,6 +52,7 @@
     - [Update #2](#ignacio-update-2)
     - [Update #3](#ignacio-update-3)
     - [Update #4](#ignacio-update-4)
+    - [Update #5](#ignacio-update-5)
   - [jimmy](#jimmy)
     - [Update #1](#jimmy-update-1)
     - [Update #2](#jimmy-update-2)
@@ -68,7 +69,8 @@
     - [Update #2](#markodayan-update-2)
     - [Update #3](#markodayan-update-3)
   - [Pat Stiles](#pat-stiles)
-    - [Pat Stiles: Update 1](#patstiles-update-1)
+    - [Update #1](#patstiles-update-1)
+    - [Update #2](#patstiles-update-2)
   - [pavignol](#pavignol)
     - [Update #1](#pavignol-update-1)
     - [Update #2](#pavignol-update-2)
@@ -299,6 +301,11 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #4](https://hackmd.io/@jsign/cohort-three-update-4)
 
+### Update #5
+
+[Link to Update #5](https://hackmd.io/@jsign/cohort-three-update-5)
+
+
 
 ## Jimmy
 
@@ -371,11 +378,13 @@ Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
 ## Pat Stiles
 
-Development updates from ['Pat Stiles'](https://github.com/PatStiles)
+Development updates from [`Pat Stiles`](https://github.com/PatStiles)
 
 ### Pat Stiles: Update 1
+[Update #1 (24/10/22) ](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/HkNpraVNi)
 
-[Update 1](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/HkNpraVNi)
+### Pat Stiles: Update 2
+[Update #2 (13/11/22) ](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/SJ1vkU1Ii)
 
 ## pavignol
 
