@@ -3,104 +3,101 @@
 ## Table Of Contents
 
 > Add yours to the TOC if it isn't here already
-
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
   - [Abdel Haifouli](#abdel-haifouli)
-    - [Update #1 - 2022.10.29](#update-1---20221029)
-  - [Abel Jansma](#abel-jansma)
-    - [Update 2022.10.25](#update-20221025)
-    - [Update 2022.10.29](#update-20221029)
-    - [Update 2022.11.03](#update-20221103)
-    - [Update 2022.11.04](#update-20221104)
+  - [Abel Jansma](#abel-Jansma)
   - [Abdul Sami J.](#abdul-sami-j)
-    - [ASJ: Update 1](#asj-update-1)
+    - [Update #1](#asj-update-1)
   - [andriidski](#andriidski)
   - [Anthony Madia](#anthony-madia)
     - [Update 1](#update-1)
     - [Update 2](#update-2)
     - [Update 3](#update-3)
     - [Update 4](#update-4)
-  - [Alpesh](#alpesh)
-    - [Update 1](#update-1-1)
-    - [Update 2](#update-2-1)
+  - [Alpesh](#abhudia04)
+    - [Update #1](#alpesh-update-1)
+    - [Update #2](#alpesh-update-2)
   - [Bem Baraki](#bem-baraki)
-    - [Bem Baraki: Update 1](#bem-baraki-update-1)
-    - [Bem Baraki: Update 2](#bem-baraki-update-2)
   - [brechy](#brechy)
-    - [brechy: Update 1](#brechy-update-1)
-    - [brechy: Update 2](#brechy-update-2)
+    - [Update #1](#brechy-update-1)
+    - [Update #2](#brechy-update-2)
   - [Chloe](#chloe)
-    - [Update 1](#update-1-2)
-    - [Update 2](#update-2-2)
-  - [Crypdough.eth](#crypdougheth)
-    - [Update 1](#update-1-3)
+    - [Update #1](#update-1)
+    - [Update #2](#update-2)
+    - [Update #3](#update-3)
+  - [Crypdough.eth](#Crypdough.eth)
+    - [Update #1](#update-1)
   - [Dhruv](#dhruv)
-    - [dhruv: Update 1](#dhruv-update-1)
+    - [Update 1](#dhruv-update-1)
   - [Echno](#echno)
-    - [Update #1](#update-1-4)
+    - [Update 1](#update-1)
+    - [Update 2](#update-2)
   - [Echo](#echo)
-    - [Update 1](#update-1-5)
-    - [Update 2](#update-2-3)
+    - [Update 1](#update-1)
+    - [Update 2](#update-2)
   - [edgee](#edgee)
-    - [edgee: Update 1](#edgee-update-1)
-    - [edgee: Update 2](#edgee-update-2)
-    - [edgee: Update 3](#edgee-update-3)
-    - [edgee: Update 4](#edgee-update-4)
+    - [Update #1](#edgee-update-1)
+    - [Update #2](#edgee-update-2)
+    - [Update #3](#edgee-update-3)
+  - [eserilev](#eserilev)
+    - [Update #1](#eserilev-update-1)
+    - [Update #2](#eserilev-update-2)
+    - [Update #4](#edgee-update-4)
   - [Faheel](#faheel)
-    - [Update 1](#update-1-6)
+    - [Update 1](#faheel-update-1)
   - [Garvit](#garvit)
-    - [Update 1 - The beginning](#update-1---the-beginning)
+    - [Update #1](#update-1---the-beginning)
   - [Geemo](#geemo)
-    - [Geemo: Update 1](#geemo-update-1)
+    - [Update #1](#geemo-update-1)
   - [ignacio](#ignacio)
-    - [Update #1](#update-1-7)
-    - [Update #2](#update-2-4)
-    - [Update #3](#update-3-1)
-    - [Update #4](#update-4-1)
-  - [Jimmy](#jimmy)
-    - [Jimmy: Update 1](#jimmy-update-1)
-    - [Jimmy: Update 2](#jimmy-update-2)
+    - [Update #1](#ignacio-update-1)
+    - [Update #2](#ignacio-update-2)
+    - [Update #3](#ignacio-update-3)
+    - [Update #4](#ignacio-update-4)
+    - [Update #5](#ignacio-update-5)
+  - [jimmy](#jimmy)
+    - [Update #1](#jimmy-update-1)
+    - [Update #2](#jimmy-update-2)
   - [kevinbogner](#kevinbogner)
-    - [kevinbogner: Update 1](#kevinbogner-update-1)
-    - [kevinbogner: Update 2](#kevinbogner-update-2)
-    - [kevinbogner: Update 3](#kevinbogner-update-3)
-  - [manu:](#manu)
-    - [manu: Update 1](#manu-update-1)
-    - [manu: Update 2](#manu-update-2)
+    - [Update #1](#kevinbogner-update-1)
+    - [Update #2](#kevinbogner-update-2)
+    - [Update #3](#kevinbogner-update-3)
+    - [Update #4](#kevinbogner-update-4)
+  - [manu](#manu)
+    - [Update #1](#manu-update-1)
+    - [Update #2](#manu-update-2)
   - [markodayan](#markodayan)
-    - [markodayan: Update 1](#markodayan-update-1)
-    - [markodayan: Update 2](#markodayan-update-2)
-    - [markodayan: Update 3](#markodayan-update-3)
-  - [Mustapha Saeed](#mustapha-saeed)
-    - [Mustapha Saeed: Update 1](#mustapha-saeed-update-1)
-    - [Mustapha Saeed: Update 2](#mustapha-saeed-update-2)
+    - [Update #1](#markodayan-update-1)
+    - [Update #2](#markodayan-update-2)
+    - [Update #3](#markodayan-update-3)
   - [Pat Stiles](#pat-stiles)
-    - [Pat Stiles: Update 1](#pat-stiles-update-1)
+    - [Update #1](#patstiles-update-1)
+    - [Update #2](#patstiles-update-2)
   - [pavignol](#pavignol)
-    - [pavignol: Update 1](#pavignol-update-1)
-    - [pavignol: Update 2](#pavignol-update-2)
+    - [Update #1](#pavignol-update-1)
+    - [Update #2](#pavignol-update-2)
+  -[Reza](#reza)
+    - [Update #1](#reza-update-1)
   - [robzajac](#robzajac)
-    - [robzajac: Update 1](#robzajac-update-1)
-    - [robzajac: Update 2](#robzajac-update-2)
-    - [robzajac: Update 3](#robzajac-update-3)
+    - [Update #1](#robzajac-update-1)
+    - [Update #2](#robzajac-update-2)
+    - [Update #3](#robzajac-update-3)
   - [strykerin](#strykerin)
     - [strykerin: Update 1](#strykerin-update-1)
     - [strykerin: Update 2](#strykerin-update-2)
   - [Vid Kersic](#vid-kersic)
     - [Vid Kersic: Update 1](#vid-kersic-update-1)
-    - [Vid Kersic: Update 2](#vid-kersic-update-2)
-    - [Vid Kersic: Update 3](#vid-kersic-update-3)
-  - [Wanning Ding](#wanning-ding)
+  - [Wanning Ding](#Wanning-Ding)
     - [Wanning Ding: Update 1](#wanning-ding-update-1)
     - [Wanning Ding: Update 2](#wanning-ding-update-2)
-  - [NC](#nc)
-    - [NC: Update 1](#nc-update-1)
-    - [NC: Update 2](#nc-update-2)
-  - [WillQ](#willq)
-    - [WillQ: Update 1](#willq-update-1)
-    - [WillQ: Update 2](#willq-update-2)
+  - [NC](#NC)
+    - [Update #1](#nc-update-1)
+    - [Update #2](#nc-update-2)
+  - [WillQ](#WillQ)
+    - [WillQ: Update 1](#WillQ-update-1)
+    - [WillQ: Update 2](#WillQ-update-2)
 ## Contributing
 
 If you are participating in the program, you should be posting or aggregating
@@ -159,8 +156,6 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 
 ### Update 4
 
-[Link to Update 4](https://cyclic-witch-ded.notion.site/Update-4-b86b0ba4fd5841f4a31dfc8e07223304)
-
 ## Alpesh
 
 Development updates from ['Alpesh'](https://github.com/abhudia04)
@@ -208,6 +203,10 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 
 [Link to Update #2](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%201%20-%20Survey.md)
 
+### Update 3
+
+[Link to Update #3](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%202.md)
+
 ## Crypdough.eth
 
 Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
@@ -229,6 +228,10 @@ Development updates from [`Echno`](https://github.com/ogechno)
 ### Update #1
 
 [Update #1](https://hackmd.io/@echno/SJJKeGjVj)
+
+### Update #2
+
+[Update #2](https://hackmd.io/@echno/S1QbuQaHs)
 
 ## Echo
 
@@ -258,6 +261,17 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 
 [Update #3](https://hackmd.io/@EagleEdge/H1_THfwNi)
 
+## eserilev
+
+### eserilev update #1
+
+[update #1](https://hackmd.io/@B8vIxNUfSeC2Mhu5CBwSNw/Bk9b6xsNj)
+
+
+### eserilev update #2
+
+[update #2](https://hackmd.io/Z9ZE2XIsQVaCTN5A358M8w)
+[update #2.5](https://hackmd.io/18Jaw8dgSUOk6uAoekvUpw)
 ### edgee: Update 4
 
 [Update #4](https://hackmd.io/@EagleEdge/rysYgCMrj)
@@ -306,6 +320,11 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #4](https://hackmd.io/@jsign/cohort-three-update-4)
 
+### Update #5
+
+[Link to Update #5](https://hackmd.io/@jsign/cohort-three-update-5)
+
+
 
 ## Jimmy
 
@@ -334,6 +353,10 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 ### kevinbogner: Update 3
 
 [Update #3](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/HJhEF6wVj)
+
+### kevinbogner: Update 4
+
+[Update #4](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/B1UFETvro)
 
 ## manu:
 
@@ -366,20 +389,21 @@ Development updates from [markodayan](https://github.com/markodayan)
 
 Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
-### Mustapha Saeed: Update 1
+### [Week 1 Update](https://hackmd.io/@msaeed/BJYooQEEj/)
 
-[Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
+### [Week 2 Update](https://hackmd.io/@msaeed/BkZfZSi4o/)
 
-### Mustapha Saeed: Update 2
-[Update 2](https://hackmd.io/@msaeed/BkZfZSi4o/)
+### [Week 3 Update](https://hackmd.io/@msaeed/SkjoTgnHi)
 
 ## Pat Stiles
 
-Development updates from ['Pat Stiles'](https://github.com/PatStiles)
+Development updates from [`Pat Stiles`](https://github.com/PatStiles)
 
 ### Pat Stiles: Update 1
+[Update #1 (24/10/22) ](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/HkNpraVNi)
 
-[Update 1](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/HkNpraVNi)
+### Pat Stiles: Update 2
+[Update #2 (13/11/22) ](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/SJ1vkU1Ii)
 
 ## pavignol
 
@@ -392,6 +416,11 @@ Development updates from [`pavignol`](https://github.com/PatriceVignola)
 ### pavignol: Update 2
 
 [Update #2](https://hackmd.io/@pavignol/r1p6D4UBs)
+
+
+### reza: Update 1
+
+[Update #1](https://hackmd.io/@9bzKNIy9RfuuOfvcoP5Dxg/EPF_1)
 
 ## robzajac
 
