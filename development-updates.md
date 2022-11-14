@@ -31,6 +31,7 @@
     - [Update 1](#dhruv-update-1)
   - [Echno](#echno)
     - [Update 1](#update-1)
+    - [Update 2](#update-2)
   - [Echo](#echo)
     - [Update 1](#update-1)
     - [Update 2](#update-2)
@@ -220,6 +221,10 @@ Development updates from [`Echno`](https://github.com/ogechno)
 ### Update #1
 
 [Update #1](https://hackmd.io/@echno/SJJKeGjVj)
+
+### Update #2
+
+[Update #2](https://hackmd.io/@echno/S1QbuQaHs)
 
 ## Echo
 
