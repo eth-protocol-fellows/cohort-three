@@ -3,7 +3,6 @@
 ## Table Of Contents
 
 > Add yours to the TOC if it isn't here already
-
 - [Development Updates](#development-updates)
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
@@ -13,7 +12,10 @@
     - [Update #1](#asj-update-1)
   - [andriidski](#andriidski)
   - [Anthony Madia](#anthony-madia)
-    - [Update #1](#anthony-madia-update) - [Update #2](#anthony-madia-update-1)
+    - [Update 1](#update-1)
+    - [Update 2](#update-2)
+    - [Update 3](#update-3)
+    - [Update 4](#update-4)
   - [Alpesh](#abhudia04)
     - [Update #1](#alpesh-update-1)
     - [Update #2](#alpesh-update-2)
@@ -148,6 +150,11 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 2
 
 [Link to Update 2](https://www.notion.so/Update-2-c2115df00c8e4428a81921f5fd557a46)
+### Update 3
+
+[Link to Update 3](https://cyclic-witch-ded.notion.site/Update-3-20f7df88507441599cc2cb86b5a51214)
+
+### Update 4
 
 ## Alpesh
 
