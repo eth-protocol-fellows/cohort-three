@@ -35,3 +35,9 @@ Doc for notes and resources collected on projects I am researching
 - [From Kedemlia to discv5](https://vac.dev/kademlia-to-discv5)
 - [Ethereum Explained: The EVM](https://www.youtube.com/watch?v=kCswGz9naZg)
 - [Ethereum Virtual Machine Opcodes](https://ethervm.io/)
+
+Week 2
+
+This week I started reading Hive code to better understand how it works. Also, I reviewed Docker since it's a lot used on this project.
+
+This week I also read the ethereum-js client implementation of discv5.

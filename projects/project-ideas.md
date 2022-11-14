@@ -130,3 +130,10 @@ Proposed by Ognyan Genev
 #### Cross-client testing framework for Portal Network clients
 [Axle](https://github.com/ogenev/axle) is a new project, inspired by [Hive](https://github.com/ethereum/hive). The goal is to create a framework for running integration tests against Portal Network clients.
 The project is in a very early stage and greenfield.
+
+### API for calculating ETH supply
+
+By Tim Beiko
+
+An API endpoint that calculates the current supply of ETH. Create basic specification and implementation which should get merged in at least one EL<>CL combo and maybe even the API specs. Ideally, works on multiple clients and you can compare the output.
+

@@ -11,9 +11,13 @@
   - [Abel Jansma](#abel-Jansma)
   - [Abdul Sami J.](#abdul-sami-j)
     - [Update #1](#asj-update-1)
+    - [Update #2](#asj-update-2)
   - [andriidski](#andriidski)
   - [Anthony Madia](#anthony-madia)
-    - [Update #1](#anthony-madia-update) - [Update #2](#anthony-madia-update-1)
+    - [Update 1](#update-1)
+    - [Update 2](#update-2)
+    - [Update 3](#update-3)
+    - [Update 4](#update-4)
   - [Alpesh](#abhudia04)
     - [Update #1](#alpesh-update-1)
     - [Update #2](#alpesh-update-2)
@@ -23,13 +27,15 @@
     - [Update #2](#brechy-update-2)
   - [Chloe](#chloe)
     - [Update #1](#update-1)
-    - [Update #2](#update-1)
+    - [Update #2](#update-2)
+    - [Update #3](#update-3)
   - [Crypdough.eth](#Crypdough.eth)
     - [Update #1](#update-1)
   - [Dhruv](#dhruv)
     - [Update 1](#dhruv-update-1)
   - [Echno](#echno)
     - [Update 1](#update-1)
+    - [Update 2](#update-2)
   - [Echo](#echo)
     - [Update 1](#update-1)
     - [Update 2](#update-2)
@@ -37,6 +43,9 @@
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
     - [Update #3](#edgee-update-3)
+  - [eserilev](#eserilev)
+    - [Update #1](#eserilev-update-1)
+    - [Update #2](#eserilev-update-2)
     - [Update #4](#edgee-update-4)
   - [Faheel](#faheel)
     - [Update 1](#faheel-update-1)
@@ -49,6 +58,7 @@
     - [Update #2](#ignacio-update-2)
     - [Update #3](#ignacio-update-3)
     - [Update #4](#ignacio-update-4)
+    - [Update #5](#ignacio-update-5)
   - [jimmy](#jimmy)
     - [Update #1](#jimmy-update-1)
     - [Update #2](#jimmy-update-2)
@@ -64,16 +74,20 @@
     - [Update #1](#markodayan-update-1)
     - [Update #2](#markodayan-update-2)
     - [Update #3](#markodayan-update-3)
-    - [Update #3](#markodayan-update-4)
+    - [Update #4](#markodayan-update-4)
   - [Pat Stiles](#pat-stiles)
-    - [Pat Stiles: Update 1](#patstiles-update-1)
+    - [Update #1](#patstiles-update-1)
+    - [Update #2](#patstiles-update-2)
   - [pavignol](#pavignol)
     - [Update #1](#pavignol-update-1)
     - [Update #2](#pavignol-update-2)
+  - [Reza](#reza)
+    - [Update #1](#reza-update-1)
   - [robzajac](#robzajac)
     - [Update #1](#robzajac-update-1)
     - [Update #2](#robzajac-update-2)
     - [Update #3](#robzajac-update-3)
+    - [Update #4](#robzajac-update-4)
   - [strykerin](#strykerin)
     - [strykerin: Update 1](#strykerin-update-1)
     - [strykerin: Update 2](#strykerin-update-2)
@@ -124,6 +138,10 @@ Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
 
 [Update #1](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-1)
 
+### ASJ: Update 2
+
+[Update #2](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-2)
+
 ## andriidski
 
 Development updates from [`andriidski`](https://github.com/andriidski)
@@ -141,6 +159,12 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 2
 
 [Link to Update 2](https://www.notion.so/Update-2-c2115df00c8e4428a81921f5fd557a46)
+
+### Update 3
+
+[Link to Update 3](https://cyclic-witch-ded.notion.site/Update-3-20f7df88507441599cc2cb86b5a51214)
+
+### Update 4
 
 ## Alpesh
 
@@ -190,6 +214,10 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 
 [Link to Update #2](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%201%20-%20Survey.md)
 
+### Update 3
+
+[Link to Update #3](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%202.md)
+
 ## Crypdough.eth
 
 Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
@@ -211,6 +239,10 @@ Development updates from [`Echno`](https://github.com/ogechno)
 ### Update #1
 
 [Update #1](https://hackmd.io/@echno/SJJKeGjVj)
+
+### Update #2
+
+[Update #2](https://hackmd.io/@echno/S1QbuQaHs)
 
 ## Echo
 
@@ -239,6 +271,17 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 ### edgee: Update 3
 
 [Update #3](https://hackmd.io/@EagleEdge/H1_THfwNi)
+
+## eserilev
+
+### eserilev update #1
+
+[update #1](https://hackmd.io/@B8vIxNUfSeC2Mhu5CBwSNw/Bk9b6xsNj)
+
+### eserilev update #2
+
+[update #2](https://hackmd.io/Z9ZE2XIsQVaCTN5A358M8w)
+[update #2.5](https://hackmd.io/18Jaw8dgSUOk6uAoekvUpw)
 
 ### edgee: Update 4
 
@@ -356,9 +399,9 @@ Development updates from [markodayan](https://github.com/markodayan)
 
 Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
-### Mustapha Saeed: Update 1
+### [Week 1 Update](https://hackmd.io/@msaeed/BJYooQEEj/)
 
-[Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
+### [Week 2 Update](https://hackmd.io/@msaeed/BkZfZSi4o/)
 
 ### Mustapha Saeed: Update 2
 
@@ -366,11 +409,15 @@ Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
 ## Pat Stiles
 
-Development updates from ['Pat Stiles'](https://github.com/PatStiles)
+Development updates from [`Pat Stiles`](https://github.com/PatStiles)
 
 ### Pat Stiles: Update 1
 
-[Update 1](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/HkNpraVNi)
+[Update #1 (24/10/22) ](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/HkNpraVNi)
+
+### Pat Stiles: Update 2
+
+[Update #2 (13/11/22) ](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/SJ1vkU1Ii)
 
 ## pavignol
 
@@ -383,6 +430,12 @@ Development updates from [`pavignol`](https://github.com/PatriceVignola)
 ### pavignol: Update 2
 
 [Update #2](https://hackmd.io/@pavignol/r1p6D4UBs)
+
+## reza
+
+### reza: Update 1
+
+[Update #1](https://hackmd.io/@9bzKNIy9RfuuOfvcoP5Dxg/EPF_1)
 
 ## robzajac
 
@@ -399,6 +452,10 @@ Development updates from [`robzajac`](https://github.com/robzajac)
 ### robzajac: Update 3
 
 [Update #3](https://hackmd.io/@robzajac/BypAM9LSi)
+
+### robzajac: Update 4
+
+[Update #4](https://hackmd.io/@robzajac/HJ8Pg0yIs)
 
 ## strykerin
 
