@@ -11,6 +11,8 @@
   - [Anthony Madia](#anthony-madia)
     - [Update #1](#anthony-madia-update)
     - [Update #2](#anthony-madia-update-1)
+    - [Update #3](#anthony-madia-update-3)
+    - [Update #4](#anthony-madia-update-4)
   - [edgee](#edgee)
     - [Update #1](#edgee-update-1)
     - [Update #2](#edgee-update-2)
@@ -50,6 +52,12 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 
 ### Update 2
 [Link to Update 2](https://www.notion.so/Update-2-c2115df00c8e4428a81921f5fd557a46)
+
+### Update 3
+[Link to Update 3](https://cyclic-witch-ded.notion.site/Update-3-20f7df88507441599cc2cb86b5a51214)
+
+### Update 4
+[Link to Update 4](https://cyclic-witch-ded.notion.site/Update-4-b86b0ba4fd5841f4a31dfc8e07223304)
 
 ## edgee
 Development updates from [`edgee`](https://github.com/EagleEdge)
