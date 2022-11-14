@@ -106,7 +106,7 @@
   - [WillQ](#WillQ)
     - [WillQ: Update 1](#WillQ-update-1)
     - [WillQ: Update 2](#WillQ-update-2)
-
+    - [WillQ: Update 3](#WillQ-update-3)
 ## Contributing
 
 If you are participating in the program, you should be posting or aggregating
@@ -540,3 +540,7 @@ Development updates from [`WillQ`](https://github.com/zsluedem/)
 ### WillQ: Update 2
 
 [Update #2](https://hackmd.io/@WillQ/H19FwIyHj)
+
+### WillQ: Update 3
+
+[Update #3](https://hackmd.io/@WillQ/BJc2-CKSj)
