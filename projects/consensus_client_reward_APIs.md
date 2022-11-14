@@ -107,7 +107,8 @@ gantt
 
 ## Possible challenges
 
-There are mainly *two* significant challenges that we identified:
+There are mainly *three* significant challenges that we identified:
+- understand the reward mechanism and know where to get the needed data from; and
 - navigating and understanding the vast codebase of consensus clients; and
 - predicting how long a particular milestone takes. 
 
@@ -120,6 +121,16 @@ The project is *finished* when our APIs are successfully implemented in *one* co
 Our project was *successful* as soon as *more than one* consensus customer implemented our APIs, either through their teams or through us.
 
 Our *expectations are exceeded* when several applications like block explorer or GUIs use our endpoints to gather data.
+
+## Collaborators
+
+### Fellows
+- [`kevinbogner`](https://github.com/kevinbogner)
+- [`NC`](https://github.com/naviechan)
+
+### Mentors
+- [`sproul`](https://github.com/michaelsproul).
+
 
 ## Resources
 
