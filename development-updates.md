@@ -69,7 +69,8 @@
     - [Update #2](#markodayan-update-2)
     - [Update #3](#markodayan-update-3)
   - [Pat Stiles](#pat-stiles)
-    - [Pat Stiles: Update 1](#patstiles-update-1)
+    - [Update #1](#patstiles-update-1)
+    - [Update #2](#patstiles-update-2)
   - [pavignol](#pavignol)
     - [Update #1](#pavignol-update-1)
     - [Update #2](#pavignol-update-2)
@@ -377,11 +378,13 @@ Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
 ## Pat Stiles
 
-Development updates from ['Pat Stiles'](https://github.com/PatStiles)
+Development updates from [`Pat Stiles`](https://github.com/PatStiles)
 
 ### Pat Stiles: Update 1
+[Update #1 (24/10/22) ](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/HkNpraVNi)
 
-[Update 1](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/HkNpraVNi)
+### Pat Stiles: Update 2
+[Update #2 (13/11/22) ](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/SJ1vkU1Ii)
 
 ## pavignol
 
