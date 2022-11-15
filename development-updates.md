@@ -23,7 +23,8 @@
     - [Update #2](#brechy-update-2)
   - [Chloe](#chloe)
     - [Update #1](#update-1)
-    - [Update #2](#update-1)
+    - [Update #2](#update-2)
+    - [Update #3](#update-3)
   - [Crypdough.eth](#Crypdough.eth)
     - [Update #1](#update-1)
   - [Dhruv](#dhruv)
@@ -52,6 +53,7 @@
     - [Update #2](#ignacio-update-2)
     - [Update #3](#ignacio-update-3)
     - [Update #4](#ignacio-update-4)
+    - [Update #5](#ignacio-update-5)
   - [jimmy](#jimmy)
     - [Update #1](#jimmy-update-1)
     - [Update #2](#jimmy-update-2)
@@ -190,6 +192,10 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 
 [Link to Update #2](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%201%20-%20Survey.md)
 
+### Update 3
+
+[Link to Update #3](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%202.md)
+
 ## Crypdough.eth
 
 Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
@@ -298,6 +304,11 @@ Development updates from [`jsign`](https://github.com/jsign)
 ### Update #4
 
 [Link to Update #4](https://hackmd.io/@jsign/cohort-three-update-4)
+
+### Update #5
+
+[Link to Update #5](https://hackmd.io/@jsign/cohort-three-update-5)
+
 
 
 ## Jimmy
