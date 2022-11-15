@@ -5,6 +5,31 @@
 :computer: **Code: https://github.com/kevinbogner/data-analysis-consensus-clients**.
 
 ## Journal
+**[11/14/2022]**
+- Opened a [PR](https://github.com/eth-protocol-fellows/cohort-three/pull/117) for the project proposal at EPF.
+- Implemented sprouls suggestions into [PR#260](https://github.com/ethereum/beacon-APIs/pull/260) and [PR#262](https://github.com/ethereum/beacon-APIs/pull/262).
+- Attended [EPF standup call](https://github.com/eth-protocol-fellows/cohort-three#standup-calls).
+
+**[11/13/2022]**
+- Working on Dev Update #5 should be published at the start of the coming week.
+
+**[11/12/2022]**
+- Finished [project draft for the EPF](https://github.com/kevinbogner/cohort-three/blob/project/projects/consensus_client_reward_APIs.md).
+
+**[11/11/2022]**
+- Finished ['Run a Node' guide for the Lighthouse book](https://github.com/sigp/lighthouse/pull/3681).
+- Again, minor modifications for [`sync_committee_rewards`](https://github.com/ethereum/beacon-APIs/pull/262).
+
+**[11/10/2022]**
+- Finished some modifications for the ['Run a Node' guide for the Lighthouse book](https://github.com/sigp/lighthouse/pull/3681). It should be ready tomorrow for review.
+- Small modifications for [`sync_committee_rewards`](https://github.com/ethereum/beacon-APIs/pull/262).
+
+**[11/09/2022]**
+- Currently working on three things simultaneously:
+  - [Add endpoints for `per-validator rewards`](https://github.com/ethereum/beacon-APIs/pull/260).
+  - [Add endpoints for `sync_committee_rewards`](https://github.com/ethereum/beacon-APIs/pull/262).
+  - [Add 'Run a Node' guide to the Lighthouse book](https://github.com/sigp/lighthouse/pull/3681).
+
 **[11/08/2022]**
 - More discussion on the [draft PR](https://github.com/ethereum/beacon-APIs/pull/260) for the beacon API endpoints.
 - Published [Dev Update #4](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/B1UFETvro).
