@@ -16,6 +16,7 @@ Here is a list of projects proposed by mentors. If you would like to know more a
 - [By Potuz](#by-potuz)
 - [Consensus client reward APIs](#consensus-client-reward-apis)
 - [Stakers' testnet](#stakers-testnet)
+- [Optimism sequencer support for ERC 4337 bundlers](#optimism-sequencer-support-for-erc-4337-bundlers)
 
 ### Previous cohorts
 
@@ -137,3 +138,8 @@ By Tim Beiko
 
 An API endpoint that calculates the current supply of ETH. Create basic specification and implementation which should get merged in at least one EL<>CL combo and maybe even the API specs. Ideally, works on multiple clients and you can compare the output.
 
+### Optimism sequencer support for ERC 4337 bundlers
+
+By Yoav Weiss
+
+Modify the Optimism (Bedrock) sequencer to add a new RPC for ERC-4337 (account abstraction) bundlers. The new RPC will enable submitting a transaction with certain conditions, and the sequencer will guarantee that the transaction will only be sequenced if these conditions are met. The RPC will be designed to mitigate DoS against the sequencer, require only minimal work from the sequencer, and throttle callers with poor inclusion ratio.
