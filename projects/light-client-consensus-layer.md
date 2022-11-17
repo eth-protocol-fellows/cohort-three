@@ -28,6 +28,10 @@ The second and more open-ended goal of the project is to make headway in the res
 - [`GetLightClientFinalityUpdate`](https://github.com/ethereum/beacon-APIs/blob/master/apis/beacon/light_client/finality_update.yaml): Returns the latest known `LightClientFinalityUpdate`
 - [`GetLightClientOptimisticUpdate`](https://github.com/ethereum/beacon-APIs/blob/master/apis/beacon/light_client/optimistic_update.yaml): Returns the latest known `LightClientOptimisticUpdate`
 
+Incentives solutions
+- https://vipnode.org/ 
+- https://www.pokt.network/
+
 ## Roadmap
 
 - Implement `GetLightClientBootstrap`: 1 week
@@ -38,6 +42,7 @@ The second and more open-ended goal of the project is to make headway in the res
 - Implement `GetLightClientFinalityUpdate` + `GetLightClientOptimisticUpdate`: 2 weeks
 - Deploy and test on teku full node, including a light client sync with one of the available light client projects: 2 weeks
     - Extra time needed if existing light clients are not compatible with consensus light client protocol. In this case it may be necessary to develop a minimal light client to test against the new endpoints
+    - Can leverage [Hive](https://github.com/ethereum/hive) for test infrastructure
 - Consolidate incentives research and prototype a light client incentivization model, e.g. a node running on POKT Network: ~3-4 weeks
 
 Total time estimated: ~10-11 weeks
@@ -72,7 +77,7 @@ I am working independently, but have benefitted from knowledge share on light cl
 - Implementation
     - [teku codebase](https://github.com/ConsenSys/teku)
         - [First PR merged](https://github.com/ConsenSys/teku/pull/6384) with `GetLightClientBootstrap` interface
-        - [Tracking issue](https://github.com/ConsenSys/teku/issues/6287)
+        - [Tracking issue](https://github.com/ConsenSys/teku/issues/4230)
 - Background reading
     - [High level: What is a light client](https://www.parity.io/blog/what-is-a-light-client/)
     - [Explanation of the sync protocol](https://mycelium.xyz/research/world-of-light-clients-ethereum)
