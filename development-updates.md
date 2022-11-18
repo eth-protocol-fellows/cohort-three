@@ -21,6 +21,9 @@
   - [Alpesh](#abhudia04)
     - [Update #1](#alpesh-update-1)
     - [Update #2](#alpesh-update-2)
+  - [ballestar](#ballestar)
+    - [Update #1](#ballestar-update-1)
+    - [Update #2](#ballestar-update-2)
   - [Bem Baraki](#bem-baraki)
   - [brechy](#brechy)
     - [Update #1](#brechy-update-1)
@@ -190,6 +193,18 @@ Development updates from ['Alpesh'](https://github.com/abhudia04)
 ### Update 2
 
 [Link to Update 2](https://hackmd.io/@alpesh/SyTasizro)
+
+## ballestar
+
+Development updates from ['ballestar'](https://github.com/ballestar)
+
+### Update 1
+
+[Link to Update 1](https://hackmd.io/@ballestar/rkM-4524s)
+
+### Update 2
+
+[Link to Update 2](https://hackmd.io/@ballestar/rysCSQEUo)
 
 ## Bem Baraki
 
@@ -436,16 +451,16 @@ Development updates from [markodayan](https://github.com/markodayan)
 
 Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
-### Mustapha Saeed: Update 1 
+### Mustapha Saeed: Update 1
 [Update 1](https://hackmd.io/@msaeed/BJYooQEEj/)
 
-### Mustapha Saeed: Update 2 
+### Mustapha Saeed: Update 2
 [Update 2](https://hackmd.io/@msaeed/BkZfZSi4o/)
 
-### Mustapha Saeed: Update 3 
+### Mustapha Saeed: Update 3
 [Update 3](https://hackmd.io/@msaeed/SkjoTgnHi/)
 
-### Mustapha Saeed: Update 4 
+### Mustapha Saeed: Update 4
 [Update 4](https://hackmd.io/@msaeed/HkzlQTgUs/)
 
 ## Pat Stiles
