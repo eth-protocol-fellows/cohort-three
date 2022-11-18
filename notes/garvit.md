@@ -16,6 +16,8 @@ Below are the notes & links that I will be collecting during my research, the da
 
 ### [18.11.22]
 
+Blog - [How to store private keys securely in local storage?](https://mirror.xyz/plusminushalf.eth/vtRuTou-XjWjQvkigtRrTjKeQ3ZKx5ujyUFZ-W_2s74)
+
 ![Wallet design flow](/images/wallet-design-flow.png)
 ![Wallet Recover design](/images/recovery-design.png)
 
