@@ -15,7 +15,12 @@ This project aims to make a user-facing wallet which can then pave the way forwa
 ## Project description
 
 <!-- What is your proposed solution?  -->
-The proposed 4337 wallet will be a browser extension wallet which will support the following features:
+
+The proposed 4337 wallet will be a browser extension wallet that will split into modules, namely extension, auth and recovery. The split of modules is so that we can have support for multiple SCW implementations. Each wallet would be able to expose the API for the user to select the SCW implementation that they want to try out.
+
+The extension will support the following features:
+
+- Support multiple SCW implementations
 - Ability to create a SCW
 - Recover a SCW
 - Support for sending transactions
@@ -39,8 +44,8 @@ The proposed 4337 wallet will be a browser extension wallet which will support t
 ## Possible challenges
 
 <!-- What are the limitations and issues you may need to overcome? -->
+
 - Onboarding and creation policies of new SCWs
-- Support multiple SCW implementations
 - Support for multiple paymasters
 - Removal of Guardians
 
@@ -51,6 +56,7 @@ The proposed 4337 wallet will be a browser extension wallet which will support t
 <!-- What does success look like? Describe the end goal of the project, scope, state and impact for the project to be considered finished and successful. -->
 
 ## Collaborators
+
 - [Garvit Khatri](https://github.com/plusminushalf)
 - [Jayesh Bhole](https://github.com/jayeshbhole)
 
@@ -58,13 +64,17 @@ The proposed 4337 wallet will be a browser extension wallet which will support t
 
 <!-- Are there any fellows working with you on this project?  -->
 
-<!-- ### Mentors -->
+## Mentors
 
-<!-- Which mentors are helping you with the project?  -->
----
+- [Yoav Weiss](https://github.com/yoavw)
+- [Dror Tirosh](https://github.com/drortirosh)
+
+## <!-- Which mentors are helping you with the project?  -->
+
 ## Resources
 
 <!-- Provide links to repositories, PRs and other resources which constitute the project. -->
+
 ### Reading Material
 
 https://eips.ethereum.org/EIPS/eip-4337
@@ -84,6 +94,7 @@ UI Design: [Figma](https://www.figma.com/file/oM7MjvlOTO6L1vjZ6BxTH1/hex-wallet?
 UX Design: [Figjam](https://www.figma.com/file/GASw8N72JnozdT2FxIlLgA/Wallet-design-flow?node-id=0%3A1)
 
 ### Garvit's notes
+
 <details>
 <summary>Expand</summary>
 
@@ -94,9 +105,11 @@ UX Design: [Figjam](https://www.figma.com/file/GASw8N72JnozdT2FxIlLgA/Wallet-des
 [[11.10.22] Create cusotm SCW](https://github.com/eth-protocol-fellows/cohort-three/blob/master/notes/garvit.md#111022-create-cusotm-scw)
 
 [[03.10.22] Role of stake in paymasters](https://github.com/eth-protocol-fellows/cohort-three/blob/master/notes/garvit.md#031022-role-of-stake-in-paymasters)
+
 </details>
 
 ### Jayesh's notes
+
 <details>
 <summary>Expand</summary>
 
