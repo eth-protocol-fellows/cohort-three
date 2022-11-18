@@ -17,7 +17,7 @@ Below are the notes & links that I will be collecting during my research, the da
 ### [18.11.22]
 
 Blog - [How to store private keys securely in local storage?](https://mirror.xyz/plusminushalf.eth/vtRuTou-XjWjQvkigtRrTjKeQ3ZKx5ujyUFZ-W_2s74)
-Notes - [Metamask snaps & 4337 walle challenges & solutions](https://hackmd.io/@plusminushalf/metamask-snaps-4337-wallet)
+Notes - [Metamask snaps & 4337 wallet challenges & solutions](https://hackmd.io/@plusminushalf/metamask-snaps-4337-wallet)
 
 ![Wallet design flow](/images/wallet-design-flow.png)
 ![Wallet Recover design](/images/recovery-design.png)
