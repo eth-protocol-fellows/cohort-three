@@ -86,9 +86,10 @@
     - [Update #4](#markodayan-update-4)
   - [mustapha](#mustapha-saeed)
     - [Update #1](#mustapha-saeed-update-1)
-    - [Update #1](#mustapha-saeed-update-2)
-    - [Update #1](#mustapha-saeed-update-3)
-    - [Update #1](#mustapha-saeed-update-4)
+    - [Update #2](#mustapha-saeed-update-2)
+    - [Update #3](#mustapha-saeed-update-3)
+    - [Update #4](#mustapha-saeed-update-4)
+    - [Update #5](#mustapha-saeed-update-5)
   - [Pat Stiles](#pat-stiles)
     - [Update #1](#patstiles-update-1)
     - [Update #2](#patstiles-update-2)
@@ -462,6 +463,9 @@ Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
 ### Mustapha Saeed: Update 4
 [Update 4](https://hackmd.io/@msaeed/HkzlQTgUs/)
+
+### Mustapha Saeed: Update 5
+[Update 5](https://hackmd.io/@msaeed/B1hh4EwLi/)
 
 ## Pat Stiles
 
