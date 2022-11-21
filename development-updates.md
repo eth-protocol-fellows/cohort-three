@@ -302,6 +302,12 @@ Development updates from [`Echo`](https://github.com/EchoAlice)
 
 [The Road Not Taken](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/SkgCEzwEj)
 
+### Update 3 
+
+[Update 3 v.1](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/Hy5BFTyUo)
+
+[Update 3 v.2](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/r1lpJ_r8s)
+
 ## edgee
 
 Development updates from [`edgee`](https://github.com/EagleEdge)
