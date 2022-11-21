@@ -97,6 +97,7 @@
   - [Pat Stiles](#pat-stiles)
     - [Update #1](#patstiles-update-1)
     - [Update #2](#patstiles-update-2)
+    - [Update #3](#patstiles-update-3)
   - [pavignol](#pavignol)
     - [Update #1](#pavignol-update-1)
     - [Update #2](#pavignol-update-2)
@@ -506,7 +507,12 @@ Development updates from [`Pat Stiles`](https://github.com/PatStiles)
 
 [Update #2 (13/11/22) ](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/SJ1vkU1Ii)
 
+### Pat Stiles: Update 3
+
+[Update #3 (21/11/22) ](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/SkFGEQYIj)
+
 ## pavignol
+
 
 ### pavignol: Update 1
 
