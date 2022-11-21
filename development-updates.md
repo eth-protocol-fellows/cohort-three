@@ -32,6 +32,7 @@
     - [Update #1](#update-1)
     - [Update #2](#update-2)
     - [Update #3](#update-3)
+    - [Update #4](#update-4)
   - [Crypdough.eth](#Crypdough.eth)
     - [Update #1](#update-1)
   - [Dhruv](#dhruv)
@@ -236,15 +237,19 @@ Development updates from [`doulos819`](https://github.com/doulos819)
 
 ### Update 1
 
-[Link to Update #1](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%200%20-%20Intro.md)
+[Link to Update #1](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly-Updates/Week-0.md)
 
 ### Update 2
 
-[Link to Update #2](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%201%20-%20Survey.md)
+[Link to Update #2](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly-Updates/Week-1.md)
 
 ### Update 3
 
-[Link to Update #3](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly%20Updates/Week%202.md)
+[Link to Update #3](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly-Updates/Week-2.md)
+
+### Update 4
+
+[Link to Update #4](https://github.com/doulos819/mjr/blob/main/research/EPF/Weekly-Updates/Week-3.md)
 
 ## Crypdough.eth
 
