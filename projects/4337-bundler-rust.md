@@ -60,7 +60,7 @@ The specification for EIP-4337 is available **[here](https://eips.ethereum.org/E
 ### Fellows 
 
 - [Vid Kersic](https://github.com/Vid201)
-- [WillQ](https://github.com/zsluedem) (in the conversation, not fully decided yet)
+- [WillQ](https://github.com/zsluedem)
 
 ### Mentors
 
