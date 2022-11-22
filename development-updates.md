@@ -130,6 +130,12 @@
     - [WillQ: Update 2](#WillQ-update-2)
     - [WillQ: Update 3](#WillQ-update-3)
     - [WillQ: Update 4](#WillQ-update-4)
+  - [ZiadGhali](#Ziad-ghali)
+    - [ZiadGhali: Update 1](#ZiadGhali-update-1)
+    - [ZiadGhali: Update 2](#ZiadGhali-update-2)
+    - [ZiadGhali: Update 3](#ZiadGhali-update-3)
+    - [ZiadGhali: Update 4](#ZiadGhali-update-4)
+    - [ZiadGhali: Update 5](#ZiadGhali-update-5)
 
 ## Contributing
 
@@ -654,3 +660,28 @@ Development updates from [`WillQ`](https://github.com/zsluedem/)
 
 ### WillQ: Update 4
 [Update #4](https://hackmd.io/@WillQ/BkolpDxLi)
+
+
+## ZiadGhali
+
+Development updates from [`ZiadGhali`](https://github.com/ziadghali2)
+
+### ZiadGhali: Update 1
+
+[Update #1](https://hackmd.io/@y5Ed-7RGTbKUM2kFb4JRaw/BJGJUUqLo)
+
+### ZiadGhali: Update 2
+
+[Update #2](https://hackmd.io/@y5Ed-7RGTbKUM2kFb4JRaw/BkSE5rcUo)
+
+### ZiadGhali: Update 3
+
+[Update #3](https://hackmd.io/@y5Ed-7RGTbKUM2kFb4JRaw/B1NrsBcUi)
+
+### ZiadGhali: Update 4
+
+[Update #4](https://hackmd.io/@y5Ed-7RGTbKUM2kFb4JRaw/SylQ3HqLj)
+
+### ZiadGhali: Update 5
+
+[Update #5](https://hackmd.io/@y5Ed-7RGTbKUM2kFb4JRaw/ByXA2B58j)
