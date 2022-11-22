@@ -126,6 +126,7 @@
     - [WillQ: Update 1](#WillQ-update-1)
     - [WillQ: Update 2](#WillQ-update-2)
     - [WillQ: Update 3](#WillQ-update-3)
+    - [WillQ: Update 4](#WillQ-update-4)
 
 ## Contributing
 
@@ -629,3 +630,6 @@ Development updates from [`WillQ`](https://github.com/zsluedem/)
 ### WillQ: Update 3
 
 [Update #3](https://hackmd.io/@WillQ/BJc2-CKSj)
+
+### WillQ: Update 4
+[Update #4](https://hackmd.io/@WillQ/BkolpDxLi)
