@@ -1,12 +1,12 @@
 # EIP-4337 Account Abstraction - Bundler implementation in Rust
 
-*Account Abstraction has for a long time been a dream of* Ethereum devs - **Vitalik Buterin**
+*Account Abstraction has for a long time been a dream of the Ethereum developer community.* - **Vitalik Buterin**
 
 Implementation of **EIP-4337 (Account Abstraction) Bundler in Rust**.
 
 ## Motivation
 
-**Account abstraction (AA)** is one of the topics that has been in the air for quite a long time in the Ethereum community. While there have been several proposals for AA over the past years, most of them required core protocol changes (consensus/execution layer), making them complex and hard to implement alongside other protocol changes (transition to proof of stake, danksharding, PBS ...). The latter is one of the main reasons that the most traction today is getting **[EIP-4337: Account Abstraction using alt mempool](https://eips.ethereum.org/EIPS/eip-4337)**. EIP-4337 introduces a separate mempool for operations done by AA wallets and a new entity called bundler, which combines users' operations into the standard transaction. AA can be implemented and applied using this design without any protocol changes and, in the later stages (The Splurge), integrated more tightly into the protocol.
+[**Account abstraction (AA)**](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a) is one of the topics that has been in the air for quite a long time in the Ethereum community. While there have been several proposals for AA over the past years, most of them required core protocol changes (consensus/execution layer), making them complex and hard to implement alongside other protocol changes (transition to proof of stake, danksharding, PBS ...). The latter is one of the main reasons that the most traction today is getting **[EIP-4337: Account Abstraction using alt mempool](https://eips.ethereum.org/EIPS/eip-4337)**. EIP-4337 introduces a separate mempool for operations done by AA wallets and a new entity called bundler, which combines users' operations into the standard transaction. AA can be implemented and applied using this design without any protocol changes and, in the later stages (The Splurge), integrated more tightly into the protocol.
 
 Similar to client diversity on the consensus and execution layer, diversity and several implementations of bundlers will make the AA world more healthy and secure. Some bundler implementations already exist ([JavaScript](https://github.com/eth-infinitism/bundler), [TypeScript](https://github.com/web3well/bls-wallet), [C#](https://github.com/NethermindEth/nethermind/tree/master/src/Nethermind/Nethermind.AccountAbstraction/Bundler), [Python](https://github.com/candidelabs/Candide-bundler-and-paymaster-RPC), [Go](https://github.com/stackup-wallet/stackup-bundler/)), either as standalone programs or as part of the execution clients ([Nethermind](https://github.com/NethermindEth/nethermind/)). Still, there is none in Rust, which is becoming one (if not the most) adopted programming language in the Ethereum ecosystem community on the core protocol level. Thus the implementation would benefit the **Ethereum/AA ecosystem**.
 
@@ -22,14 +22,16 @@ On the other hand, I will pursue several long-term and more open-ended goals at 
 
 You can find the complete specification and architecture **[here](https://hackmd.io/@Vid201/aa-bundler-rust)** (the document will be updated on an ongoing basis).
 
-The specification for EIP-4337 is available **[here](https://eips.ethereum.org/EIPS/eip-4337)**.
+The specification for EIP-4337 (WIP) is available **[here](https://github.com/eth-infinitism/account-abstraction/blob/develop/eip/EIPS/eip-4337.md)**.
+
+The specification for EIP-4337 (latest stable) is available **[here](https://eips.ethereum.org/EIPS/eip-4337)**.
 
 ## Roadmap
 
 - JSON-RPC API: 2 weeks.
     - Implement all JSON-RPC API endpoints and necessary logic.
 - User operation pool: 5 weeks.
-    - First, implement a standalone mempool with gRP endpoints and all the necessary logic, such as simulation and validation of user operations.
+    - First, implement a standalone mempool with gRPC endpoints and all the necessary logic, such as simulation and validation of user operations.
     - Work on p2p mempool and connect with other bundlers (this requires p2p connections to other clients - will look into reusing Akula p2p interfaces and code).
 - Bundler: 3 weeks.
     - Implement all logic for bundling - simulation, signature aggregation, bundle construction, and propagating bundles as transactions to the txpool.
@@ -64,8 +66,8 @@ The specification for EIP-4337 is available **[here](https://eips.ethereum.org/E
 
 ### Mentors
 
-- [Yoav Weiss](https://github.com/yoavw) (hopefully, not officially confirmed but they are informed about the project and willing to help)
-- [Dror Tirosh](https://github.com/drortirosh) (same status as Joav)
+- [Yoav Weiss](https://github.com/yoavw)
+- [Dror Tirosh](https://github.com/drortirosh)
 
 ## Resources
 
