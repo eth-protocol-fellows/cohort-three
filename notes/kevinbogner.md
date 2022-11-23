@@ -5,6 +5,28 @@
 :computer: **Code: https://github.com/kevinbogner/data-analysis-consensus-clients**.
 
 ## Journal
+**[11/22/2022]**
+- Call with NC and sproul - Kickoff call regarding validator rewards ([notes](https://hackmd.io/@sproul/consensus-rewards-m1)).
+- We merged our endpoints ([#260](https://github.com/ethereum/beacon-APIs/pull/260) and [#262](https://github.com/ethereum/beacon-APIs/pull/262)) to the [`beacon-APIs`](https://github.com/ethereum/beacon-APIs).
+
+**[11/21/2022]**
+- Attended EPF standup call.
+- Error on CI/CD pipeline probably caused by a faulty version.
+
+**[11/18/2022]**
+- [PR#260](https://github.com/ethereum/beacon-APIs/pull/260) and [PR#262](https://github.com/ethereum/beacon-APIs/pull/262) are ready for review. We got minor lint errors we need to fix.
+
+**[11/17/2022]**
+- Discovered [lint errors](https://user-images.githubusercontent.com/114221396/202462233-61615b34-2f6a-4fe9-af71-6c7e0a3af9d7.png) on our PRs.
+
+**[11/16/2022]**
+- Feedback and modifications on [PR#260](https://github.com/ethereum/beacon-APIs/pull/260) and [PR#262](https://github.com/ethereum/beacon-APIs/pull/262).
+
+**[11/15/2022]**
+- More work on [PR#260](https://github.com/ethereum/beacon-APIs/pull/260) and [PR#262](https://github.com/ethereum/beacon-APIs/pull/262). Getting feedback from different client teams.
+- Published [Dev Update #5](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/ryFpWr0Ss).
+- Attended [Office Hours call #2](https://github.com/eth-protocol-fellows/cohort-three/issues/78) and presented the [project proposal](https://github.com/eth-protocol-fellows/cohort-three/blob/master/projects/consensus_client_reward_APIs.md).
+
 **[11/14/2022]**
 - Opened a [PR](https://github.com/eth-protocol-fellows/cohort-three/pull/117) for the project proposal at EPF.
 - Implemented sprouls suggestions into [PR#260](https://github.com/ethereum/beacon-APIs/pull/260) and [PR#262](https://github.com/ethereum/beacon-APIs/pull/262).
