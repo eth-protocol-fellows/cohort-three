@@ -79,8 +79,6 @@ There are a bit of dependencies and unknowns at this stage, but what we know so 
 
 ## Goal of the project
 
-> What does success look like? Describe the end goal of the project, scope, state and impact for the project to be considered finished and successful.
-
 Our goal is to learn as much as about core development as we can, and at the same time we hope to make an overall positive impact on deliverying a solid EIP-4844 implementation. We have defined some prelimary scope of the project, however this may change depending on how things go, where our experience fits and which areas need more help. This also means our contributions won't be limited to just the Lighthouse code base, but could include other aspects of core development.
 
 What does success look like for this project
