@@ -29,6 +29,7 @@
   - [brechy](#brechy)
     - [Update #1](#brechy-update-1)
     - [Update #2](#brechy-update-2)
+    - [Update #3](#brechy-update-3)
   - [Chloe](#chloe)
     - [Update #1](#update-1)
     - [Update #2](#update-2)
@@ -254,6 +255,10 @@ Development updates from [`brechy`](https://github.com/brech1)
 ### brechy: Update 2
 
 [Update #2](https://hackmd.io/@brech1/epf-update-2)
+
+### brechy: Update 3
+
+[Update #3](https://hackmd.io/@brech1/epf-update-3)
 
 ## Chloe
 
