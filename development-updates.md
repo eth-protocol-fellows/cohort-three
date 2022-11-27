@@ -93,6 +93,7 @@
     - [Update #3](#markodayan-update-3)
     - [Update #4](#markodayan-update-4)
     - [Update #5](#markodayan-update-5)
+    - [Update #6](#markodayan-update-6)
   - [mustapha](#mustapha-saeed)
     - [Update #1](#mustapha-saeed-update-1)
     - [Update #2](#mustapha-saeed-update-2)
@@ -426,7 +427,6 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #7](https://hackmd.io/@jsign/cohort-three-update-7)
 
-
 ## Jimmy
 
 Development updates from [`jimmygchen`](https://github.com/jimmygchen)
@@ -488,6 +488,7 @@ Development updates from [`manu`](https://github.com/nalepa)
 [Update #2](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/SkYhoVUSj)
 
 ### manu: Update 3
+
 [Update #3](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/B14GaauIj)
 
 ## markodayan
@@ -514,6 +515,10 @@ Development updates from [markodayan](https://github.com/markodayan)
 
 [Update #5 (18/11/22)](https://mkoz.notion.site/Update-5-18-11-22-aac77b7988c9421fb97906a806865af9)
 
+### markodayan: Update 6
+
+[Update #5 (27/11/22)](https://mkoz.notion.site/Update-6-27-11-22-3a4c058655aa4c15b3968b50c4c2f840)
+
 ## Mustapha Saeed
 
 Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
@@ -535,6 +540,7 @@ Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 [Update 4](https://hackmd.io/@msaeed/HkzlQTgUs/)
 
 ### Mustapha Saeed: Update 5
+
 [Update 5](https://hackmd.io/@msaeed/B1hh4EwLi/)
 
 ## Pat Stiles
@@ -554,7 +560,6 @@ Development updates from [`Pat Stiles`](https://github.com/PatStiles)
 [Update #3 (21/11/22) ](https://hackmd.io/@Rs7-mZniS1WXLPIkTdk4Mg/SkFGEQYIj)
 
 ## pavignol
-
 
 ### pavignol: Update 1
 
@@ -681,8 +686,8 @@ Development updates from [`WillQ`](https://github.com/zsluedem/)
 [Update #3](https://hackmd.io/@WillQ/BJc2-CKSj)
 
 ### WillQ: Update 4
-[Update #4](https://hackmd.io/@WillQ/BkolpDxLi)
 
+[Update #4](https://hackmd.io/@WillQ/BkolpDxLi)
 
 ## ZiadGhali
 
