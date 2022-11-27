@@ -70,6 +70,7 @@
     - [Update #4](#ignacio-update-4)
     - [Update #5](#ignacio-update-5)
     - [Update #6](#ignacio-update-6)
+    - [Update #7](#ignacio-update-7)
   - [jimmy](#jimmy)
     - [Update #1](#jimmy-update-1)
     - [Update #2](#jimmy-update-2)
@@ -417,6 +418,9 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #6](https://hackmd.io/@jsign/cohort-three-update-6)
 
+### Update #7
+
+[Link to Update #7](https://hackmd.io/@jsign/cohort-three-update-7)
 
 
 ## Jimmy
