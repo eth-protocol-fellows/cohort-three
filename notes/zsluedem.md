@@ -13,3 +13,9 @@ crypto world. Currently, I am interested in Verkle Trie, AA wallet.
 
 **[4/11/2022]**
 - [Update 2](https://hackmd.io/@WillQ/H19FwIyHj)
+
+**[7/11/2022-13/22/2022]**
+- [Update 3](https://hackmd.io/@WillQ/BJc2-CKSj)
+
+**[14/11/2022-20/11/2022]**
+- [Update 4](https://hackmd.io/@WillQ/BkolpDxLi)

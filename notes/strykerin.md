@@ -36,8 +36,19 @@ Doc for notes and resources collected on projects I am researching
 - [Ethereum Explained: The EVM](https://www.youtube.com/watch?v=kCswGz9naZg)
 - [Ethereum Virtual Machine Opcodes](https://ethervm.io/)
 
-Week 2
+### Week 2
 
 This week I started reading Hive code to better understand how it works. Also, I reviewed Docker since it's a lot used on this project.
 
 This week I also read the ethereum-js client implementation of discv5.
+
+### Week 3 and Week 4
+
+This week I focused on going deeper on the [devp2p specs](https://github.com/ethereum/devp2p) and reading and debuging the devp2p implementation on geth.
+
+I compiled here below the best talks about the p2p networking on ethereum I found this week:
+
+- [Ethereum P2P Networking / Sharding by Felix Lange and Péter Szilágyi in Taipei, March 2018](https://www.youtube.com/watch?v=qJA6J0mP73w)
+- [A Deep Dive into Go Ethereum](https://www.youtube.com/watch?v=c4N79UXZqSc&t=133s)
+- [Networking: Dev P2P, RPLx, Discovery, and Eth Wire Protocol](https://www.youtube.com/watch?v=CncTBr_a1Zk&t=654s)
+- [4 part video series going deeper on the p2p module on geth](https://www.youtube.com/watch?v=SRG1wzzSdes)
