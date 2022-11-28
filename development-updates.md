@@ -8,6 +8,8 @@
   - [Table Of Contents](#table-of-contents)
   - [Contributing](#contributing)
   - [Abdel Haifouli](#abdel-haifouli)
+    - [Update #1](#update-1)
+    - [Update #2](#update-2)
   - [Abel Jansma](#abel-Jansma)
   - [Abdul Sami J.](#abdul-sami-j)
     - [Update #1](#asj-update-1)
@@ -162,6 +164,7 @@ your development updates in this document.
 Development updates from [Abdel Haifouli](https://github.com/Ahaif)
 
 ### [Update #1 - 2022.10.29](https://tough-lantana-354.notion.site/EFP-update-1-7b6ddf0523964f94ba32a0311bf2cb24)
+### [Update #2 - 2022.11.28](https://tough-lantana-354.notion.site/EFP-update-2-c11adab55486490a9ed902ffbeb181f2)
 
 ## Abel Jansma
 
