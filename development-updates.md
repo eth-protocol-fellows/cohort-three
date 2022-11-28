@@ -58,6 +58,7 @@
     - [Update #3](#gabriel-update-3)
   - [Garvit](#garvit)
     - [Update #1](#update-1---the-beginning)
+    - [Update #2](#update-1)
   - [Geemo](#geemo)
     - [Update #1](#geemo-update-1)
   - [ignacio](#ignacio)
@@ -119,6 +120,7 @@
     - [WillQ: Update 1](#WillQ-update-1)
     - [WillQ: Update 2](#WillQ-update-2)
     - [WillQ: Update 3](#WillQ-update-3)
+
 ## Contributing
 
 If you are participating in the program, you should be posting or aggregating
@@ -346,6 +348,10 @@ Development updates from [`Garvit`](https://mirror.xyz/plusminushalf.eth)
 ### Update 1 - The beginning
 
 [link](https://mirror.xyz/plusminushalf.eth/btUxNscEudcQGBWM11M9Cg4M9D7d5ce90_h0uOvsZOs)
+
+### Update 2
+
+[link](https://mirror.xyz/plusminushalf.eth/1IWctG3mhTsf8FvabP6v7nMPmzZ9hE3ZoesRs8DE6oc)
 
 ## Geemo
 
