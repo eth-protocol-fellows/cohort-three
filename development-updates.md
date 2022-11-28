@@ -61,7 +61,8 @@
     - [Update #2](#gabriel-update-2)
     - [Update #3](#gabriel-update-3)
   - [Garvit](#garvit)
-    - [Update #1](#update-1---the-beginning)
+    - [Update #1](#garvit-update-1)
+    - [Update #2](#garvit-update-2)
   - [Geemo](#geemo)
     - [Update #1](#geemo-update-1)
   - [ignacio](#ignacio)
@@ -329,7 +330,7 @@ Development updates from [`Echo`](https://github.com/EchoAlice)
 
 [The Road Not Taken](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/SkgCEzwEj)
 
-### Update 3 
+### Update 3
 
 [Update 3 v.1](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/Hy5BFTyUo)
 
@@ -394,9 +395,13 @@ Development updates from [`0xGabi`](https://github.com/0xGabi)
 
 Development updates from [`Garvit`](https://mirror.xyz/plusminushalf.eth)
 
-### Update 1 - The beginning
+### Garvit: Update 1
 
 [link](https://mirror.xyz/plusminushalf.eth/btUxNscEudcQGBWM11M9Cg4M9D7d5ce90_h0uOvsZOs)
+
+### Garvit: Update 2
+
+[link](https://mirror.xyz/plusminushalf.eth/1IWctG3mhTsf8FvabP6v7nMPmzZ9hE3ZoesRs8DE6oc)
 
 ## Geemo
 

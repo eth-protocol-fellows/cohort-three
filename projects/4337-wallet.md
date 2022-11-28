@@ -57,19 +57,19 @@ The extension will support the following features:
 
 ## Collaborators
 
-- [Garvit Khatri](https://github.com/plusminushalf)
-- [Jayesh Bhole](https://github.com/jayeshbhole)
-
-<!-- ### Fellows  -->
+### Fellows
 
 <!-- Are there any fellows working with you on this project?  -->
 
-## Mentors
+- [Garvit Khatri](https://github.com/plusminushalf)
+- [Jayesh Bhole](https://github.com/jayeshbhole)
+
+### Mentors
+
+<!-- Which mentors are helping you with the project?  -->
 
 - [Yoav Weiss](https://github.com/yoavw)
 - [Dror Tirosh](https://github.com/drortirosh)
-
-## <!-- Which mentors are helping you with the project?  -->
 
 ## Resources
 
