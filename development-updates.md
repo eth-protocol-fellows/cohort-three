@@ -41,6 +41,7 @@
   - [Echno](#echno)
     - [Update 1](#update-1)
     - [Update 2](#update-2)
+    - [Update 3](#update-3)
   - [Echo](#echo)
     - [Update 1](#update-1)
     - [Update 2](#update-2)
@@ -288,6 +289,10 @@ Development updates from [`Echno`](https://github.com/ogechno)
 ### Update #2
 
 [Update #2](https://hackmd.io/@echno/S1QbuQaHs)
+
+### Update #3
+
+[Update #3](https://hackmd.io/@echno/Bk5yYMzvo)
 
 ## Echo
 
