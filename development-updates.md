@@ -683,6 +683,10 @@ Development update from [`NC`](https://github.com/naviechan)
 
 [Update #4](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/SyK53ltUo)
 
+### NC: Update 5
+
+[Update #5](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/rJ5ikDfDj)
+
 ## WillQ
 
 Development updates from [`WillQ`](https://github.com/zsluedem/)
