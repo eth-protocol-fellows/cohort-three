@@ -61,8 +61,8 @@
     - [Update #2](#gabriel-update-2)
     - [Update #3](#gabriel-update-3)
   - [Garvit](#garvit)
-    - [Update #1](#update-1---the-beginning)
-    - [Update #2](#update-1)
+    - [Update #1](#garvit-update-1)
+    - [Update #2](#garvit-update-2)
   - [Geemo](#geemo)
     - [Update #1](#geemo-update-1)
   - [ignacio](#ignacio)
@@ -394,11 +394,11 @@ Development updates from [`0xGabi`](https://github.com/0xGabi)
 
 Development updates from [`Garvit`](https://mirror.xyz/plusminushalf.eth)
 
-### Update 1 - The beginning
+### Garvit: Update 1
 
 [link](https://mirror.xyz/plusminushalf.eth/btUxNscEudcQGBWM11M9Cg4M9D7d5ce90_h0uOvsZOs)
 
-### Update 2
+### Garvit: Update 2
 
 [link](https://mirror.xyz/plusminushalf.eth/1IWctG3mhTsf8FvabP6v7nMPmzZ9hE3ZoesRs8DE6oc)
 
