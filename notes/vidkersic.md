@@ -6,9 +6,10 @@ This is Vid. I'm R&D Engineer focused on blockchain, decentralization, decentral
 
 ### Project(s)
 
-**[EIP-4337 (Account Abstraction) - Bundler implementation in Rust]**
-- Notes:  https://hackmd.io/@Vid201/aa-bundler-rust
-- GitHub: https://github.com/Vid201/aa-bundler/
+**EIP-4337 (Account Abstraction) - Bundler implementation in Rust**
+- Description: https://github.com/eth-protocol-fellows/cohort-three/blob/master/projects/4337-bundler-rust.md
+- Architecture and specification:  https://hackmd.io/@Vid201/aa-bundler-rust
+- GitHub repository: https://github.com/Vid201/aa-bundler/
 
 ### Updates
 
@@ -20,3 +21,6 @@ This is Vid. I'm R&D Engineer focused on blockchain, decentralization, decentral
 
 **[08/11/2022]**
 - [Update 3](https://hackmd.io/@Vid201/epf-the-third-cohort-update-3)
+
+**[28/11/2022]**
+- [Update 4](https://hackmd.io/@Vid201/epf-the-third-cohort-update-4)
