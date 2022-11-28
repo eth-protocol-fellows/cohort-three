@@ -117,6 +117,7 @@
     - [Update #3](#robzajac-update-3)
     - [Update #4](#robzajac-update-4)
     - [Update #5](#robzajac-update-5)
+    - [Update #6](#robzajac-update-6)
   - [strykerin](#strykerin)
     - [strykerin: Update 1](#strykerin-update-1)
     - [strykerin: Update 2](#strykerin-update-2)
@@ -620,6 +621,10 @@ Development updates from [`robzajac`](https://github.com/robzajac)
 ### robzajac: Update 5
 
 [Update #5](https://hackmd.io/@robzajac/S1lQKgYLi)
+
+### robzajac: Update 6
+
+[Update #6](https://hackmd.io/@robzajac/SkfLdMfws)
 
 ## strykerin
 
