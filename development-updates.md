@@ -120,7 +120,10 @@
     - [strykerin: Update 1](#strykerin-update-1)
     - [strykerin: Update 2](#strykerin-update-2)
   - [Vid Kersic](#vid-kersic)
-    - [Vid Kersic: Update 1](#vid-kersic-update-1)
+    - [Update 1](#vid-kersic-update-1)
+    - [Update 2](#vid-kersic-update-2)
+    - [Update 3](#vid-kersic-update-3)
+    - [Update 4](#vid-kersic-update-4)
   - [Wanning Ding](#Wanning-Ding)
     - [Wanning Ding: Update 1](#wanning-ding-update-1)
     - [Wanning Ding: Update 2](#wanning-ding-update-2)
@@ -639,6 +642,10 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 ### Vid Kersic: Update 3
 
 [Update 3](https://hackmd.io/@Vid201/epf-the-third-cohort-update-3) - **[08/11/2022]**
+
+### Vid Kersic: Update 4
+
+[Update 4](https://hackmd.io/@Vid201/epf-the-third-cohort-update-4) - **[28/11/2022]**
 
 ## Wanning Ding
 
