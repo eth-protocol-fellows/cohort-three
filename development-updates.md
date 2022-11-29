@@ -183,6 +183,8 @@ Development updates from [Abel Jansma](https://github.com/AJnsm)
 
 ### [Update 2022.11.27](https://abeljansma.nl/2022/11/25/EPF5.html)
 
+### [Update 2022.11.29](https://abeljansma.nl/2022/11/29/EPF6.html)
+
 ## Abdul Sami J.
 
 Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
