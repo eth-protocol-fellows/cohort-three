@@ -90,6 +90,7 @@
     - [Update #4](#kevinbogner-update-4)
     - [Update #5](#kevinbogner-update-5)
     - [Update #6](#kevinbogner-update-6)
+    - [Update #7](#kevinbogner-update-7)
   - [manu](#manu)
     - [Update #1](#manu-update-1)
     - [Update #2](#manu-update-2)
@@ -511,6 +512,10 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 ### kevinbogner: Update 6
 
 [Update #6](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/rkNsMdm8j)
+
+### kevinbogner: Update 7
+
+[Update #7](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/HJOn-F7wi)
 
 ## manu:
 
