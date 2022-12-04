@@ -66,10 +66,10 @@
     - [edgee: Update 1](#edgee-update-1)
     - [edgee: Update 2](#edgee-update-2)
     - [edgee: Update 3](#edgee-update-3)
+    - [edgee: Update 4](#edgee-update-4)
   - [eserilev](#eserilev)
     - [eserilev update #1](#eserilev-update-1)
     - [eserilev update #2](#eserilev-update-2)
-    - [edgee: Update 4](#edgee-update-4)
   - [Faheel](#faheel)
     - [Update 1](#update-1-7)
   - [Gabriel](#gabriel)
@@ -395,6 +395,10 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 
 [Update #3](https://hackmd.io/@EagleEdge/H1_THfwNi)
 
+### edgee: Update 4
+
+[Update #4](https://hackmd.io/@EagleEdge/rysYgCMrj)
+
 ## eserilev
 
 ### eserilev update #1
@@ -405,10 +409,6 @@ Development updates from [`edgee`](https://github.com/EagleEdge)
 
 [update #2](https://hackmd.io/Z9ZE2XIsQVaCTN5A358M8w)
 [update #2.5](https://hackmd.io/18Jaw8dgSUOk6uAoekvUpw)
-
-### edgee: Update 4
-
-[Update #4](https://hackmd.io/@EagleEdge/rysYgCMrj)
 
 ## Faheel
 
