@@ -229,6 +229,7 @@ Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
 Development updates from [`andriidski`](https://github.com/andriidski)
 
 [Update #1](https://hackmd.io/@andriidski/rJ5ZM8ZBs)
+[Update #2](https://hackmd.io/@andriidski/HyDPy8bIj)
 
 ## Anthony Madia
 
