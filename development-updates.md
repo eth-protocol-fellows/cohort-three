@@ -104,6 +104,7 @@
     - [kevinbogner: Update 5](#kevinbogner-update-5)
     - [kevinbogner: Update 6](#kevinbogner-update-6)
     - [kevinbogner: Update 7](#kevinbogner-update-7)
+    - [kevinbogner: Update 8](#kevinbogner-update-8)
   - [manu:](#manu)
     - [manu: Update 1](#manu-update-1)
     - [manu: Update 2](#manu-update-2)
@@ -525,31 +526,35 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 
 ### kevinbogner: Update 1
 
-[Update #1](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/HkeQ_Qnfi)
+[Update #1](https://hackmd.io/@kevinbogner/dev-update-1)
 
 ### kevinbogner: Update 2
 
-[Update #2](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/SkSBLnG7i)
+[Update #2](https://hackmd.io/@kevinbogner/dev-update-2)
 
 ### kevinbogner: Update 3
 
-[Update #3](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/HJhEF6wVj)
+[Update #3](https://hackmd.io/@kevinbogner/dev-update-3)
 
 ### kevinbogner: Update 4
 
-[Update #4](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/B1UFETvro)
+[Update #4](https://hackmd.io/@kevinbogner/dev-update-4)
 
 ### kevinbogner: Update 5
 
-[Update #5](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/ryFpWr0Ss)
+[Update #5](https://hackmd.io/@kevinbogner/dev-update-5)
 
 ### kevinbogner: Update 6
 
-[Update #6](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/rkNsMdm8j)
+[Update #6](https://hackmd.io/@kevinbogner/dev-update-6)
 
 ### kevinbogner: Update 7
 
-[Update #7](https://hackmd.io/@lODlsf2CR9uWlyIyEdjjPQ/HJOn-F7wi)
+[Update #7](https://hackmd.io/@kevinbogner/dev-update-7)
+
+### kevinbogner: Update 8
+
+[Update #8](https://hackmd.io/@kevinbogner/dev-update-8)
 
 ## manu:
 
