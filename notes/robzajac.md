@@ -5,6 +5,10 @@ I'm a software engineer with a background in computer science as well as experie
 
 ## Updates
 
+*05/12/2022*
+
+- [Dev update week 7](https://hackmd.io/@robzajac/B1HvvohDi)
+
 *28/11/2022*
 
 - [Dev update week 6](https://hackmd.io/@robzajac/SkfLdMfws)
