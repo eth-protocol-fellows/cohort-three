@@ -116,6 +116,7 @@
     - [markodayan: Update 4](#markodayan-update-4)
     - [markodayan: Update 5](#markodayan-update-5)
     - [markodayan: Update 6](#markodayan-update-6)
+    - [markodayan: Update 7](#markodayan-update-7)
   - [Mustapha Saeed](#mustapha-saeed)
     - [Mustapha Saeed: Update 1](#mustapha-saeed-update-1)
     - [Mustapha Saeed: Update 2](#mustapha-saeed-update-2)
@@ -186,6 +187,7 @@ your development updates in this document.
 Development updates from [Abdel Haifouli](https://github.com/Ahaif)
 
 ### [Update #1 - 2022.10.29](https://tough-lantana-354.notion.site/EFP-update-1-7b6ddf0523964f94ba32a0311bf2cb24)
+
 ### [Update #2 - 2022.11.28](https://tough-lantana-354.notion.site/EFP-update-2-c11adab55486490a9ed902ffbeb181f2)
 
 ## Abel Jansma
@@ -494,7 +496,6 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #8](https://hackmd.io/@jsign/cohort-three-update-8)
 
-
 ## Jimmy
 
 Development updates from [`jimmygchen`](https://github.com/jimmygchen)
@@ -597,7 +598,11 @@ Development updates from [markodayan](https://github.com/markodayan)
 
 ### markodayan: Update 6
 
-[Update #5 (27/11/22)](https://mkoz.notion.site/Update-6-27-11-22-3a4c058655aa4c15b3968b50c4c2f840)
+[Update #6 (27/11/22)](https://mkoz.notion.site/Update-6-27-11-22-3a4c058655aa4c15b3968b50c4c2f840)
+
+### markodayan: Update 7
+
+[Update #7 (05/12/22)](https://mkoz.notion.site/Update-7-05-12-22-a641e987dbb841678ea6346fb6210c02)
 
 ## Mustapha Saeed
 
