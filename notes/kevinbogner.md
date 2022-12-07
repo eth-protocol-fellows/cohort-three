@@ -5,6 +5,26 @@
 :computer: **Code: https://github.com/kevinbogner/data-analysis-consensus-clients**.
 
 ## Journal
+**[12/06/2022]**
+- Created branch for [`block_rewards`](https://github.com/naviechan/lighthouse/commit/7d72bd06e9c50d33cc3b1afb600812990e381711).
+- Attended [Office Hours call #4](https://github.com/eth-protocol-fellows/cohort-three/issues/176).
+- Read [What in the Ethereum application ecosystem excites me](https://vitalik.ca/general/2022/12/05/excited.html) from Vitalik.
+
+**[12/05/2022]**
+- Created branch for [`attestation_rewards`](https://github.com/naviechan/lighthouse/commit/6b16115a91dc1576d629c2ccab80fcea974b57c8).
+- Attended weekly standup call.
+
+**[12/02/2022]**
+- Continue working on [`sync_committee_rewards`](https://github.com/naviechan/lighthouse/commit/4cc09c6db0088b9dd0c27b952237e77d8e2beee4).
+
+**[12/01/2022]**
+- Meeting with NC ([notes](https://hackmd.io/@kevinbogner/meeting-notes-dev-rewards-API)).
+
+**[11/30/2022]**
+- Published [dev update #7](https://hackmd.io/@kevinbogner/HJOn-F7wi).
+- Meeting with NC regarding the `sync_committee_rewards`.
+- [Commits](https://github.com/kevinbogner/lighthouse/commit/85822c564e2193859a4d2d61b96c3f86391e5621) on `sync_committee_rewards` implementation for LH.
+
 **[11/29/2022]**
 - Attended EPF office hour call.
 - Started writing dev update #7.
