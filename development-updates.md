@@ -97,6 +97,7 @@
     - [Jimmy: Update 3](#jimmy-update-3)
     - [Jimmy: Update 4](#jimmy-update-4)
     - [Jimmy: Update 5](#jimmy-update-5)
+    - [Jimmy: Update 6](#jimmy-update-6)
   - [kevinbogner](#kevinbogner)
     - [kevinbogner: Update 1](#kevinbogner-update-1)
     - [kevinbogner: Update 2](#kevinbogner-update-2)
@@ -523,6 +524,10 @@ Development updates from [`jimmygchen`](https://github.com/jimmygchen)
 ### Jimmy: Update 5
 
 [Update #5](https://hackmd.io/@jimmygchen/B1EQa5Nwo)
+
+### Jimmy: Update 6
+
+[Update #6](https://hackmd.io/@jimmygchen/HkUrHJHwo)
 
 ## kevinbogner
 
