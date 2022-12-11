@@ -443,27 +443,27 @@ Development updates from [`0xGabi`](https://github.com/0xGabi)
 
 ### Gabriel: Update 1
 
-[Update #1](notes/0xgabi.md#10/25/2022)
+[Update #1](notes/0xgabi.md#10252022)
 
 ### Gabriel: Update 2
 
-[Update #2](notes/0xgabi.md#10/31/2022)
+[Update #2](notes/0xgabi.md#10312022)
 
 ### Gabriel: Update 3
 
-[Update #3](notes/0xgabi.md#11/07/2022)
+[Update #3](notes/0xgabi.md#11072022)
 
 ### Gabriel: Update 4
 
-[Update #4](notes/0xgabi.md#11/21/2022)
+[Update #4](notes/0xgabi.md#11212022)
 
 ### Gabriel: Update 5
 
-[Update #5](notes/0xgabi.md#11/28/2022)
+[Update #5](notes/0xgabi.md#11282022)
 
 ### Gabriel: Update 6
 
-[Update #6](notes/0xgabi.md#12/05/2022)
+[Update #6](notes/0xgabi.md#12052022)
 
 ## Garvit
 
