@@ -77,6 +77,9 @@
     - [Gabriel: Update 1](#gabriel-update-1)
     - [Gabriel: Update 2](#gabriel-update-2)
     - [Gabriel: Update 3](#gabriel-update-3)
+    - [Gabriel: Update 4](#gabriel-update-4)
+    - [Gabriel: Update 5](#gabriel-update-5)    
+    - [Gabriel: Update 6](#gabriel-update-6)
   - [Garvit](#garvit)
     - [Garvit: Update 1](#garvit-update-1)
     - [Garvit: Update 2](#garvit-update-2)
@@ -449,6 +452,18 @@ Development updates from [`0xGabi`](https://github.com/0xGabi)
 ### Gabriel: Update 3
 
 [Update #3](notes/0xgabi.md#11/07/2022)
+
+### Gabriel: Update 4
+
+[Update #4](notes/0xgabi.md#11/21/2022)
+
+### Gabriel: Update 5
+
+[Update #5](notes/0xgabi.md#11/28/2022)
+
+### Gabriel: Update 6
+
+[Update #6](notes/0xgabi.md#12/05/2022)
 
 ## Garvit
 
