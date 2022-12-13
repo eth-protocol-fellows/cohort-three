@@ -127,6 +127,8 @@
     - [Mustapha Saeed: Update 4](#mustapha-saeed-update-4)
     - [Mustapha Saeed: Update 5](#mustapha-saeed-update-5)
     - [Mustapha Saeed: Update 6](#mustapha-saeed-update-6)
+    - [Mustapha Saeed: Update 7](#mustapha-saeed-update-7)
+    - [Mustapha Saeed: Update 8](#mustapha-saeed-update-8)
   - [Pat Stiles](#pat-stiles)
     - [Pat Stiles: Update 1](#pat-stiles-update-1)
     - [Pat Stiles: Update 2](#pat-stiles-update-2)
@@ -651,7 +653,15 @@ Development updates from [`Mustapha Saeed`](https://github.com/mustaphasaeed/)
 
 ### Mustapha Saeed: Update 6
 
-[Update 5](https://hackmd.io/@msaeed/Hkm9GXvwo/)
+[Update 6](https://hackmd.io/@msaeed/Hkm9GXvwo/)
+
+### Mustapha Saeed: Update 7
+
+[Update 7](https://hackmd.io/@msaeed/rkN0lRDDj/)
+
+### Mustapha Saeed: Update 8
+
+[Update 8](https://hackmd.io/@msaeed/B12-EDMuj/)
 
 ## Pat Stiles
 
