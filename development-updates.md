@@ -113,6 +113,7 @@
     - [kevinbogner: Update 6](#kevinbogner-update-6)
     - [kevinbogner: Update 7](#kevinbogner-update-7)
     - [kevinbogner: Update 8](#kevinbogner-update-8)
+    - [kevinbogner: Update 9](#kevinbogner-update-9)
   - [manu:](#manu)
     - [manu: Update 1](#manu-update-1)
     - [manu: Update 2](#manu-update-2)
@@ -610,6 +611,10 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 ### kevinbogner: Update 8
 
 [Update #8](https://hackmd.io/@kevinbogner/dev-update-8)
+
+### kevinbogner: Update 9
+
+[Update #9](https://hackmd.io/@kevinbogner/dev-update-9)
 
 ## manu:
 
