@@ -106,7 +106,7 @@ Other members of Prysmatic Labs have also helped with reviewing PRs and ironing 
 
 [Prysm Repository](https://github.com/prysmaticlabs/prysm)
 
-PRs that I have submitted to the Prysm repo so far:
+PRs that I ([@pavignol](https://github.com/PatriceVignola)) have submitted to the Prysm repo so far:
 
 [Add support for building a Beacon API validator client versus a gRPC one #11612](https://github.com/prysmaticlabs/prysm/pull/11612)
 
