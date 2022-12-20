@@ -12,6 +12,25 @@ Currenty there are p2p tests for 'eth', 'discv4' and 'discv5' as we can see [her
 
 ## Specification
 
+> In hive, integration tests are called 'simulations'. A simulation is controlled by a program (the 'simulator') written in any language. The simulator launches clients and contains test logic. It reports test results back to hive, where they are aggregated for display in a web browser.
+
+A simulator is a program written against the HTTP-based simulation API provided by hive. Simulators can be written in any programmin language as long as they are packaged using docker. Simulators live in the `simulators/` directory of the hive repository.
+
+Ethereum Foundation operates a public instance of Hive, you can find the latest test results at <https://hivetests.ethdevops.io/>.
+
+In order to run a discv4 test over the geth client, we run:
+
+```bash
+./hive --sim devp2p --sim.limit discv4 --client go-ethereum
+```
+
+The results of the tests are stored a JSON files. To view the test results and logs in a web browser, we use the `hiveview` tool.
+
+```bash
+go build ./cmd/hiveview
+./hiveview --serve --logdir ./workspace/logs
+```
+
 The p2p networking specification can be found [here](https://github.com/ethereum/devp2p).
 
 To implement the solution, first I'll go over the current p2p tests that were done for 'eth', 'discv4' and 'discv5' (<https://github.com/ethereum/go-ethereum/tree/master/cmd/devp2p/internal>) to understand the code pattern then later I'll further extend the scope of those tests.
@@ -20,7 +39,7 @@ To implement the solution, first I'll go over the current p2p tests that were do
 
 - 1st month: I'll be going deeper on the [devp2p specs](https://github.com/ethereum/devp2p) to better understand the bits and bytes of the devp2p protocol.
 - 2nd month: Run the current tests and understand how the current tests are done.
-- 3rd and 4th month: Start implementing the new p2p tests.
+- 3rd and 4th month: Start implementing the new p2p tests. First I'll focus on improving the current discv4 tests.
 
 ## Possible challenges
 
@@ -28,13 +47,11 @@ In order to be able to write tests for the p2p protocols, a deep understand of h
 
 ## Goal of the project
 
-The goal for this project is to expand further the p2p tests that we currently have on hive.
-
-## Collaborators
+The goal for this project is to expand further the p2p tests that we currently have on hive/go-ethereum.
 
 ### Fellows
 
-- [strykerin](https://github.com/strykerin)
+- [strykerin](https://github.com/strykerin) (discordId: Balkage#7666)
 
 ### Mentors
 
