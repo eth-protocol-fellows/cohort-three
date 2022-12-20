@@ -64,6 +64,7 @@
     - [Update #1](#garvit-update-1)
     - [Update #2](#garvit-update-2)
     - [Update #3](#garvit-update-3)
+    - [Update #4](#garvit-update-4)
   - [Geemo](#geemo)
     - [Update #1](#geemo-update-1)
   - [ignacio](#ignacio)
@@ -406,6 +407,10 @@ Development updates from [`Garvit`](https://mirror.xyz/plusminushalf.eth)
 ### Garvit: Update 3
 
 [link](https://hackmd.io/@plusminushalf/rkvpraV_i)
+
+### Garvit: Update 4
+
+[link](https://hackmd.io/@plusminushalf/update-4)
 
 ## Geemo
 
