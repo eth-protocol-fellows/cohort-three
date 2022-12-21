@@ -87,6 +87,12 @@ The project has been highly shaped by Fredrik Svantes proposal, hence I plan to 
 I also plan to engage with Barnabé Monnot having published insightful work regarding reorg and on-chain CL client behaviour. 
 
 
+<b>Project updates found on</b> <br>
+<a href="https://github.com/BemTG/Monitoring-and-visualization-of-Eth-client-data">Repo</a> <br>
+<a href="https://hackmd.io/@BemBaraki/BJbijqIIi">hackmd updates</a>
+
+</h4>
+
 <h3>
     Resources
 </h3>
