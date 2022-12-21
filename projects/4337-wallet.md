@@ -75,6 +75,10 @@ The extension will support the following features:
 
 <!-- Provide links to repositories, PRs and other resources which constitute the project. -->
 
+### Repository
+
+https://github.com/plusminushalf/epf-wallet
+
 ### Reading Material
 
 https://eips.ethereum.org/EIPS/eip-4337
