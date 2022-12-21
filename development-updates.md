@@ -31,6 +31,7 @@
     - [Update 4](#update-4)
     - [Update 5](#update-5)
     - [Update 6](#update-6)
+    - [Update 7](#update-7)
   - [Alpesh](#alpesh)
     - [Update 1](#update-1-1)
     - [Update 2](#update-2-1)
@@ -88,7 +89,7 @@
     - [Update #4](#update-4-3)
     - [Update #5](#update-5-1)
     - [Update #6](#update-6-1)
-    - [Update #7](#update-7)
+    - [Update #7](#update-7-1)
   - [Jimmy](#jimmy)
     - [Jimmy: Update 1](#jimmy-update-1)
     - [Jimmy: Update 2](#jimmy-update-2)
@@ -183,6 +184,7 @@ your development updates in this document.
 Development updates from [Abdel Haifouli](https://github.com/Ahaif)
 
 ### [Update #1 - 2022.10.29](https://tough-lantana-354.notion.site/EFP-update-1-7b6ddf0523964f94ba32a0311bf2cb24)
+
 ### [Update #2 - 2022.11.28](https://tough-lantana-354.notion.site/EFP-update-2-c11adab55486490a9ed902ffbeb181f2)
 
 ## Abel Jansma
@@ -254,6 +256,10 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 6
 
 [Link to Update 6](https://cyclic-witch-ded.notion.site/Update-6-143a9752603b4e1c9a69111f9fe24b25)
+
+### Update 7
+
+[Link to Update 7](https://cyclic-witch-ded.notion.site/Update-7-2d11bcb9ad17451ab4f1612f567cc20a)
 
 ## Alpesh
 
