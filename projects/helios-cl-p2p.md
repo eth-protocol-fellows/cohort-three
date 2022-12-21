@@ -1,6 +1,6 @@
 # Helios Consensus Layer P2P Connection
 
-The goal of this project is to make Helios, a Rust based light client implementation, able to fetch consensus layer data through a peer-to-peer network connection with consensus layer clients. The implementation will be able to work side-by-side, if needed, with the current RPC and allow the client to seamlessly switch between them.
+The goal of this project is to make [Helios](https://github.com/a16z/helios), a Rust based light client implementation, able to fetch consensus layer data through a peer-to-peer network connection with consensus layer clients. The implementation will be able to work side-by-side, if needed, with the current RPC and allow the client to seamlessly switch between them.
 
 ## Motivation
 
