@@ -82,9 +82,9 @@ The goal is to track and monitor as many features and metrics about the network 
     Mentors
 </h3>
 
-The project has been highly shaped by Fredrik’s proposal, hence I plan to engage with Fredrik for further guidance.
+The project has been highly shaped by Fredrik Svantes proposal, hence I plan to engage with Fredrik for further guidance.
 
-I also plan to engage with Barnabé having published insightful work regarding reorg and on-chain CL client behaviour. 
+I also plan to engage with Barnabé Monnot having published insightful work regarding reorg and on-chain CL client behaviour. 
 
 
 <h3>
