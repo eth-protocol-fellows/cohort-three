@@ -16,3 +16,5 @@
 * [Week 6 Notes](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/Hyu6ee6ws)
 (05/12/22)
 * [Week 7 Notes](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/Hk25tFmus)
+(12/12/22)
+* [Week 8 Notes](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/HyxgxaAOi)
