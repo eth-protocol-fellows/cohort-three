@@ -88,9 +88,10 @@
     - [Gabriel: Update 5](#gabriel-update-5)
     - [Gabriel: Update 6](#gabriel-update-6)
   - [Garvit](#garvit)
-    - [Garvit: Update 1](#garvit-update-1)
-    - [Garvit: Update 2](#garvit-update-2)
-    - [Garvit: Update 3](#garvit-update-3)
+    - [Garvit: Update #1](#garvit-update-1)
+    - [Garvit: Update #2](#garvit-update-2)
+    - [Garvit: Update #3](#garvit-update-3)
+    - [Garvit: Update #3](#garvit-update-4)
   - [Geemo](#geemo)
     - [Geemo: Update 1](#geemo-update-1)
   - [ignacio](#ignacio)
@@ -224,6 +225,7 @@ Development updates from [Abdel Haifouli](https://github.com/Ahaif)
 ### [Update #1 - 2022.10.29](https://tough-lantana-354.notion.site/EFP-update-1-7b6ddf0523964f94ba32a0311bf2cb24)
 
 ### [Update #2 - 2022.11.28](https://tough-lantana-354.notion.site/EFP-update-2-c11adab55486490a9ed902ffbeb181f2)
+
 ### [Update #3 - 2022.12.19](https://tough-lantana-354.notion.site/EFP-update-3-4752098926e142a1a4a738ba63e8e2e8)
 
 ## Abel Jansma
@@ -530,6 +532,10 @@ Development updates from [`Garvit`](https://mirror.xyz/plusminushalf.eth)
 
 [link](https://hackmd.io/@plusminushalf/rkvpraV_i)
 
+### Garvit: Update 4
+
+[link](https://hackmd.io/@plusminushalf/update-4)
+
 ## Geemo
 
 Development updates from [`geemo`](https://github.com/GeemoCandama)
@@ -581,7 +587,6 @@ Development updates from [`jsign`](https://github.com/jsign)
 ### Update #10
 
 [Link to Update #10](https://hackmd.io/@jsign/cohort-three-update-10)
-
 
 ## Jimmy
 
@@ -676,6 +681,7 @@ Development updates from [`manu`](https://github.com/nalepa)
 [Update #4](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/ry_gYIoPi)
 
 ### manu: Update 5
+
 [Update #5](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/SJ9zYkA_i)
 
 ## markodayan
