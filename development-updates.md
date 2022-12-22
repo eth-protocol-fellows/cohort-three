@@ -20,10 +20,12 @@
     - [Update 2022.11.27](#update-20221127)
     - [Update 2022.11.29](#update-20221129)
     - [Update 2022.12.01](#update-20221201)
+    - [Update 2022.12.15](#update-20221215)
   - [Abdul Sami J.](#abdul-sami-j)
     - [ASJ: Update 1](#asj-update-1)
     - [ASJ: Update 2](#asj-update-2)
     - [ASJ: Update 3](#asj-update-3)
+    - [ASJ: Update 4](#asj-update-4)
   - [andriidski](#andriidski)
   - [Anthony Madia](#anthony-madia)
     - [Update 1](#update-1)
@@ -32,6 +34,7 @@
     - [Update 4](#update-4)
     - [Update 5](#update-5)
     - [Update 6](#update-6)
+    - [Update 7](#update-7)
   - [Alpesh](#alpesh)
     - [Update 1](#update-1-1)
     - [Update 2](#update-2-1)
@@ -59,14 +62,14 @@
     - [Update #1](#update-1-5)
     - [Update #2](#update-2-4)
     - [Update #3](#update-3-2)
-    - [Update #4](#update-4)
+    - [Update #4](#update-4-2)
   - [Echo](#echo)
     - [Update 1](#update-1-6)
     - [Update 2](#update-2-5)
     - [Update 3](#update-3-3)
-    - [Update 4](#update-4-2)
-    - [Update 5](#update-5)
-    - [Update 6](#update-6)
+    - [Update 4](#update-4-3)
+    - [Update 5](#update-5-1)
+    - [Update 6](#update-6-1)
   - [edgee](#edgee)
     - [edgee: Update 1](#edgee-update-1)
     - [edgee: Update 2](#edgee-update-2)
@@ -95,10 +98,10 @@
     - [Update #1](#update-1-8)
     - [Update #2](#update-2-6)
     - [Update #3](#update-3-4)
-    - [Update #4](#update-4-3)
-    - [Update #5](#update-5-1)
-    - [Update #6](#update-6-1)
-    - [Update #7](#update-7)
+    - [Update #4](#update-4-4)
+    - [Update #5](#update-5-2)
+    - [Update #6](#update-6-2)
+    - [Update #7](#update-7-1)
     - [Update #8](#update-8)
     - [Update #9](#update-9)
     - [Update #10](#update-10)
@@ -153,6 +156,7 @@
     - [pavignol: Update 2](#pavignol-update-2)
     - [pavignol: Update 3](#pavignol-update-3)
     - [pavignol: Update 4](#pavignol-update-4)
+    - [pavignol: Update 5](#pavignol-update-5)
   - [Reza](#reza)
     - [Reza: Update 1](#reza-update-1)
     - [Reza: Update 2](#reza-update-2)
@@ -197,6 +201,7 @@
     - [WillQ: Update 5](#willq-update-5)
     - [WillQ: Update 6](#willq-update-6)
     - [WillQ: Update 7](#willq-update-7)
+    - [WillQ: Update 8](#willq-update-8)
   - [ZiadGhali](#ziadghali)
     - [ZiadGhali: Update 1](#ziadghali-update-1)
     - [ZiadGhali: Update 2](#ziadghali-update-2)
@@ -261,6 +266,10 @@ Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
 
 [Update #3](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-3)
 
+### ASJ: Update 4
+
+[Update #4](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-4)
+
 ## andriidski
 
 Development updates from [`andriidski`](https://github.com/andriidski)
@@ -295,6 +304,10 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 6
 
 [Link to Update 6](https://cyclic-witch-ded.notion.site/Update-6-143a9752603b4e1c9a69111f9fe24b25)
+
+### Update 7
+
+[Link to Update 7](https://cyclic-witch-ded.notion.site/Update-7-2d11bcb9ad17451ab4f1612f567cc20a)
 
 ## Alpesh
 
@@ -779,6 +792,10 @@ Development updates from [`pavignol`](https://github.com/PatriceVignola)
 
 [Update #4](https://hackmd.io/@pavignol/BJPBqSEuj)
 
+### pavignol: Update 5
+
+[Update #5](https://hackmd.io/@pavignol/HJiCHr0Oi)
+
 ## Reza
 
 ### Reza: Update 1
@@ -952,6 +969,10 @@ Development updates from [`WillQ`](https://github.com/zsluedem/)
 ### WillQ: Update 7
 
 [Update #7](https://hackmd.io/@WillQ/B1eWz_rOs)
+
+### WillQ: Update 8
+
+[Update #8](https://hackmd.io/@WillQ/SyW8X5BOo)
 
 ## ZiadGhali
 

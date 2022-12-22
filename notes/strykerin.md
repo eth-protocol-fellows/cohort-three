@@ -52,3 +52,7 @@ I compiled here below the best talks about the p2p networking on ethereum I foun
 - [A Deep Dive into Go Ethereum](https://www.youtube.com/watch?v=c4N79UXZqSc&t=133s)
 - [Networking: Dev P2P, RPLx, Discovery, and Eth Wire Protocol](https://www.youtube.com/watch?v=CncTBr_a1Zk&t=654s)
 - [4 part video series going deeper on the p2p module on geth](https://www.youtube.com/watch?v=SRG1wzzSdes)
+
+### Update Dec 19th
+
+I started to implement the pong validation on the bond function for Endpoint Proof. You can see the full update [here](https://hackmd.io/8LLt1xaISAGFQDRgxt9G0Q)
