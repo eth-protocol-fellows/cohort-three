@@ -186,6 +186,7 @@
     - [Wanning Ding: Update 3](#wanning-ding-update-3)
     - [Wanning Ding: Update 4](#wanning-ding-update-4)
     - [Wanning Ding: Update 5](#wanning-ding-update-5)
+    - [Wanning Ding: Update 6](#wanning-ding-update-6)
   - [NC](#nc)
     - [NC: Update 1](#nc-update-1)
     - [NC: Update 2](#nc-update-2)
@@ -911,6 +912,10 @@ Development updates from [`Wanning Ding`](https://github.com/dwn1998)
 ### Wanning Ding: Update 5
 
 [Update 5](https://hackmd.io/@wanningD/rk4Keknvo)
+
+### Wanning Ding: Update 6
+
+[Update 6](https://hackmd.io/@wanningD/Bk5vmbfKi)
 
 ## NC
 
