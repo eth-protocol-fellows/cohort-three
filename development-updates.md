@@ -130,6 +130,7 @@
     - [manu: Update 3](#manu-update-3)
     - [manu: Update 4](#manu-update-4)
     - [manu: Update 5](#manu-update-5)
+    - [manu: Update 6](#manu-update-6)
   - [markodayan](#markodayan)
     - [markodayan: Update 1](#markodayan-update-1)
     - [markodayan: Update 2](#markodayan-update-2)
@@ -158,6 +159,7 @@
     - [pavignol: Update 3](#pavignol-update-3)
     - [pavignol: Update 4](#pavignol-update-4)
     - [pavignol: Update 5](#pavignol-update-5)
+    - [pavignol: Update 6](#pavignol-update-6)
   - [Reza](#reza)
     - [Reza: Update 1](#reza-update-1)
     - [Reza: Update 2](#reza-update-2)
@@ -691,6 +693,10 @@ Development updates from [`manu`](https://github.com/nalepa)
 
 [Update #5](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/SJ9zYkA_i)
 
+### manu: Update 6
+
+[Update #6](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/S1z6UBVKj)
+
 ## markodayan
 
 Development updates from [markodayan](https://github.com/markodayan)
@@ -802,6 +808,10 @@ Development updates from [`pavignol`](https://github.com/PatriceVignola)
 ### pavignol: Update 5
 
 [Update #5](https://hackmd.io/@pavignol/HJiCHr0Oi)
+
+### pavignol: Update 6
+
+[Update #6](https://hackmd.io/@pavignol/rys4G4EYs)
 
 ## Reza
 
