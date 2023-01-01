@@ -140,6 +140,8 @@ Our *expectations are exceeded* when several applications like block explorer or
 
 `Consensus clients`:
 - [Issue - Lighthouse](https://github.com/sigp/lighthouse/issues/3661)
+- [PR: Implement `sync_committee_rewards` API](https://github.com/sigp/lighthouse/pull/3790)
+- [PR: Implement `attestation_rewards` API](https://github.com/sigp/lighthouse/pull/3822)
 
 ---
 
@@ -151,3 +153,7 @@ Our *expectations are exceeded* when several applications like block explorer or
 - [Notes](https://github.com/eth-protocol-fellows/cohort-three/blob/master/notes/kevinbogner.md)
 - [Repo of a dashboard that later uses the APIs](https://github.com/kevinbogner/data-analysis-consensus-clients)
 - [Dashboard](https://kevinbogner-data-analysis-consensus-clients-app-lz484x.streamlit.app/)
+
+Meeting notes:
+- [Meeting 1](https://hackmd.io/@sproul/consensus-rewards-m1)
+- [Meeting 2](https://hackmd.io/@sproul/consensus-rewards-m2)
