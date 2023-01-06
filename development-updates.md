@@ -37,6 +37,7 @@
     - [Update 5](#update-5)
     - [Update 6](#update-6)
     - [Update 7](#update-7)
+    - [Update 8](#update-8)
   - [Alpesh](#alpesh)
     - [Update 1](#update-1-1)
     - [Update 2](#update-2-1)
@@ -72,7 +73,7 @@
     - [Update 2](#update-2-5)
     - [Update 3](#update-3-3)
     - [Update 4](#update-4-3)
-    - [Update 5](#update-5-1)
+    - [Update 5](#update-5-2)
     - [Update 6](#update-6-1)
   - [edgee](#edgee)
     - [edgee: Update 1](#edgee-update-1)
@@ -92,11 +93,11 @@
     - [Gabriel: Update 5](#gabriel-update-5)
     - [Gabriel: Update 6](#gabriel-update-6)
   - [Garvit](#garvit)
-    - [Garvit: Update #1](#garvit-update-1)
-    - [Garvit: Update #2](#garvit-update-2)
-    - [Garvit: Update #3](#garvit-update-3)
-    - [Garvit: Update #4](#garvit-update-4)
-    - [Garvit: Update #5](#garvit-update-5)
+    - [Garvit: Update 1](#garvit-update-1)
+    - [Garvit: Update 2](#garvit-update-2)
+    - [Garvit: Update 3](#garvit-update-3)
+    - [Garvit: Update 4](#garvit-update-4)
+    - [Garvit: Update 5](#garvit-update-5)
   - [Geemo](#geemo)
     - [Geemo: Update 1](#geemo-update-1)
   - [ignacio](#ignacio)
@@ -104,10 +105,10 @@
     - [Update #2](#update-2-6)
     - [Update #3](#update-3-4)
     - [Update #4](#update-4-4)
-    - [Update #5](#update-5-2)
+    - [Update #5](#update-5-3)
     - [Update #6](#update-6-2)
     - [Update #7](#update-7-1)
-    - [Update #8](#update-8)
+    - [Update #8](#update-8-1)
     - [Update #9](#update-9)
     - [Update #10](#update-10)
     - [Update #11](#update-11)
@@ -337,6 +338,10 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 7
 
 [Link to Update 7](https://cyclic-witch-ded.notion.site/Update-7-2d11bcb9ad17451ab4f1612f567cc20a)
+
+### Update 8
+
+[Link to Update 8](https://www.notion.so/8-Update-8-869a3baf6ce8445aaf6b490809fdfdb4)
 
 ## Alpesh
 
@@ -633,7 +638,6 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #11](https://hackmd.io/@jsign/cohort-three-update-11)
 
-
 ## Jimmy
 
 Development updates from [`jimmygchen`](https://github.com/jimmygchen)
@@ -751,6 +755,7 @@ Development updates from [`manu`](https://github.com/nalepa)
 [Update #6](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/S1z6UBVKj)
 
 ### manu: Update 7
+
 [Update #7](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/rJACV2Bqo)
 
 ## markodayan
