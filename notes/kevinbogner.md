@@ -5,6 +5,23 @@
 :computer: **Code: https://github.com/kevinbogner/data-analysis-consensus-clients**.
 
 ## Journal
+**[01/06/2023]**
+- Published [Dev Update #11](https://hackmd.io/@kevinbogner/dev-update-11).
+
+**[01/05/2023]**
+- Continue working on [`attestation_rewards`](https://github.com/sigp/lighthouse/commit/c7aa610401afad662001f695c7d55c1fc21bf0a2).
+
+**[01/04/2023]**
+- Keep working on [`attestation_rewards`](https://github.com/sigp/lighthouse/pull/3822). Implemented some [minor changes](https://github.com/sigp/lighthouse/commit/390f33147d9b1876ed2d3e3571e0e9628178d3ab) suggested by NC.
+
+**[01/03/2023]**
+- Attended Office Hours call #8 - AMA with Piper Merriam.
+- Received feedback from NC on the [`attestation_rewards`](https://github.com/sigp/lighthouse/pull/3822).
+
+**[01/02/2023]**
+- Attended standup call.
+- Building our branch manually to test our endpoints.
+
 **[12/29/2022]**
 - Published [Dev Update #10](https://hackmd.io/@kevinbogner/dev-update-10).
 
