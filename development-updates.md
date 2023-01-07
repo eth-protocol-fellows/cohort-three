@@ -976,7 +976,7 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 
 ### Vid Kersic: Update 7
 
-[Update 6](https://hackmd.io/@Vid201/epf-the-third-cohort-update-7) - **[07/01/2023]**
+[Update 7](https://hackmd.io/@Vid201/epf-the-third-cohort-update-7) - **[07/01/2023]**
 
 ## Wanning Ding
 
