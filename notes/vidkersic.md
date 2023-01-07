@@ -10,6 +10,8 @@ This is Vid. I'm R&D Engineer focused on blockchain, decentralization, decentral
 - Description: https://github.com/eth-protocol-fellows/cohort-three/blob/master/projects/4337-bundler-rust.md
 - Architecture and specification:  https://hackmd.io/@Vid201/aa-bundler-rust
 - GitHub repository: https://github.com/Vid201/aa-bundler/
+- Spec for EIP-4337 bundlers: https://github.com/eth-infinitism/bundler-spec
+- Test suites for EIP-4337 bundlers: https://github.com/eth-infinitism/bundler-spec-tests
 
 ### Updates
 
@@ -30,3 +32,6 @@ This is Vid. I'm R&D Engineer focused on blockchain, decentralization, decentral
 
 **[26/12/2022]**
 - [Update 6](https://hackmd.io/@Vid201/epf-the-third-cohort-update-6)
+
+**[07/01/2023]**
+- [Update 7](https://hackmd.io/@Vid201/epf-the-third-cohort-update-7)
