@@ -75,6 +75,7 @@
     - [Update 4](#update-4-3)
     - [Update 5](#update-5-2)
     - [Update 6](#update-6-1)
+    - [Update 7](#update-7)
   - [edgee](#edgee)
     - [edgee: Update 1](#edgee-update-1)
     - [edgee: Update 2](#edgee-update-2)
@@ -493,6 +494,10 @@ Development updates from [`Echo`](https://github.com/EchoAlice)
 ### Update 6
 
 [Update 6](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/BkKpQzaPs)
+
+### Update 7
+
+[Update 7](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/HJ-MOlLui)
 
 ## edgee
 
