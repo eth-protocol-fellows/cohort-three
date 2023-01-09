@@ -21,6 +21,7 @@
     - [Update 2022.11.29](#update-20221129)
     - [Update 2022.12.01](#update-20221201)
     - [Update 2022.12.15](#update-20221215)
+    - [Update 2023.01.09](#update-20230109)
   - [Abdul Sami J.](#abdul-sami-j)
     - [ASJ: Update 1](#asj-update-1)
     - [ASJ: Update 2](#asj-update-2)
@@ -274,6 +275,8 @@ Development updates from [Abel Jansma](https://github.com/AJnsm)
 ### [Update 2022.12.01](https://abeljansma.nl/2022/12/01/EPF7.html)
 
 ### [Update 2022.12.15](https://abeljansma.nl/2022/12/15/EPF8.html)
+
+### [Update 2023.01.09](https://arxiv.org/abs/2301.02281)
 
 ## Abdul Sami J.
 
