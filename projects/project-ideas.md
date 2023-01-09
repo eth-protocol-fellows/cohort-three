@@ -17,6 +17,7 @@ Here is a list of projects proposed by mentors. If you would like to know more a
 - [Consensus client reward APIs](#consensus-client-reward-apis)
 - [Stakers' testnet](#stakers-testnet)
 - [Optimism sequencer support for ERC 4337 bundlers](#optimism-sequencer-support-for-erc-4337-bundlers)
+- [In-protocol deposits flow prototype](#in-protocol-deposits-flow-prototype)
 
 ### Previous cohorts
 
@@ -143,3 +144,12 @@ An API endpoint that calculates the current supply of ETH. Create basic specific
 By Yoav Weiss
 
 Modify the Optimism (Bedrock) sequencer to add a new RPC for ERC-4337 (account abstraction) bundlers. The new RPC will enable submitting a transaction with certain conditions, and the sequencer will guarantee that the transaction will only be sequenced if these conditions are met. The RPC will be designed to mitigate DoS against the sequencer, require only minimal work from the sequencer, and throttle callers with poor inclusion ratio.
+
+### In-protocol deposits flow prototype
+
+By Mikhail Kalinin
+
+- Implement [EIP-6110](https://eips.ethereum.org/EIPS/eip-6110) and related Engine API [changes](https://github.com/ethereum/execution-apis/pull/340) in one of EL clients
+- Implement In-protocol deposits flow [#3177](https://github.com/ethereum/consensus-specs/pull/3177) proposal in one of CL clients
+- Provide developer's feedback to the specification
+- Run a devnet to prove that transition works (wait for transition and turn off the old machinery)
