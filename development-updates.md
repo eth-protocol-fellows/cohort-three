@@ -69,6 +69,7 @@
     - [Update #3](#update-3-2)
     - [Update #4](#update-4-2)
     - [Update #5](#update-5-1)
+    - [Update #6](#update-6-1)
   - [Echo](#echo)
     - [Update 1](#update-1-6)
     - [Update 2](#update-2-5)
@@ -468,6 +469,10 @@ Development updates from [`Echno`](https://github.com/ogechno)
 ### Update #5
 
 [Update #5](https://hackmd.io/@echno/S1_ssXJKj)
+
+### Update #6
+
+[Update #6](https://hackmd.io/@echno/update-6-rollup-relay)
 
 ## Echo
 
