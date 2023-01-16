@@ -74,3 +74,5 @@ The specification for EIP-4337 (latest stable) is available **[here](https://eip
 - [GitHub repository](https://github.com/Vid201/aa-bundler)
 - [Architecture and specification](https://hackmd.io/@Vid201/aa-bundler-rust)
 - [Vid's notes and development updates](https://github.com/eth-protocol-fellows/cohort-three/blob/master/notes/vidkersic.md) (you can find all the reading material, examined codebases and projects, and other useful things there)
+- [Spec for EIP-4337 bundlers](https://github.com/eth-infinitism/bundler-spec)
+- [Test suites for EIP-4337 bundlers](https://github.com/eth-infinitism/bundler-spec-tests)

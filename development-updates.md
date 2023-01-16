@@ -21,6 +21,7 @@
     - [Update 2022.11.29](#update-20221129)
     - [Update 2022.12.01](#update-20221201)
     - [Update 2022.12.15](#update-20221215)
+    - [Update 2023.01.09](#update-20230109)
   - [Abdul Sami J.](#abdul-sami-j)
     - [ASJ: Update 1](#asj-update-1)
     - [ASJ: Update 2](#asj-update-2)
@@ -28,6 +29,7 @@
     - [ASJ: Update 4](#asj-update-4)
     - [ASJ: Update 5](#asj-update-5)
     - [ASJ: Update 6](#asj-update-6)
+    - [ASJ: Update 7](#asj-update-7)
   - [andriidski](#andriidski)
   - [Anthony Madia](#anthony-madia)
     - [Update 1](#update-1)
@@ -53,6 +55,7 @@
     - [brechy: Update 3](#brechy-update-3)
     - [brechy: Update 4](#brechy-update-4)
     - [brechy: Update 5](#brechy-update-5)
+    - [brechy: Update 6](#brechy-update-6)
   - [Chloe](#chloe)
     - [Update 1](#update-1-3)
     - [Update 2](#update-2-3)
@@ -68,6 +71,7 @@
     - [Update #3](#update-3-2)
     - [Update #4](#update-4-2)
     - [Update #5](#update-5-1)
+    - [Update #6](#update-6-1)
   - [Echo](#echo)
     - [Update 1](#update-1-6)
     - [Update 2](#update-2-5)
@@ -75,6 +79,7 @@
     - [Update 4](#update-4-3)
     - [Update 5](#update-5-2)
     - [Update 6](#update-6-1)
+    - [Update 7](#update-7)
   - [edgee](#edgee)
     - [edgee: Update 1](#edgee-update-1)
     - [edgee: Update 2](#edgee-update-2)
@@ -112,6 +117,7 @@
     - [Update #9](#update-9)
     - [Update #10](#update-10)
     - [Update #11](#update-11)
+    - [Update #12](#update-12)
   - [Jimmy](#jimmy)
     - [Jimmy: Update 1](#jimmy-update-1)
     - [Jimmy: Update 2](#jimmy-update-2)
@@ -122,6 +128,7 @@
     - [Jimmy: Update 7](#jimmy-update-7)
     - [Jimmy: Update 8](#jimmy-update-8)
     - [Jimmy: Update 9](#jimmy-update-9)
+    - [Jimmy: Update 10](#jimmy-update-10)
   - [kevinbogner](#kevinbogner)
     - [kevinbogner: Update 1](#kevinbogner-update-1)
     - [kevinbogner: Update 2](#kevinbogner-update-2)
@@ -172,6 +179,7 @@
     - [pavignol: Update 5](#pavignol-update-5)
     - [pavignol: Update 6](#pavignol-update-6)
     - [pavignol: Update 7](#pavignol-update-7)
+    - [pavignol: Update 8](#pavignol-update-8)
   - [Reza](#reza)
     - [Reza: Update 1](#reza-update-1)
     - [Reza: Update 2](#reza-update-2)
@@ -186,6 +194,7 @@
     - [robzajac: Update 8](#robzajac-update-8)
     - [robzajac: Update 9](#robzajac-update-9)
     - [robzajac: Update 10](#robzajac-update-10)
+    - [robzajac: Update 11](#robzajac-update-11)
   - [strykerin](#strykerin)
     - [strykerin: Update 1](#strykerin-update-1)
     - [strykerin: Update 2](#strykerin-update-2)
@@ -196,6 +205,7 @@
     - [Vid Kersic: Update 4](#vid-kersic-update-4)
     - [Vid Kersic: Update 5](#vid-kersic-update-5)
     - [Vid Kersic: Update 6](#vid-kersic-update-6)
+    - [Vid Kersic: Update 7](#vid-kersic-update-7)
   - [Wanning Ding](#wanning-ding)
     - [Wanning Ding: Update 1](#wanning-ding-update-1)
     - [Wanning Ding: Update 2](#wanning-ding-update-2)
@@ -227,6 +237,7 @@
     - [WillQ: Update 8](#willq-update-8)
     - [WillQ: Update 9](#willq-update-9)
     - [WillQ: Update 10](#willq-update-10)
+    - [WillQ: Update 11](#willq-update-11)
   - [ZiadGhali](#ziadghali)
     - [ZiadGhali: Update 1](#ziadghali-update-1)
     - [ZiadGhali: Update 2](#ziadghali-update-2)
@@ -275,6 +286,8 @@ Development updates from [Abel Jansma](https://github.com/AJnsm)
 
 ### [Update 2022.12.15](https://abeljansma.nl/2022/12/15/EPF8.html)
 
+### [Update 2023.01.09](https://arxiv.org/abs/2301.02281)
+
 ## Abdul Sami J.
 
 Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
@@ -303,12 +316,17 @@ Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
 
 [Update #6](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-6)
 
+### ASJ: Update 7
+
+[Update #7](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-7)
+
 ## andriidski
 
 Development updates from [`andriidski`](https://github.com/andriidski)
 
 [Update #1](https://hackmd.io/@andriidski/rJ5ZM8ZBs)
 [Update #2](https://hackmd.io/@andriidski/HyDPy8bIj)
+[Update #3](https://hackmd.io/@andriidski/BJ7ksz-oi)
 
 ## Anthony Madia
 
@@ -406,6 +424,10 @@ Development updates from [`brechy`](https://github.com/brech1)
 
 [Update #5](https://hackmd.io/@brech1/epf-update-5)
 
+### brechy: Update 6
+
+[Update #6](https://hackmd.io/@brech1/epf-update-6)
+
 ## Chloe
 
 Development updates from [`doulos819`](https://github.com/doulos819)
@@ -464,6 +486,10 @@ Development updates from [`Echno`](https://github.com/ogechno)
 
 [Update #5](https://hackmd.io/@echno/S1_ssXJKj)
 
+### Update #6
+
+[Update #6](https://hackmd.io/@echno/update-6-rollup-relay)
+
 ## Echo
 
 Development updates from [`Echo`](https://github.com/EchoAlice)
@@ -493,6 +519,10 @@ Development updates from [`Echo`](https://github.com/EchoAlice)
 ### Update 6
 
 [Update 6](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/BkKpQzaPs)
+
+### Update 7
+
+[Update 7](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/HJ-MOlLui)
 
 ## edgee
 
@@ -641,6 +671,10 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #11](https://hackmd.io/@jsign/cohort-three-update-11)
 
+### Update #12
+
+[Link to Update #12](https://hackmd.io/@jsign/cohort-three-update-12)
+
 ## Jimmy
 
 Development updates from [`jimmygchen`](https://github.com/jimmygchen)
@@ -680,6 +714,10 @@ Development updates from [`jimmygchen`](https://github.com/jimmygchen)
 ### Jimmy: Update 9
 
 [Update #9](https://hackmd.io/@jimmygchen/SJ21bsH9o)
+
+### Jimmy: Update 10
+
+[Update #10](https://hackmd.io/@jimmygchen/ryyAai3qs)
 
 ## kevinbogner
 
@@ -881,6 +919,10 @@ Development updates from [`pavignol`](https://github.com/PatriceVignola)
 
 [Update #7](https://hackmd.io/@pavignol/SyCrHrTFi)
 
+### pavignol: Update 8
+
+[Update #8](https://hackmd.io/@pavignol/Bk9lheY5i)
+
 ## Reza
 
 ### Reza: Update 1
@@ -935,6 +977,10 @@ Development updates from [`robzajac`](https://github.com/robzajac)
 
 [Update #10](https://hackmd.io/@robzajac/ryaaKboti)
 
+### robzajac: Update 11
+
+[Update #11](https://hackmd.io/@robzajac/r1Q0Ea55j)
+
 ## strykerin
 
 Development updates from [`strykerin`](https://github.com/strykerin)
@@ -974,6 +1020,10 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 ### Vid Kersic: Update 6
 
 [Update 6](https://hackmd.io/@Vid201/epf-the-third-cohort-update-6) - **[26/12/2022]**
+
+### Vid Kersic: Update 7
+
+[Update 7](https://hackmd.io/@Vid201/epf-the-third-cohort-update-7) - **[07/01/2023]**
 
 ## Wanning Ding
 
@@ -1098,6 +1148,10 @@ Development updates from [`WillQ`](https://github.com/zsluedem/)
 ### WillQ: Update 10
 
 [Update #10](https://hackmd.io/@WillQ/rJhbTnJqj)
+
+### WillQ: Update 11
+
+[Update #11](https://hackmd.io/@WillQ/S1nNjeYcs)
 
 ## ZiadGhali
 
