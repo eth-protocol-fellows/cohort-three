@@ -5,6 +5,31 @@
 :computer: **Code: https://github.com/kevinbogner/data-analysis-consensus-clients**.
 
 ## Journal
+**[01/16/2023]**
+- Meeting with NC and sproul regarding the endpoints.
+- Attended standup call.
+
+**[01/14/2023]**
+- Research on [EIP-6110](https://eips.ethereum.org/EIPS/eip-6110) and its [Engine API changes](https://github.com/ethereum/execution-apis/blob/main/src/engine/experimental/eip6110.md).
+
+**[01/13/2023]**
+- [Minor fixes](https://github.com/sigp/lighthouse/commit/90e6fb72017e2ac056ec22d01db0dcc24da1ac15) on [`attestation_rewards`](https://github.com/sigp/lighthouse/pull/3822).
+- Sproul gave us [feedback](https://github.com/sigp/lighthouse/pull/3790#pullrequestreview-1246907504) on `sync_committee_rewards`.
+
+**[01/12/2023]**
+- Fixed some [errors](https://github.com/naviechan/lighthouse/commit/f3cc9d1ba0508856331782fbac1ec295f531053f) of [`attestation_rewards`](https://github.com/sigp/lighthouse/pull/3822).
+
+**[01/11/2023]**
+- Added [`actual_rewards`](https://github.com/naviechan/lighthouse/commit/9bcab4e89478899d1a5fb948e33aaa734dbfeeba) to [`attestation_rewards`](https://github.com/sigp/lighthouse/pull/3822).
+
+**[01/10/2023]**
+- Attended Office Hours call.
+- Added [`ideal_rewards`](https://github.com/sigp/lighthouse/commit/4cd7486d7eebbcadd6090f49c2934d48896cd65f) to [`attestation_rewards`](https://github.com/sigp/lighthouse/pull/3822).
+
+**[01/09/2023]**
+- Attended standup call.
+- Continued working on [`attestation_rewards`](https://github.com/sigp/lighthouse/pull/3822).
+
 **[01/06/2023]**
 - Published [Dev Update #11](https://hackmd.io/@kevinbogner/dev-update-11).
 

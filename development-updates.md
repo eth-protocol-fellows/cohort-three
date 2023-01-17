@@ -141,6 +141,7 @@
     - [kevinbogner: Update 9](#kevinbogner-update-9)
     - [kevinbogner: Update 10](#kevinbogner-update-10)
     - [kevinbogner: Update 11](#kevinbogner-update-11)
+    - [kevinbogner: Update 12](#kevinbogner-update-12)
   - [manu:](#manu)
     - [manu: Update 1](#manu-update-1)
     - [manu: Update 2](#manu-update-2)
@@ -766,6 +767,10 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 ### kevinbogner: Update 11
 
 [Update #11](https://hackmd.io/@kevinbogner/dev-update-11)
+
+### kevinbogner: Update 12
+
+[Update #12](https://hackmd.io/@kevinbogner/dev-update-12)
 
 ## manu:
 
