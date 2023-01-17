@@ -21,12 +21,16 @@
     - [Update 2022.11.29](#update-20221129)
     - [Update 2022.12.01](#update-20221201)
     - [Update 2022.12.15](#update-20221215)
+    - [Update 2023.01.09](#update-20230109)
   - [Abdul Sami J.](#abdul-sami-j)
     - [ASJ: Update 1](#asj-update-1)
     - [ASJ: Update 2](#asj-update-2)
     - [ASJ: Update 3](#asj-update-3)
     - [ASJ: Update 4](#asj-update-4)
     - [ASJ: Update 5](#asj-update-5)
+    - [ASJ: Update 6](#asj-update-6)
+    - [ASJ: Update 7](#asj-update-7)
+    - [ASJ: Update 8](#asj-update-8)
   - [andriidski](#andriidski)
   - [Anthony Madia](#anthony-madia)
     - [Update 1](#update-1)
@@ -36,6 +40,7 @@
     - [Update 5](#update-5)
     - [Update 6](#update-6)
     - [Update 7](#update-7)
+    - [Update 8](#update-8)
   - [Alpesh](#alpesh)
     - [Update 1](#update-1-1)
     - [Update 2](#update-2-1)
@@ -50,6 +55,8 @@
     - [brechy: Update 2](#brechy-update-2)
     - [brechy: Update 3](#brechy-update-3)
     - [brechy: Update 4](#brechy-update-4)
+    - [brechy: Update 5](#brechy-update-5)
+    - [brechy: Update 6](#brechy-update-6)
   - [Chloe](#chloe)
     - [Update 1](#update-1-3)
     - [Update 2](#update-2-3)
@@ -65,13 +72,15 @@
     - [Update #3](#update-3-2)
     - [Update #4](#update-4-2)
     - [Update #5](#update-5-1)
+    - [Update #6](#update-6-1)
   - [Echo](#echo)
     - [Update 1](#update-1-6)
     - [Update 2](#update-2-5)
     - [Update 3](#update-3-3)
     - [Update 4](#update-4-3)
-    - [Update 5](#update-5-1)
+    - [Update 5](#update-5-2)
     - [Update 6](#update-6-1)
+    - [Update 7](#update-7)
   - [edgee](#edgee)
     - [edgee: Update 1](#edgee-update-1)
     - [edgee: Update 2](#edgee-update-2)
@@ -103,12 +112,14 @@
     - [Update #2](#update-2-6)
     - [Update #3](#update-3-4)
     - [Update #4](#update-4-4)
-    - [Update #5](#update-5-2)
+    - [Update #5](#update-5-3)
     - [Update #6](#update-6-2)
     - [Update #7](#update-7-1)
-    - [Update #8](#update-8)
+    - [Update #8](#update-8-1)
     - [Update #9](#update-9)
     - [Update #10](#update-10)
+    - [Update #11](#update-11)
+    - [Update #12](#update-12)
   - [Jimmy](#jimmy)
     - [Jimmy: Update 1](#jimmy-update-1)
     - [Jimmy: Update 2](#jimmy-update-2)
@@ -118,6 +129,8 @@
     - [Jimmy: Update 6](#jimmy-update-6)
     - [Jimmy: Update 7](#jimmy-update-7)
     - [Jimmy: Update 8](#jimmy-update-8)
+    - [Jimmy: Update 9](#jimmy-update-9)
+    - [Jimmy: Update 10](#jimmy-update-10)
   - [kevinbogner](#kevinbogner)
     - [kevinbogner: Update 1](#kevinbogner-update-1)
     - [kevinbogner: Update 2](#kevinbogner-update-2)
@@ -129,6 +142,8 @@
     - [kevinbogner: Update 8](#kevinbogner-update-8)
     - [kevinbogner: Update 9](#kevinbogner-update-9)
     - [kevinbogner: Update 10](#kevinbogner-update-10)
+    - [kevinbogner: Update 11](#kevinbogner-update-11)
+    - [kevinbogner: Update 12](#kevinbogner-update-12)
   - [manu:](#manu)
     - [manu: Update 1](#manu-update-1)
     - [manu: Update 2](#manu-update-2)
@@ -136,6 +151,7 @@
     - [manu: Update 4](#manu-update-4)
     - [manu: Update 5](#manu-update-5)
     - [manu: Update 6](#manu-update-6)
+    - [manu: Update 7](#manu-update-7)
   - [markodayan](#markodayan)
     - [markodayan: Update 1](#markodayan-update-1)
     - [markodayan: Update 2](#markodayan-update-2)
@@ -145,6 +161,8 @@
     - [markodayan: Update 6](#markodayan-update-6)
     - [markodayan: Update 7](#markodayan-update-7)
     - [markodayan: Update 8](#markodayan-update-8)
+    - [markodayan: Update 9](#markodayan-update-9)
+    - [markodayan: Update 10](#markodayan-update-10)
   - [Mustapha Saeed](#mustapha-saeed)
     - [Mustapha Saeed: Update 1](#mustapha-saeed-update-1)
     - [Mustapha Saeed: Update 2](#mustapha-saeed-update-2)
@@ -165,6 +183,8 @@
     - [pavignol: Update 4](#pavignol-update-4)
     - [pavignol: Update 5](#pavignol-update-5)
     - [pavignol: Update 6](#pavignol-update-6)
+    - [pavignol: Update 7](#pavignol-update-7)
+    - [pavignol: Update 8](#pavignol-update-8)
   - [Reza](#reza)
     - [Reza: Update 1](#reza-update-1)
     - [Reza: Update 2](#reza-update-2)
@@ -178,6 +198,8 @@
     - [robzajac: Update 7](#robzajac-update-7)
     - [robzajac: Update 8](#robzajac-update-8)
     - [robzajac: Update 9](#robzajac-update-9)
+    - [robzajac: Update 10](#robzajac-update-10)
+    - [robzajac: Update 11](#robzajac-update-11)
   - [strykerin](#strykerin)
     - [strykerin: Update 1](#strykerin-update-1)
     - [strykerin: Update 2](#strykerin-update-2)
@@ -188,6 +210,7 @@
     - [Vid Kersic: Update 4](#vid-kersic-update-4)
     - [Vid Kersic: Update 5](#vid-kersic-update-5)
     - [Vid Kersic: Update 6](#vid-kersic-update-6)
+    - [Vid Kersic: Update 7](#vid-kersic-update-7)
   - [Wanning Ding](#wanning-ding)
     - [Wanning Ding: Update 1](#wanning-ding-update-1)
     - [Wanning Ding: Update 2](#wanning-ding-update-2)
@@ -195,6 +218,7 @@
     - [Wanning Ding: Update 4](#wanning-ding-update-4)
     - [Wanning Ding: Update 5](#wanning-ding-update-5)
     - [Wanning Ding: Update 6](#wanning-ding-update-6)
+    - [Wanning Ding: Update 7](#wanning-ding-update-7)
   - [NC](#nc)
     - [NC: Update 1](#nc-update-1)
     - [NC: Update 2](#nc-update-2)
@@ -205,6 +229,8 @@
     - [NC: Update 7](#nc-update-7)
     - [NC: Update 8](#nc-update-8)
     - [NC: Update 9](#nc-update-9)
+    - [NC: Update 10](#nc-update-10)
+    - [NC: Update 11](#nc-update-11)
   - [WillQ](#willq)
     - [WillQ: Update 1](#willq-update-1)
     - [WillQ: Update 2](#willq-update-2)
@@ -214,6 +240,10 @@
     - [WillQ: Update 6](#willq-update-6)
     - [WillQ: Update 7](#willq-update-7)
     - [WillQ: Update 8](#willq-update-8)
+    - [WillQ: Update 9](#willq-update-9)
+    - [WillQ: Update 10](#willq-update-10)
+    - [WillQ: Update 11](#willq-update-11)
+    - [WillQ: Update 12](#willq-update-12)
   - [ZiadGhali](#ziadghali)
     - [ZiadGhali: Update 1](#ziadghali-update-1)
     - [ZiadGhali: Update 2](#ziadghali-update-2)
@@ -262,6 +292,8 @@ Development updates from [Abel Jansma](https://github.com/AJnsm)
 
 ### [Update 2022.12.15](https://abeljansma.nl/2022/12/15/EPF8.html)
 
+### [Update 2023.01.09](https://arxiv.org/abs/2301.02281)
+
 ## Abdul Sami J.
 
 Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
@@ -286,12 +318,25 @@ Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
 
 [Update #5](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-5)
 
+### ASJ: Update 6
+
+[Update #6](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-6)
+
+### ASJ: Update 7
+
+[Update #7](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-7)
+
+### ASJ: Update 8
+
+[Update #8](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-8)
+
 ## andriidski
 
 Development updates from [`andriidski`](https://github.com/andriidski)
 
 [Update #1](https://hackmd.io/@andriidski/rJ5ZM8ZBs)
 [Update #2](https://hackmd.io/@andriidski/HyDPy8bIj)
+[Update #3](https://hackmd.io/@andriidski/BJ7ksz-oi)
 
 ## Anthony Madia
 
@@ -324,6 +369,10 @@ Development updates from [`AnthonyMadia`](https://github.com/AnthonyMadia)
 ### Update 7
 
 [Link to Update 7](https://cyclic-witch-ded.notion.site/Update-7-2d11bcb9ad17451ab4f1612f567cc20a)
+
+### Update 8
+
+[Link to Update 8](https://www.notion.so/8-Update-8-869a3baf6ce8445aaf6b490809fdfdb4)
 
 ## Alpesh
 
@@ -380,6 +429,14 @@ Development updates from [`brechy`](https://github.com/brech1)
 ### brechy: Update 4
 
 [Update #4](https://hackmd.io/@brech1/epf-update-4)
+
+### brechy: Update 5
+
+[Update #5](https://hackmd.io/@brech1/epf-update-5)
+
+### brechy: Update 6
+
+[Update #6](https://hackmd.io/@brech1/epf-update-6)
 
 ## Chloe
 
@@ -439,6 +496,10 @@ Development updates from [`Echno`](https://github.com/ogechno)
 
 [Update #5](https://hackmd.io/@echno/S1_ssXJKj)
 
+### Update #6
+
+[Update #6](https://hackmd.io/@echno/update-6-rollup-relay)
+
 ## Echo
 
 Development updates from [`Echo`](https://github.com/EchoAlice)
@@ -468,6 +529,10 @@ Development updates from [`Echo`](https://github.com/EchoAlice)
 ### Update 6
 
 [Update 6](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/BkKpQzaPs)
+
+### Update 7
+
+[Update 7](https://hackmd.io/@nWQbi7_nQnWPS0Xt_GbOVQ/HJ-MOlLui)
 
 ## edgee
 
@@ -616,6 +681,14 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #10](https://hackmd.io/@jsign/cohort-three-update-10)
 
+### Update #11
+
+[Link to Update #11](https://hackmd.io/@jsign/cohort-three-update-11)
+
+### Update #12
+
+[Link to Update #12](https://hackmd.io/@jsign/cohort-three-update-12)
+
 ## Jimmy
 
 Development updates from [`jimmygchen`](https://github.com/jimmygchen)
@@ -651,6 +724,14 @@ Development updates from [`jimmygchen`](https://github.com/jimmygchen)
 ### Jimmy: Update 8
 
 [Update #8](https://hackmd.io/@jimmygchen/rJ0KALCds)
+
+### Jimmy: Update 9
+
+[Update #9](https://hackmd.io/@jimmygchen/SJ21bsH9o)
+
+### Jimmy: Update 10
+
+[Update #10](https://hackmd.io/@jimmygchen/ryyAai3qs)
 
 ## kevinbogner
 
@@ -696,6 +777,14 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 
 [Update #10](https://hackmd.io/@kevinbogner/dev-update-10)
 
+### kevinbogner: Update 11
+
+[Update #11](https://hackmd.io/@kevinbogner/dev-update-11)
+
+### kevinbogner: Update 12
+
+[Update #12](https://hackmd.io/@kevinbogner/dev-update-12)
+
 ## manu:
 
 Development updates from [`manu`](https://github.com/nalepa)
@@ -723,6 +812,10 @@ Development updates from [`manu`](https://github.com/nalepa)
 ### manu: Update 6
 
 [Update #6](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/S1z6UBVKj)
+
+### manu: Update 7
+
+[Update #7](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/rJACV2Bqo)
 
 ## markodayan
 
@@ -759,6 +852,14 @@ Development updates from [markodayan](https://github.com/markodayan)
 ### markodayan: Update 8
 
 [Update #8 (12/12/22)](https://mkoz.notion.site/Update-8-12-12-22-3b539217c8a44d11b3b6a85199c01cc3)
+
+### markodayan: Update 9
+
+[Update #9 (09/01/23)](https://mkoz.notion.site/Update-9-09-01-23-90318e0ce0ae45d39fbd7df68497771d)
+
+### markodayan: Update 10
+
+[Update #10 (16/01/23)](https://mkoz.notion.site/Update-10-16-01-23-158841bb1ac74282a4bfaf8b9a689cce)
 
 ## Mustapha Saeed
 
@@ -840,6 +941,14 @@ Development updates from [`pavignol`](https://github.com/PatriceVignola)
 
 [Update #6](https://hackmd.io/@pavignol/rys4G4EYs)
 
+### pavignol: Update 7
+
+[Update #7](https://hackmd.io/@pavignol/SyCrHrTFi)
+
+### pavignol: Update 8
+
+[Update #8](https://hackmd.io/@pavignol/Bk9lheY5i)
+
 ## Reza
 
 ### Reza: Update 1
@@ -890,6 +999,14 @@ Development updates from [`robzajac`](https://github.com/robzajac)
 
 [Update #9](https://hackmd.io/@robzajac/H1YznGCdi)
 
+### robzajac: Update 10
+
+[Update #10](https://hackmd.io/@robzajac/ryaaKboti)
+
+### robzajac: Update 11
+
+[Update #11](https://hackmd.io/@robzajac/r1Q0Ea55j)
+
 ## strykerin
 
 Development updates from [`strykerin`](https://github.com/strykerin)
@@ -930,6 +1047,10 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 
 [Update 6](https://hackmd.io/@Vid201/epf-the-third-cohort-update-6) - **[26/12/2022]**
 
+### Vid Kersic: Update 7
+
+[Update 7](https://hackmd.io/@Vid201/epf-the-third-cohort-update-7) - **[07/01/2023]**
+
 ## Wanning Ding
 
 Development updates from [`Wanning Ding`](https://github.com/dwn1998)
@@ -957,6 +1078,10 @@ Development updates from [`Wanning Ding`](https://github.com/dwn1998)
 ### Wanning Ding: Update 6
 
 [Update 6](https://hackmd.io/@wanningD/Bk5vmbfKi)
+
+### Wanning Ding: Update 7
+
+[Update 7](https://hackmd.io/@wanningD/ryuyhpHqs)
 
 ## NC
 
@@ -998,6 +1123,14 @@ Development update from [`NC`](https://github.com/naviechan)
 
 [Update #9](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/S1PIcIdts)
 
+### NC: Update 10
+
+[Update #10](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/H1OH_-_5j)
+
+### NC: Update 11
+
+[Update #11](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/SynuaaMoo)
+
 ## WillQ
 
 Development updates from [`WillQ`](https://github.com/zsluedem/)
@@ -1033,6 +1166,22 @@ Development updates from [`WillQ`](https://github.com/zsluedem/)
 ### WillQ: Update 8
 
 [Update #8](https://hackmd.io/@WillQ/SyW8X5BOo)
+
+### WillQ: Update 9
+
+[Update #9](https://hackmd.io/@WillQ/BkeJcnk5s)
+
+### WillQ: Update 10
+
+[Update #10](https://hackmd.io/@WillQ/rJhbTnJqj)
+
+### WillQ: Update 11
+
+[Update #11](https://hackmd.io/@WillQ/S1nNjeYcs)
+
+### WillQ: Update 12
+
+[Update #12](https://hackmd.io/@WillQ/ryFCaOzsi)
 
 ## ZiadGhali
 

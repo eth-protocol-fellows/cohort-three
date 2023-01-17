@@ -41,10 +41,23 @@ These three reward types must be separately designed and implemented in both the
 {
   "data": [
     {
-      "validator_index": 0,
-      "head": 2000,
-      "target": 4000,
-      "source": 4000
+      "ideal_rewards": [
+        {
+          "effective_balance": "1000000000",
+          "head": "2500",
+          "target": "5000",
+          "source": "5000"
+        }
+      ],
+      "total_rewards": [
+        {
+          "validator_index": "0",
+          "head": "2000",
+          "target": "2000",
+          "source": "4000",
+          "inclusion_delay": "2000"
+        }
+      ]
     }
   ]
 }
