@@ -159,6 +159,8 @@
     - [markodayan: Update 6](#markodayan-update-6)
     - [markodayan: Update 7](#markodayan-update-7)
     - [markodayan: Update 8](#markodayan-update-8)
+    - [markodayan: Update 9](#markodayan-update-9)
+    - [markodayan: Update 10](#markodayan-update-10)
   - [Mustapha Saeed](#mustapha-saeed)
     - [Mustapha Saeed: Update 1](#mustapha-saeed-update-1)
     - [Mustapha Saeed: Update 2](#mustapha-saeed-update-2)
@@ -839,6 +841,14 @@ Development updates from [markodayan](https://github.com/markodayan)
 ### markodayan: Update 8
 
 [Update #8 (12/12/22)](https://mkoz.notion.site/Update-8-12-12-22-3b539217c8a44d11b3b6a85199c01cc3)
+
+### markodayan: Update 9
+
+[Update #9 (09/01/23)](https://mkoz.notion.site/Update-9-09-01-23-90318e0ce0ae45d39fbd7df68497771d)
+
+### markodayan: Update 10
+
+[Update #10 (16/01/23)](https://mkoz.notion.site/Update-10-16-01-23-158841bb1ac74282a4bfaf8b9a689cce)
 
 ## Mustapha Saeed
 
