@@ -107,6 +107,7 @@
     - [Garvit: Update #6](#garvit-update-6)
   - [Geemo](#geemo)
     - [Geemo: Update 1](#geemo-update-1)
+    - [Geemo: Update 2](#geemo-update-1)
   - [ignacio](#ignacio)
     - [Update #1](#update-1-8)
     - [Update #2](#update-2-6)
@@ -636,6 +637,10 @@ Development updates from [`geemo`](https://github.com/GeemoCandama)
 ### Geemo: Update 1
 
 [Update #1](https://hackmd.io/@geemo/Bkx7ev5Vs)
+
+### Geemo: Update 2
+
+[Update #2](https://hackmd.io/@geemo/rkbWsvNoi)
 
 ## ignacio
 
