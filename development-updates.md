@@ -99,11 +99,12 @@
     - [Gabriel: Update 5](#gabriel-update-5)
     - [Gabriel: Update 6](#gabriel-update-6)
   - [Garvit](#garvit)
-    - [Garvit: Update 1](#garvit-update-1)
-    - [Garvit: Update 2](#garvit-update-2)
-    - [Garvit: Update 3](#garvit-update-3)
-    - [Garvit: Update 4](#garvit-update-4)
-    - [Garvit: Update 5](#garvit-update-5)
+    - [Garvit: Update #1](#garvit-update-1)
+    - [Garvit: Update #2](#garvit-update-2)
+    - [Garvit: Update #3](#garvit-update-3)
+    - [Garvit: Update #4](#garvit-update-4)
+    - [Garvit: Update #5](#garvit-update-5)
+    - [Garvit: Update #6](#garvit-update-6)
   - [Geemo](#geemo)
     - [Geemo: Update 1](#geemo-update-1)
   - [ignacio](#ignacio)
@@ -623,6 +624,10 @@ Development updates from [`Garvit`](https://mirror.xyz/plusminushalf.eth)
 ### Garvit: Update 5
 
 [link](https://hackmd.io/@plusminushalf/update-5)
+
+### Garvit: Update 6
+
+[link](https://hackmd.io/@plusminushalf/update-6)
 
 ## Geemo
 
@@ -1177,6 +1182,7 @@ Development updates from [`WillQ`](https://github.com/zsluedem/)
 ### WillQ: Update 12
 
 [Update #12](https://hackmd.io/@WillQ/ryFCaOzsi)
+
 ## ZiadGhali
 
 Development updates from [`ZiadGhali`](https://github.com/ziadghali2)
