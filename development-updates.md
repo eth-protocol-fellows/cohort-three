@@ -123,6 +123,7 @@
     - [Update #10](#update-10)
     - [Update #11](#update-11)
     - [Update #12](#update-12)
+    - [Update #13](#update-13)
   - [Jimmy](#jimmy)
     - [Jimmy: Update 1](#jimmy-update-1)
     - [Jimmy: Update 2](#jimmy-update-2)
@@ -707,6 +708,11 @@ Development updates from [`jsign`](https://github.com/jsign)
 ### Update #12
 
 [Link to Update #12](https://hackmd.io/@jsign/cohort-three-update-12)
+
+### Update #13
+
+[Link to Update #13](https://hackmd.io/@jsign/cohort-three-update-13)
+
 
 ## Jimmy
 
