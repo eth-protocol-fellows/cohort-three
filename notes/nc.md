@@ -24,3 +24,5 @@
 * [Week 10 & 11 Notes](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/H1OH_-_5j)
 (9/1/23)
 * [Week 12 Notes](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/SynuaaMoo)
+(16/1/23)
+* [Week 13 Notes](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/BkGJ-3oio)
