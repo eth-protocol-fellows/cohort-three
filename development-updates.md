@@ -107,6 +107,7 @@
     - [Garvit: Update #4](#garvit-update-4)
     - [Garvit: Update #5](#garvit-update-5)
     - [Garvit: Update #6](#garvit-update-6)
+    - [Garvit: Update #7](#garvit-update-7)
   - [Geemo](#geemo)
     - [Geemo: Update 1](#geemo-update-1)
     - [Geemo: Update 2](#geemo-update-1)
@@ -645,6 +646,10 @@ Development updates from [`Garvit`](https://mirror.xyz/plusminushalf.eth)
 
 [link](https://hackmd.io/@plusminushalf/update-6)
 
+### Garvit: Update 7
+
+[link](https://hackmd.io/@plusminushalf/update-7)
+
 ## Geemo
 
 Development updates from [`geemo`](https://github.com/GeemoCandama)
@@ -712,7 +717,6 @@ Development updates from [`jsign`](https://github.com/jsign)
 ### Update #13
 
 [Link to Update #13](https://hackmd.io/@jsign/cohort-three-update-13)
-
 
 ## Jimmy
 
