@@ -76,3 +76,4 @@ The specification for EIP-4337 (latest stable) is available **[here](https://eip
 - [Vid's notes and development updates](https://github.com/eth-protocol-fellows/cohort-three/blob/master/notes/vidkersic.md) (you can find all the reading material, examined codebases and projects, and other useful things there)
 - [Spec for EIP-4337 bundlers](https://github.com/eth-infinitism/bundler-spec)
 - [Test suites for EIP-4337 bundlers](https://github.com/eth-infinitism/bundler-spec-tests)
+- [Draft of p2p specs for bundlers](https://github.com/JohnRising/4337-bundler-working-group/blob/p2p-specs/bundler-specs/p2p-interface.md)
