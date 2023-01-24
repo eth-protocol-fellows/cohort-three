@@ -12,6 +12,7 @@ This is Vid. I'm R&D Engineer focused on blockchain, decentralization, decentral
 - GitHub repository: https://github.com/Vid201/aa-bundler/
 - Spec for EIP-4337 bundlers: https://github.com/eth-infinitism/bundler-spec
 - Test suites for EIP-4337 bundlers: https://github.com/eth-infinitism/bundler-spec-tests
+- Draft of p2p specs for bundlers: https://github.com/JohnRising/4337-bundler-working-group/blob/p2p-specs/bundler-specs/p2p-interface.md
 
 ### Updates
 
@@ -35,3 +36,6 @@ This is Vid. I'm R&D Engineer focused on blockchain, decentralization, decentral
 
 **[07/01/2023]**
 - [Update 7](https://hackmd.io/@Vid201/epf-the-third-cohort-update-7)
+
+**[23/01/2023]**
+- [Update 8](https://hackmd.io/@Vid201/epf-the-third-cohort-update-8)
