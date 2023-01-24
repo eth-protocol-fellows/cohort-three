@@ -626,6 +626,22 @@ Development updates from [`0xGabi`](https://github.com/0xGabi)
 
 [Update #6](notes/0xgabi.md#12052022)
 
+### Gabriel: Update 7
+
+[Update #7](notes/0xgabi.md#12192022)
+
+### Gabriel: Update 8
+
+[Update #8](notes/0xgabi.md#12262022)
+
+### Gabriel: Update 9
+
+[Update #9](notes/0xgabi.md#01092023)
+
+### Gabriel: Update 10
+
+[Update #10](notes/0xgabi.md#01162023)
+
 ## Garvit
 
 Development updates from [`Garvit`](https://mirror.xyz/plusminushalf.eth)
