@@ -18,6 +18,7 @@ Here is a list of projects proposed by mentors. If you would like to know more a
 - [Stakers' testnet](#stakers-testnet)
 - [Optimism sequencer support for ERC 4337 bundlers](#optimism-sequencer-support-for-erc-4337-bundlers)
 - [In-protocol deposits flow prototype](#in-protocol-deposits-flow-prototype)
+- [Geth preimages db](#preimages)
 
 ### Previous cohorts
 
@@ -153,3 +154,9 @@ By Mikhail Kalinin
 - Implement In-protocol deposits flow [#3177](https://github.com/ethereum/consensus-specs/pull/3177) proposal in one of CL clients
 - Provide developer's feedback to the specification
 - Run a devnet to prove that transition works (wait for transition and turn off the old machinery)
+
+### Geth preimages database
+
+By Marius 
+
+Get all preimages from Geth (you can use --cache.preimages option to have all historical) and create a database of each preimage and its hash. Make it publically available, like a website where you can query hash and get its preimage or query preimage and get its hash. 
