@@ -52,6 +52,9 @@
     - [Bem Baraki: Update 1](#bem-baraki-update-1)
     - [Bem Baraki: Update 2](#bem-baraki-update-2)
     - [Bem Baraki: Update 3](#bem-baraki-update-3)
+    - [Bem Baraki: Update 4](#bem-baraki-update-4)
+    - [Bem Baraki: Update 5](#bem-baraki-update-5)
+    - [Bem Baraki: Update 6](#bem-baraki-update-6)
   - [brechy](#brechy)
     - [brechy: Update 1](#brechy-update-1)
     - [brechy: Update 2](#brechy-update-2)
@@ -431,6 +434,18 @@ Development updates from [`Bem Baraki`](https://github.com/bemTG)
 ### Bem Baraki: Update 3
 
 [Update #3](https://hackmd.io/@BemBaraki/BJbijqIIi)
+
+### Bem Baraki: Update 4
+
+[Update #4](https://hackmd.io/@BemBaraki/SyzM4HfDs)
+
+### Bem Baraki: Update 5
+
+[Update #5](https://hackmd.io/@BemBaraki/Hyi2hnfdj)
+
+### Bem Baraki: Update 6
+
+[Update #6](https://hackmd.io/@BemBaraki/By__VTDus)
 
 ## brechy
 
