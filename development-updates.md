@@ -55,6 +55,8 @@
     - [Bem Baraki: Update 4](#bem-baraki-update-4)
     - [Bem Baraki: Update 5](#bem-baraki-update-5)
     - [Bem Baraki: Update 6](#bem-baraki-update-6)
+    - [Bem Baraki: Update 7](#bem-baraki-update-7)
+    - [Bem Baraki: Update 8](#bem-baraki-update-8)
   - [brechy](#brechy)
     - [brechy: Update 1](#brechy-update-1)
     - [brechy: Update 2](#brechy-update-2)
@@ -446,6 +448,14 @@ Development updates from [`Bem Baraki`](https://github.com/bemTG)
 ### Bem Baraki: Update 6
 
 [Update #6](https://hackmd.io/@BemBaraki/By__VTDus)
+
+### Bem Baraki: Update 7
+
+[Update #7](https://jovian.com/b-b100/initial-investigation-into-local-network-latency-and-capturing-live-reorgs-35d33)
+
+### Bem Baraki: Update 8
+
+[Update #8](https://hackmd.io/@BemBaraki/r1D3sTZjj)
 
 ## brechy
 
