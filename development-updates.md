@@ -203,6 +203,7 @@
     - [pavignol: Update 6](#pavignol-update-6)
     - [pavignol: Update 7](#pavignol-update-7)
     - [pavignol: Update 8](#pavignol-update-8)
+    - [pavignol: Update 9](#pavignol-update-9)
   - [Reza](#reza)
     - [Reza: Update 1](#reza-update-1)
     - [Reza: Update 2](#reza-update-2)
@@ -1060,6 +1061,10 @@ Development updates from [`pavignol`](https://github.com/PatriceVignola)
 ### pavignol: Update 8
 
 [Update #8](https://hackmd.io/@pavignol/Bk9lheY5i)
+
+### pavignol: Update 9
+
+[Update #9](https://hackmd.io/@pavignol/HJ_J78L3o)
 
 ## Reza
 
