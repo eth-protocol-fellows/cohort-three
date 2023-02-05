@@ -258,6 +258,7 @@
     - [NC: Update 10](#nc-update-10)
     - [NC: Update 11](#nc-update-11)
     - [NC: Update 12](#nc-update-12)
+    - [NC: Update 13](#nc-update-13)
   - [WillQ](#willq)
     - [WillQ: Update 1](#willq-update-1)
     - [WillQ: Update 2](#willq-update-2)
@@ -1284,6 +1285,10 @@ Development update from [`NC`](https://github.com/naviechan)
 ### NC: Update 12
 
 [Update #12](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/BkGJ-3oio)
+
+### NC: Update 13
+
+[Update #13](https://hackmd.io/@doPpmyH4Ta-4Yc8pq3u-ZA/BkQKSAn2s)
 
 ## WillQ
 
