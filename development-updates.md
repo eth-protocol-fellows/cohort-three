@@ -187,6 +187,8 @@
     - [markodayan: Update 9](#markodayan-update-9)
     - [markodayan: Update 10](#markodayan-update-10)
     - [markodayan: Update 11](#markodayan-update-11)
+    - [markodayan: Update 12](#markodayan-update-12)
+    - [markodayan: Update 13](#markodayan-update-13)
   - [Mustapha Saeed](#mustapha-saeed)
     - [Mustapha Saeed: Update 1](#mustapha-saeed-update-1)
     - [Mustapha Saeed: Update 2](#mustapha-saeed-update-2)
@@ -813,7 +815,6 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #14](https://hackmd.io/@jsign/cohort-three-update-14)
 
-
 ## Jimmy
 
 Development updates from [`jimmygchen`](https://github.com/jimmygchen)
@@ -1009,6 +1010,14 @@ Development updates from [markodayan](https://github.com/markodayan)
 ### markodayan: Update 11
 
 [Update #11 (23/01/23)](https://mkoz.notion.site/Update-11-23-01-23-6ac930dec0304859bd2095c3bca96181)
+
+### markodayan: Update 12
+
+[Update #12 (23/01/23)](https://mkoz.notion.site/Update-12-30-01-23-c982cdb290f843a8ba0e4e6641c122ca)
+
+### markodayan: Update 13
+
+[Update #13 (06/02/23)](https://mkoz.notion.site/Update-13-06-02-23-111d2040cef047c1a433933cc690a078)
 
 ## Mustapha Saeed
 
