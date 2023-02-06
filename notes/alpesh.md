@@ -17,8 +17,17 @@ Week[1]: Review the recommended reading list
 
 Week[2-3]: Contact mentors and finalise the project
 
-Week[4-5]:
+Week[4-5]: First meeting with the mentors to discuss the project scope and deliverables
 
-Week[6-7]:
+Week[6-7]: Define the project scope and discuss the specificaitons in more details with the mentors
 
-Week[7-8]:
+Week[8-9]: Start analysing the PySpec for Capella and understand how it works
+
+Week[10-11]: Implement the proof-of-concept validator pubkey-change features on top of Capella Specs
+
+Week[12-13]: Write test cases for the implementation to perform sanity checks
+
+Week[14-15]: Review the implementation with the mentors and work on the feedback received
+
+Week[16-17]: Wrap up the development and start working on the report/presentation
+
