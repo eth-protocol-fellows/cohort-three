@@ -175,6 +175,7 @@
     - [manu: Update 6](#manu-update-6)
     - [manu: Update 7](#manu-update-7)
     - [manu: Update 8](#manu-update-8)
+    - [manu: Update 9](#manu-update-9)
   - [markodayan](#markodayan)
     - [markodayan: Update 1](#markodayan-update-1)
     - [markodayan: Update 2](#markodayan-update-2)
@@ -962,6 +963,10 @@ Development updates from [`manu`](https://github.com/nalepa)
 ### manu: Update 8
 
 [Update #8](https://hackmd.io/oEYTZJVhTOCpAPqHWr8jwQ)
+
+### manu: Update 9
+
+[Update #9](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/B1rmqKRnj)
 
 ## markodayan
 
