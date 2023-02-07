@@ -281,6 +281,7 @@
     - [WillQ: Update 11](#willq-update-11)
     - [WillQ: Update 12](#willq-update-12)
     - [WillQ: Update 13](#willq-update-13)
+    - [WillQ: Update 14](#willq-update-14)
   - [ZiadGhali](#ziadghali)
     - [ZiadGhali: Update 1](#ziadghali-update-1)
     - [ZiadGhali: Update 2](#ziadghali-update-2)
@@ -1382,9 +1383,13 @@ Development updates from [`WillQ`](https://github.com/zsluedem/)
 
 [Update #12](https://hackmd.io/@WillQ/ryFCaOzsi)
 
-### WillQ: Update 12
+### WillQ: Update 13
 
 [Update #13](https://hackmd.io/@WillQ/BJnthjEno)
+
+### WillQ: Update 14
+
+[Update #14](https://hackmd.io/@WillQ/H12ry503s)
 
 ## ZiadGhali
 
