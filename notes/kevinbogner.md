@@ -5,6 +5,20 @@
 :computer: **Code: https://github.com/kevinbogner/data-analysis-consensus-clients**.
 
 ## Journal
+**[02/07/2023]**
+- Published [Dev Update #14](https://hackmd.io/@kevinbogner/dev-update-14).
+- Attended Office Hours call #13.
+
+**[02/06/2023]**
+- Got the [`attestation_rewards`](https://github.com/sigp/lighthouse/pull/3822) merged. 
+- NC got the [`block_rewards`](https://github.com/sigp/lighthouse/pull/3907) merged.
+
+**[02/02/2023]**
+- Working on an error that was caused by [this](https://github.com/sigp/lighthouse/pull/3822/commits/e8c93ffd79026d9ca8e517df747a99173ba1f071) commit, where pubkeys and validators aren`t accepted as request bodies.
+
+**[02/01/2023]**
+- Searching for test data to check if validators that are not eligible receive `0` rewards for their three votes.
+
 **[01/31/2023]**
 - Attended Office Hours call #12.
 - Published [Dev Update #13](https://hackmd.io/@kevinbogner/dev-update-13).

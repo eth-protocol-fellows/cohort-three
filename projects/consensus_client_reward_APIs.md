@@ -155,6 +155,7 @@ Our *expectations are exceeded* when several applications like block explorer or
 - [Issue - Lighthouse](https://github.com/sigp/lighthouse/issues/3661)
 - [PR: Implement `sync_committee_rewards` API](https://github.com/sigp/lighthouse/pull/3790)
 - [PR: Implement `attestation_rewards` API](https://github.com/sigp/lighthouse/pull/3822)
+- [PR: Implement `block_rewards` API](https://github.com/sigp/lighthouse/pull/3907)
 
 ---
 
