@@ -72,6 +72,9 @@
     - [Update 4](#update-4-1)
   - [Crypdough.eth](#crypdougheth)
     - [Update 1](#update-1-4)
+    - [Update 2](#update-2-4)
+    - [Update 3](#update-3-1)
+    - [Update 4](#update-4-1)
   - [Dhruv](#dhruv)
     - [dhruv: Update 1](#dhruv-update-1)
   - [Echno](#echno)
@@ -538,6 +541,18 @@ Development updates from [`Crypdough.eth`](https://github.com/crypdoughdoteth)
 ### Update 1
 
 [Update #1](https://hackmd.io/@crypdoughdoteth/ryhxMp9Vo)
+
+### Update 2
+
+[R&D Update #2](https://mirror.xyz/crypdough.eth/DFs0kTU0rdL9jgSikXjQH250JhkMvOsZ4ZJ9ndy-vEc)
+
+### Update 3
+
+[R&D Update #3](https://mirror.xyz/crypdough.eth/WceXwbQcaZ0HCu_zgAIQsXmTOZM1rw85ILO0KVOxVCs)
+
+### Update 4
+
+[R&D Update #4](https://mirror.xyz/crypdough.eth/TgDe93dBZYzGtq4xDLFJO9teA3UyGgLQ4cVFtaR4PfY)
 
 ## Dhruv
 
