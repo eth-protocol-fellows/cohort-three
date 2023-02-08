@@ -45,6 +45,15 @@
   - [Alpesh](#alpesh)
     - [Update 1](#update-1-1)
     - [Update 2](#update-2-1)
+    - [Update 3](#update-3-1)
+    - [Update 4](#update-4-1)
+    - [Update 5](#update-5-1)
+    - [Update 6](#update-6-1)
+    - [Update 7](#update-7-1)
+    - [Update 8](#update-8-1)
+    - [Update 9](#update-9-1)
+    - [Update 10](#update-10-1)
+    - [Update 11](#update-11-1)
   - [ballestar](#ballestar)
     - [Update 1](#update-1-2)
     - [Update 2](#update-2-2)
@@ -192,8 +201,6 @@
     - [markodayan: Update 9](#markodayan-update-9)
     - [markodayan: Update 10](#markodayan-update-10)
     - [markodayan: Update 11](#markodayan-update-11)
-    - [markodayan: Update 12](#markodayan-update-12)
-    - [markodayan: Update 13](#markodayan-update-13)
   - [Mustapha Saeed](#mustapha-saeed)
     - [Mustapha Saeed: Update 1](#mustapha-saeed-update-1)
     - [Mustapha Saeed: Update 2](#mustapha-saeed-update-2)
@@ -247,7 +254,6 @@
     - [Vid Kersic: Update 6](#vid-kersic-update-6)
     - [Vid Kersic: Update 7](#vid-kersic-update-7)
     - [Vid Kersic: Update 8](#vid-kersic-update-8)
-    - [Vid Kersic: Update 9](#vid-kersic-update-9)
   - [Wanning Ding](#wanning-ding)
     - [Wanning Ding: Update 1](#wanning-ding-update-1)
     - [Wanning Ding: Update 2](#wanning-ding-update-2)
@@ -433,6 +439,42 @@ Development updates from ['Alpesh'](https://github.com/abhudia04)
 ### Update 2
 
 [Link to Update 2](https://hackmd.io/@alpesh/SyTasizro)
+
+### Update 3
+
+[Link to Update 3](https://hackmd.io/@alpesh/SyTasizro)
+
+### Update 4
+
+[Link to Update 4](https://hackmd.io/@alpesh/SyTasizro)
+
+### Update 5
+
+[Link to Update 5](https://hackmd.io/@alpesh/SyTasizro)
+
+### Update 6
+
+[Link to Update 6](https://hackmd.io/@alpesh/SyTasizro)
+
+### Update 7
+
+[Link to Update 7](https://hackmd.io/@alpesh/SyTasizro)
+
+### Update 8
+
+[Link to Update 8](https://hackmd.io/@alpesh/SyTasizro)
+
+### Update 9
+
+[Link to Update 9](https://hackmd.io/@alpesh/SyTasizro)
+
+### Update 10
+
+[Link to Update 10](https://hackmd.io/@alpesh/SyTasizro)
+
+### Update 11
+
+[Link to Update 11](https://hackmd.io/@alpesh/SyTasizro)
 
 ## ballestar
 
@@ -833,6 +875,7 @@ Development updates from [`jsign`](https://github.com/jsign)
 
 [Link to Update #14](https://hackmd.io/@jsign/cohort-three-update-14)
 
+
 ## Jimmy
 
 Development updates from [`jimmygchen`](https://github.com/jimmygchen)
@@ -1036,14 +1079,6 @@ Development updates from [markodayan](https://github.com/markodayan)
 ### markodayan: Update 11
 
 [Update #11 (23/01/23)](https://mkoz.notion.site/Update-11-23-01-23-6ac930dec0304859bd2095c3bca96181)
-
-### markodayan: Update 12
-
-[Update #12 (23/01/23)](https://mkoz.notion.site/Update-12-30-01-23-c982cdb290f843a8ba0e4e6641c122ca)
-
-### markodayan: Update 13
-
-[Update #13 (06/02/23)](https://mkoz.notion.site/Update-13-06-02-23-111d2040cef047c1a433933cc690a078)
 
 ## Mustapha Saeed
 
@@ -1254,10 +1289,6 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 ### Vid Kersic: Update 8
 
 [Update 8](https://hackmd.io/@Vid201/epf-the-third-cohort-update-8) - **[23/01/2023]**
-
-### Vid Kersic: Update 9
-
-[Update 9](https://hackmd.io/@Vid201/epf-the-third-cohort-update-9) - **[06/02/2023]**
 
 ## Wanning Ding
 
