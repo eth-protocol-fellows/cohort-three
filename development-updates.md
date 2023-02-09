@@ -135,6 +135,7 @@
     - [Geemo: Update 1](#geemo-update-1)
     - [Geemo: Update 2](#geemo-update-2)
     - [Geemo: Update 3](#geemo-update-3)
+    - [Geemo: Update 4](#geemo-update-4)
   - [ignacio](#ignacio)
     - [Update #1](#update-1-8)
     - [Update #2](#update-2-6)
@@ -814,6 +815,10 @@ Development updates from [`geemo`](https://github.com/GeemoCandama)
 ### Geemo: Update 3
 
 [Update #3](https://hackmd.io/@geemo/Hk0MZILhj)
+
+### Geemo: Update 4
+
+[Update #4](https://hackmd.io/@geemo/rJl6Jtz6s)
 
 ## ignacio
 
