@@ -35,3 +35,7 @@ List of updates with submission date and link to the hackmd file.
 ### Seventh Update - 30/01/2023
 
  - [Link](https://hackmd.io/@brech1/epf-update-7)
+
+### Eighth Update - 11/02/2023
+
+ - [Link](https://hackmd.io/@brech1/epf-update-8)
