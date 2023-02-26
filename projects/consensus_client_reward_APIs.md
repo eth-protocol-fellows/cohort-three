@@ -146,6 +146,9 @@ Our *expectations are exceeded* when several applications like block explorer or
 
 
 ## Resources
+[Final Update](https://hackmd.io/@kevinbogner/final-dev-update)
+
+---
 
 [`Beacon-APIs`](https://github.com/ethereum/beacon-APIs):
 - [PR: Add reward-endpoints for `attestations` and `blocks`](https://github.com/ethereum/beacon-APIs/pull/260)
