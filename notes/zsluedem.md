@@ -54,3 +54,36 @@ I am also doing some research on the [compiling EVM bytecodes to MSIL bytecodes]
 
 **[06/02/2023-19/02/2023]
 - [Update 15](https://hackmd.io/@WillQ/ry2kEhvpj)
+
+- [Final Update](https://hackmd.io/@WillQ/rJcuhb5Co)
+
+## Final update
+
+As I reach the end of my journey with the Ethereum Fellowship Protocol, I'm proud to share my final update with all of you. Over the past few weeks, I've been involved in several exciting projects that have helped me to grow as a developer and contributed to the Ethereum ecosystem.
+
+Firstly, I've been working on the aa-bundler with Vid, which is an abstract account bundler responsible for bundling EIP4337 UserOperations together and sending them to ETH clients. This component plays a vital role in the EIP4337 and I've been working on creating a database version of UserOperation to improve its efficiency. In addition, I've also been reviewing PRs from Vid and adding tests for aa-bundler.
+
+Secondly, I've been contributing to the ethers-rs geth, a Rust library for interacting with the Ethereum network. Specifically, I submitted a PR that added the debug API configuration to the library, making it easier for developers to debug smart contracts. I also submited a pr to create a pr adding debug_traceCall to anvil which is  Local Ethereum node, akin to Ganache, Hardhat Network.
+
+Finally, I've been exploring the IL-EVM project, a C# implementation of the Ethereum Virtual Machine (EVM) that aims to provide a more efficient and faster alternative to the current implementation. While I didn't achieve the results I was hoping for, the experience of working on this project has taught me a lot about how the EVM works and given me valuable insights into the development process of such projects.
+
+Overall, I'm incredibly grateful for the opportunity to be a part of the Ethereum Fellowship Protocol and work alongside such talented developers. I'm proud of the work I've done and the contributions I've made to the Ethereum ecosystem. Thank you all for your support and guidance along the way. I look forward to continuing to contribute to the Ethereum community and being a part of its exciting future.
+
+# Pull Request work
+
+* https://github.com/Vid201/aa-bundler/pull/17
+* https://github.com/Vid201/aa-bundler/pull/20
+* https://github.com/Vid201/aa-bundler/pull/21
+* https://github.com/Vid201/aa-bundler/pull/25
+* https://github.com/Vid201/aa-bundler/pull/26
+* https://github.com/Vid201/aa-bundler/pull/29
+* https://github.com/Vid201/aa-bundler/pull/31
+* https://github.com/Vid201/aa-bundler/pull/32
+* https://github.com/Vid201/aa-bundler/pull/38
+* https://github.com/Vid201/aa-bundler/pull/40
+* https://github.com/Vid201/aa-bundler/pull/49
+* https://github.com/Vid201/aa-bundler/pull/55
+* https://github.com/gakonst/ethers-rs/pull/2140
+* https://github.com/gakonst/ethers-rs/pull/2056
+* https://github.com/gakonst/ethers-rs/pull/2012
+* https://github.com/foundry-rs/foundry/pull/3990
