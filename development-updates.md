@@ -32,6 +32,8 @@
     - [ASJ: Update 7](#asj-update-7)
     - [ASJ: Update 8](#asj-update-8)
     - [ASJ: Update 9](#asj-update-9)
+    - [ASJ: Update 10](#asj-update-10)
+    - [ASJ: Final Update](#asj-final-update)
   - [andriidski](#andriidski)
   - [Anthony Madia](#anthony-madia)
     - [Update 1](#update-1)
@@ -403,6 +405,14 @@ Development updates from [`Abdul Sami J.`](https://github.com/abdulsamijay)
 ### ASJ: Update 9
 
 [Update #9](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-9)
+
+### ASJ: Update 10
+
+[Update #10](https://hackmd.io/@abdulsamijay/EPF-Dev-Update-10)
+
+### ASJ: Final Update
+
+[Final Update](https://hackmd.io/@abdulsamijay/EPF-Final-Dev-Update)
 
 ## andriidski
 
