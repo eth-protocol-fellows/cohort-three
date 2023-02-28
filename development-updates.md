@@ -83,6 +83,8 @@
     - [Update #6](#update-6-1)
     - [Update #7](#update-7-1)
     - [Update #8](#update-8-1)
+    - [Update #9](#update-9-1)
+    - [Update #10](#update-10-1)
   - [Echo](#echo)
     - [Update 1](#update-1-6)
     - [Update 2](#update-2-5)
@@ -166,6 +168,8 @@
     - [kevinbogner: Update 11](#kevinbogner-update-11)
     - [kevinbogner: Update 12](#kevinbogner-update-12)
     - [kevinbogner: Update 13](#kevinbogner-update-13)
+    - [kevinbogner: Update 14](#kevinbogner-update-14)
+    - [kevinbogner: Final Update](#kevinbogner-final-update)
   - [manu:](#manu)
     - [manu: Update 1](#manu-update-1)
     - [manu: Update 2](#manu-update-2)
@@ -175,6 +179,9 @@
     - [manu: Update 6](#manu-update-6)
     - [manu: Update 7](#manu-update-7)
     - [manu: Update 8](#manu-update-8)
+    - [manu: Update 9](#manu-update-9)
+    - [manu: Update 10](#manu-update-10)
+    - [manu: Final Update](#manu-final-update)
   - [markodayan](#markodayan)
     - [markodayan: Update 1](#markodayan-update-1)
     - [markodayan: Update 2](#markodayan-update-2)
@@ -213,6 +220,7 @@
     - [pavignol: Update 7](#pavignol-update-7)
     - [pavignol: Update 8](#pavignol-update-8)
     - [pavignol: Update 9](#pavignol-update-9)
+    - [pavignol: Final Update](#pavignol-final-update)
   - [Reza](#reza)
     - [Reza: Update 1](#reza-update-1)
     - [Reza: Update 2](#reza-update-2)
@@ -578,6 +586,14 @@ Development updates from [`Echno`](https://github.com/ogechno)
 
 [Update #8](https://hackmd.io/@echno/update-8)
 
+### Update #9
+
+[Update #9](https://hackmd.io/@echno/update-9)
+
+### Update #10
+
+[Update #10](https://hackmd.io/@echno/final-update)
+
 ## Echo
 
 Development updates from [`Echo`](https://github.com/EchoAlice)
@@ -927,6 +943,15 @@ Development updates from [`kevinbogner`](https://github.com/kevinbogner)
 
 [Update #13](https://hackmd.io/@kevinbogner/dev-update-13)
 
+
+### kevinbogner: Update 14
+
+[Update #14](https://hackmd.io/@kevinbogner/dev-update-14)
+
+### kevinbogner: Final Update
+
+[Final Update](https://hackmd.io/@kevinbogner/final-dev-update)
+
 ## manu:
 
 Development updates from [`manu`](https://github.com/nalepa)
@@ -962,6 +987,17 @@ Development updates from [`manu`](https://github.com/nalepa)
 ### manu: Update 8
 
 [Update #8](https://hackmd.io/oEYTZJVhTOCpAPqHWr8jwQ)
+
+### manu: Update 9
+
+[Update #9](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/B1rmqKRnj)
+
+### manu: Update 10
+
+[Update #10](https://hackmd.io/UGYhoqGPQXKxv0OQNG_YNA)
+
+### manu: Final Update
+[Final Update](https://hackmd.io/@XtC1qtBSR0mS_RoZpeZ0Bw/SJyxIC50j)
 
 ## markodayan
 
@@ -1115,6 +1151,10 @@ Development updates from [`pavignol`](https://github.com/PatriceVignola)
 
 [Update #9](https://hackmd.io/@pavignol/HJ_J78L3o)
 
+### pavignol: Final Update
+
+[Final Update](https://hackmd.io/@pavignol/rJ0wVdtRj)
+
 ## Reza
 
 ### Reza: Update 1
@@ -1232,6 +1272,18 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 ### Vid Kersic: Update 8
 
 [Update 8](https://hackmd.io/@Vid201/epf-the-third-cohort-update-8) - **[23/01/2023]**
+
+### Vid Kersic: Update 9
+
+[Update 9](https://hackmd.io/@Vid201/epf-the-third-cohort-update-9) - **[06/02/2023]**
+
+### Vid Kersic: Update 10
+
+[Update 10](https://hackmd.io/@Vid201/epf-the-third-cohort-update-10) - **[19/02/2023]**
+
+### Vid Kersic: Final Update
+
+[Final Update](https://hackmd.io/@Vid201/epf-the-third-cohort-final-update) - **[25/02/2023]**
 
 ## Wanning Ding
 
