@@ -49,21 +49,21 @@ Create a research based working implementation that:
 - Dial to the discovered peers using libp2p swarm.
 - Receive and decode messages of the subscribed topics.
 
-### Implementation In Feature Branch - Jan 23
+### Req/Res Protocol Implementation - Jan 23
 
-- Migrate working implementation to the feature branch.
-- Achieve all project requirements.
-- Review integration.
+- Implement and test the Request/Response protocol and test compatibility for the different clients.
 
-### Benchmarking - Feb 23
+### MWI Debugging - Feb 23
 
-- Work on code optimization.
-- Assess the increase resource requirements of the final working implementation.
-- Final report.
+- Test the implementation with different clients and fix any issues found.
+- Complete reports for the final EPF updates
 
-## Possible challenges
+## Challenges
 
-I see the biggest challenge in making the Discovery and P2P Network services to work steadily and with a clear interaction between them (query management). It’s of big importance that the data flow is stable and that depends on both of them. The discovery filtering and gossipsub configuration should also be thought thoroughly.
+As a main challenge, keep a stable amount of peers connected to provide reliable data. This is a very important aspect of the project, since the data flow is dependant on it. Aspects of the protocol that could lead to this not being a stable amount are:
+
+ - Peer Scoring
+ - Client Compatibilities
 
 As a second challenge I find making an optimized solution. This implementation is being made for a light client, which by nature will live in a constrained environment. Its important that the finalized code does not increase the need of networking or other resources in a big way.
 
@@ -71,13 +71,7 @@ As a second challenge I find making an optimized solution. This implementation i
 
 This project will succeed if Helios is able to fetch and decode all the required consensus layer data to track the head of the chain, the latest state roots and the aggregated sync committee attestations, in a stable and reliable manner.
 
-## Collaborators
-
-### Fellows
-
-- [Mustapha Saeed](https://github.com/mustaphasaeed)
-
-### Mentors
+## Mentors
 
 - [Alex Stokes](https://github.com/ralexstokes) - EF Consensus Research
 
