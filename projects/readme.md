@@ -20,7 +20,7 @@ List of projects of EPF cohort three. Check also project presentations from [Off
 15. [Prysm Beacon API Compliant Validator](#prysm-beacon-api-compliant-validator)
 16. [Reducing Trust in Relay](#reducing-trust-in-relay)
 17. [Project Uncloak](#project-uncloak)
-18. [Untitled Rollup Service](#untitled-rollup-service)
+18. [Holon(A rollup analytics software suite)](#holon)
 19. [Validator Signing Key Revocation](#validator-signing-key-revocation)
 20. [Verkle Trie Migration Exploration](#verkle-trie-migration-exploration)
 
@@ -57,7 +57,7 @@ Fellows: [`kevinbogner`](https://github.com/kevinbogner), [`NC`](https://github.
 
 ## EOFv1
 
-Fellows: @ @crypdoughdoteth
+Fellows: @crypdoughdoteth
 
 [EOFv1.md](EOFv1.md)
 
@@ -73,6 +73,12 @@ Fellows: @brech1
 
 [helios-cl-p2p.md](helios-cl-p2p.md)
 
+## Holon (A rollup analytics software suite)
+
+Fellows: @markodayan
+
+[holon.md](holon.md)
+
 ## Improving Censorship Resistance
 
 Fellows: @wslyvh
@@ -86,7 +92,6 @@ Fellows: @ @robzajac
 [light-client-consensus-layer.md](light-client-consensus-layer.md)
 
 ## MEV in Open Games
-
 
 Fellows: @AJnsm
 [mevInOpenGames.md](mevInOpenGames.md)
