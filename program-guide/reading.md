@@ -11,6 +11,7 @@ Here are some starting points for learning about the Ethereum protocol.
 - Basic technical details of Ethereum Blockchain Protocol (Vitalik Buterin): https://youtu.be/gjwr-7PgpN8
 - Ethereum in 30 minutes (Vitalik Buterin): https://youtu.be/UihMqcj-cqc
 - [Inevitable Ethereum](https://inevitableeth.com/site/content) provides a wiki kind of content convering many basic and advanced research topics 
+- [Ethereum Design Rationale](https://web.archive.org/web/20211121044757/https://ethereumbuilders.gitbooks.io/guide/content/en/design_rationale.html) is an older document describing design principles of Ethereum 
 
 ### Yellow Paper
 - Yellow Paper: https://ethereum.github.io/yellowpaper/paper.pdf  (accompanying cheat sheet: [Cheat sheet link](https://github.com/benjaminion/YellowPaper_CheatSheet/blob/master/YPCheatSheet.pdf))
