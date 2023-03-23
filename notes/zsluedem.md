@@ -48,3 +48,9 @@ I am also doing some research on the [compiling EVM bytecodes to MSIL bytecodes]
 
 **[16/01/2023-29/01/2023]
 - [Update 13](https://hackmd.io/@WillQ/BJnthjEno)
+
+**[30/01/2023-05/02/2023]
+- [Update 14](https://hackmd.io/@WillQ/H12ry503s)
+
+**[06/02/2023-19/02/2023]
+- [Update 15](https://hackmd.io/@WillQ/ry2kEhvpj)

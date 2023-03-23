@@ -39,3 +39,12 @@ This is Vid. I'm R&D Engineer focused on blockchain, decentralization, decentral
 
 **[23/01/2023]**
 - [Update 8](https://hackmd.io/@Vid201/epf-the-third-cohort-update-8)
+
+**[06/02/2023]**
+- [Update 9](https://hackmd.io/@Vid201/epf-the-third-cohort-update-9)
+
+**[19/02/2023]**
+- [Update 10](https://hackmd.io/@Vid201/epf-the-third-cohort-update-10)
+
+**[25/02/2023]**
+- [Final Update](https://hackmd.io/@Vid201/epf-the-third-cohort-final-update)

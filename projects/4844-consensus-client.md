@@ -105,7 +105,26 @@ Lighthouse team:
 
 ## Resources
 
-- [Lighthouse EIP-4844 Tracking](https://github.com/sigp/lighthouse/issues/3625)
-- [Lighthouse Architecture](https://hackmd.io/@jimmygchen/Sk9oPHO8s)
+- [EPF Final Dev Update](https://hackmd.io/@jimmygchen/Sy_Z5qj0j)
+- [My Rust Journey](https://hackmd.io/@jimmygchen/r17PNqmri)
 - [Builder API For Blobs](https://hackmd.io/@jimmygchen/B1dLR74Io)
+- [Lighthouse Beacon Node Architecture](https://hackmd.io/@jimmygchen/Sk9oPHO8s)
 - [Blobscan Explorer](https://0xgabi.notion.site/Blobscan-b42ab695f3464f3f8e90a3ec0e211156)
+
+### Pull Requests
+
+| PR Link                                                                              | Description                                                                                                                                                                             | PR Merged? |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----------:|
+| [beacon-APIs#271](https://github.com/ethereum/beacon-APIs/pull/271)                  | Add Capella & 4844 types to Beacon API                                                                                                                                                  |     ✅     |
+| [builder-specs#60](https://github.com/ethereum/builder-specs/pull/60)                | Builder spec update for Capella                                                                                                                                                         |     ✅     |
+| [builder-specs#61](https://github.com/ethereum/builder-specs/pull/61)                | Builder spec update for Deneb                                                                                                                                                           |     🚧     |
+| [ethereum-consensus#168](https://github.com/ralexstokes/ethereum-consensus/pull/168) | Rust library update: add Capella types and presets                                                                                                                                      |     ✅     |
+| [ethereum-consensus#170](https://github.com/ralexstokes/ethereum-consensus/pull/170) | Rust library update: add 4844 types and presets                                                                                                                                         |     🚧     |
+| [mev-rs#77](https://github.com/ralexstokes/mev-rs/pull/77)                           | Rust library update: add 4844 types                                                                                                                                                     |     🚧     |
+| [lighthouse#3808](https://github.com/sigp/lighthouse/pull/3808)                      | Lighthouse draft implementation                                                                                                                                                         |     🚧     |
+| [eip4844-interop#77](https://github.com/Inphi/eip4844-interop/pull/77)               | Added Lighthouse to `eip4844-interop`, a testing tool created by [@Inphi](https://github.com/Inphi) to help with 4844 interop testing and testing some of the key features of EIP-4844. |     ✅     |
+| [devnet-v3](https://github.com/jimmygchen/devnet-v3)                                 | docker-compose setup for devnet-v3 (Lighthouse + Geth)                                                                                                                                  |     ✅     |
+| [lighthouse#3830](https://github.com/sigp/lighthouse/pull/3830)                      | Implement a Beacon API endpoint in Lighthouse to support retrieval of blobs, and endpoint for users and testing                                                                         |     ✅     |
+| [beacon-APIs#282](https://github.com/ethereum/beacon-APIs/pull/286)                  | Add the above download blob endpoint to the standard spec                                                                                                                               |     🚧     |
+| [lighthouse#3979](https://github.com/sigp/lighthouse/pull/3979)                      | Implement Lighthouse Blob signing APIs and VC signing functionalities                                                                                                                   |     🚧     |
+| [lighthouse#3936](https://github.com/sigp/lighthouse/pull/3936)                      | Rate limiting historic backfill sync                                                                                                                                                    |     🚧     |
