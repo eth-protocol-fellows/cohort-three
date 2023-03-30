@@ -431,6 +431,7 @@ Development updates from [`andriidski`](https://github.com/andriidski)
 [Update #3](https://hackmd.io/@andriidski/BJ7ksz-oi)
 [Update #4](https://hackmd.io/@andriidski/SyVsac13s)
 [Update #5](https://hackmd.io/@andriidski/B1i_-1v3i)
+[Update #6](https://hackmd.io/@andriidski/B1IPW-Cln)
 
 ## Anthony Madia
 
